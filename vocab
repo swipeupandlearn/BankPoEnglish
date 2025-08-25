@@ -2,14 +2,14 @@
   {
     "topic": "Starts with A",
     "subtopics": [
-      {
-        "subtopic": "Abate",
-        "content": "meaning: To become less intense or widespread\nsynonyms: diminish, decrease, subside, decline, reduce\nantonyms: intensify, escalate, increase, amplify, heighten"
-      },
-      {
-        "subtopic": "Aberration",
-        "content": "meaning: A departure from what is normal or expected\nsynonyms: anomaly, deviation, irregularity, abnormality\nantonyms: normality, conformity, regularity, usualness"
-      },
+     {
+      "subtopic": "Abate",
+      "content": "• **MEANING:** To become less intense or widespread\n• **SYNONYMS:** diminish, decrease, subside, decline, reduce\n• **ANTONYMS:** intensify, escalate, increase, amplify, heighten"
+    },
+    {
+      "subtopic": "Aberration",
+      "content": "• **MEANING:** A departure from what is normal or expected\n• **SYNONYMS:** anomaly, deviation, irregularity, abnormality\n• **ANTONYMS:** normality, conformity, regularity, usualness"
+    },
       {
         "subtopic": "Abstain",
         "content": "meaning: To refrain from doing or consuming something\nsynonyms: refrain, desist, avoid, withhold, renounce\nantonyms: indulge, partake, engage, embrace, consume"
