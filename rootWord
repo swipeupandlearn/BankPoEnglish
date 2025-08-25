@@ -3,12 +3,12 @@
     "topic": "1. English Root Words",
     "subtopics": [
       {
-        "subtopic": "What is Root Word",
-        "content": "• A root word is the most basic form of a word, to which prefixes and suffixes can be added to create new words.\n• मूल शब्द वह सबसे बुनियादी शब्द होता है, जिसमें उपसर्ग और प्रत्यय जोड़कर नए शब्द बनाए जाते हैं।"
+        "subtopic": "What is root word",
+        "content": "• A root word is the most basic form of a word, to which prefixes and suffixes can be added to create new words."
       },
       {
-        "subtopic": "Why we use Root Words",
-        "content": "• Root words help us understand the meaning of complex words by breaking them down into their basic components.\n• वे हमें कठिन शब्दों का अर्थ समझने में मदद करते हैं।\n• They provide clues about the meaning of unfamiliar words, making it easier to decipher their definitions.\n• वे अनजाने शब्दों का अर्थ जानने के लिए संकेत प्रदान करते हैं।\n• Understanding root words can enhance vocabulary and improve language skills.\n• मूल शब्दों को समझने से शब्दावली और भाषा कौशल में सुधार होता है।"
+        "subtopic": "Why we use root word",
+        "content": "• Root words help us understand the meaning of complex words by breaking them down into their basic components.\n• They provide clues about the meaning of unfamiliar words, making it easier to decipher their definitions.\n• Understanding root words can enhance vocabulary and improve language skills."
       }
     ]
   },
@@ -16,8 +16,8 @@
     "topic": "2. Root Word - Mal",
     "subtopics": [
       {
-        "subtopic": "Mal",
-        "content": "• MEANING:- bad, evil (Latin origin)\n• अर्थ:- बुरा, बुराई (लैटिन)\n\n• EXAMPLES:-\n1. Malignment – defame something badly (बदनाम करना)\n2. Malice – evil intention (दुर्भावना)\n3. Maltreat – treat someone badly (दुर्व्यवहार करना)\n4. Malfunction – working badly (खराब कार्य करना)\n5. Dismal – a gloomy situation (निराशाजनक स्थिति)\n6. Maleficent – someone who deliberately causes harm (हानि पहुँचाने वाला)\n\n• NOTE:- All the words with root 'mal' give a negative connotation.\n• नोट:- 'mal' से बने सभी शब्द नकारात्मक अर्थ रखते हैं।"
+        "subtopic": "Mal → Bad, Evil (बुरा, बुराई)",
+        "content": "• MEANING:- bad, evil (Latin origin)\n• अर्थ:- बुरा, बुराई (लैटिन)\n\n• EXAMPLES:-\n1. Malice = mal (bad) + ice (state) → evil intention (दुर्भावना)\n2. Maltreat = mal (bad) + treat (handle) → treat badly (दुर्व्यवहार करना)\n3. Malfunction = mal (bad) + function (working) → working badly (खराब कार्य करना)\n4. Dismal = dis (apart) + mal (bad) → gloomy situation (निराशाजनक स्थिति)\n5. Maleficent = mal (bad) + fic (do/make) → one who does harm (हानिकारक)\n\n• NOTE:- Words with 'mal' root mostly give a negative meaning."
       }
     ]
   },
@@ -25,8 +25,35 @@
     "topic": "3. Root Word - Phobia",
     "subtopics": [
       {
-        "subtopic": "Phobia",
-        "content": "• MEANING:- fear, dislike (Greek origin)\n• अर्थ:- भय, नापसंद (यूनानी)\n\n• EXAMPLES:-\n1. Demophobia – fear of people/public speaking (जनता का भय)\n2. Zoophobia – fear of animals (जानवरों का भय)\n3. Theophobia – fear of God/religion (ईश्वर या धर्म का भय)\n4. Pedophobia – dislike/fear of children (बच्चों से भय या नापसंद)\n5. Gynophobia – dislike/fear of women (महिलाओं से भय या नापसंद)\n\n• NOTE:- All the words with root 'phobia' indicate some kind of fear or dislike.\n• नोट:- 'phobia' से बने सभी शब्द भय या नापसंद को दर्शाते हैं।"
+        "subtopic": "Phobia → Fear, Dislike (डर, नापसंद)",
+        "content": "• MEANING:- fear, dislike (Greek origin)\n• अर्थ:- डर, नापसंद (यूनानी)\n\n• EXAMPLES:-\n1. Demophobia = demo (people) + phobia (fear) → fear of people/crowd (भीड़ से डर)\n2. Zoophobia = zoo (animals) + phobia (fear) → fear of animals (जानवरों से डर)\n3. Theophobia = theo (God) + phobia (fear) → fear of God/religion (ईश्वर से डर)\n4. Pedophobia = pedo (child) + phobia (fear) → fear/dislike of children (बच्चों से डर)\n5. Gynophobia = gyno (woman) + phobia (fear) → fear/dislike of women (महिलाओं से डर)\n\n• NOTE:- 'Phobia' always indicates an intense fear or dislike of something."
+      }
+    ]
+  },
+  {
+    "topic": "4. Root Word - Bene",
+    "subtopics": [
+      {
+        "subtopic": "Bene → Good, Well (अच्छा, भला)",
+        "content": "• MEANING:- good, well (Latin origin)\n• अर्थ:- अच्छा, भला (लैटिन)\n\n• EXAMPLES:-\n1. Benefit = bene (good) + fit (make/do) → something good (लाभ)\n2. Benevolent = bene (good) + vol (wish) → kind, well-wishing (दयालु)\n3. Benefactor = bene (good) + factor (doer) → one who does good (परोपकारी)\n4. Beneficial = bene (good) + ficial (making) → helpful, useful (लाभकारी)\n5. Benediction = bene (good) + diction (speak) → blessing (आशीर्वाद)\n\n• NOTE:- Words with 'bene' root always indicate goodness, kindness, or benefit."
+      }
+    ]
+  },
+  {
+    "topic": "5. Root Word - Bio",
+    "subtopics": [
+      {
+        "subtopic": "Bio → Life (जीवन)",
+        "content": "• MEANING:- life (Greek origin)\n• अर्थ:- जीवन (यूनानी)\n\n• EXAMPLES:-\n1. Biology = bio (life) + logy (study) → study of life (जीव विज्ञान)\n2. Biography = bio (life) + graphy (writing) → life story (जीवनी)\n3. Biodegradable = bio (life) + degrade (break down) → can be broken by living organisms (जैविक रूप से नष्ट होने योग्य)\n4. Antibiotic = anti (against) + bio (life) → medicine against bacteria (प्रतिजैविक)\n5. Biometrics = bio (life) + metrics (measurement) → measurement of life features (जैविक माप)\n\n• NOTE:- 'Bio' root always relates to life or living organisms."
+      }
+    ]
+  },
+  {
+    "topic": "6. Root Word - Chron",
+    "subtopics": [
+      {
+        "subtopic": "Chron → Time (समय)",
+        "content": "• MEANING:- time (Greek origin)\n• अर्थ:- समय (यूनानी)\n\n• EXAMPLES:-\n1. Chronology = chron (time) + logy (study) → study of events in order of time (कालक्रम)\n2. Synchronize = syn (together) + chron (time) → happening at same time (एक साथ होना)\n3. Chronic = chron (time) → lasting for a long time (दीर्घकालिक)\n4. Anachronism = ana (against) + chron (time) → something out of its time (कालभ्रम)\n5. Chronicle = chron (time) + icle (record) → historical account of events (इतिहास विवरण)\n\n• NOTE:- 'Chron' root words always relate to time."
       }
     ]
   }
