@@ -1,5 +1,5 @@
 [
- {
+  {
     "topic": "Starts with A",
     "subtopics": [
       {
@@ -43,38 +43,49 @@
         "content": "• MEANING:- Having mixed feelings or contradictory ideas\n• दुविधा, मिश्रित भावना\n\n• SYNONYMS:- uncertain, conflicted, undecided, hesitant, equivocal\n\n• ANTONYMS:- certain, clear, definite, decided, resolved"
       }
     ]
-  }
-,
+  },
   {
     "topic": "Starts with B",
     "subtopics": [
       {
-        "subtopic": "Benevolent",
-        "content": "meaning: Well meaning and kindly\nsynonyms: kind, generous, charitable, compassionate, altruistic\nantonyms: malevolent, cruel, selfish, harsh, unkind"
+        "subtopic": "1. Banal",
+        "content": "• MEANING:- Lacking originality; boring and predictable\n• साधारण, नीरस\n\n• SYNONYMS:- trite, clichéd, commonplace, dull, ordinary\n\n• ANTONYMS:- original, fresh, unique, interesting, innovative"
       },
       {
-        "subtopic": "Bolster",
-        "content": "meaning: To support or strengthen\nsynonyms: reinforce, boost, fortify, support, uphold\nantonyms: weaken, undermine, hinder, obstruct, reduce"
+        "subtopic": "2. Benevolent",
+        "content": "• MEANING:- Well-meaning and kindly\n• दयालु, उदार\n\n• SYNONYMS:- kind, charitable, compassionate, generous, altruistic\n\n• ANTONYMS:- malevolent, cruel, selfish, unkind, harsh"
       },
       {
-        "subtopic": "Brazen",
-        "content": "meaning: Bold and without shame\nsynonyms: shameless, audacious, brash, impudent, daring\nantonyms: humble, timid, modest, shy, respectful"
+        "subtopic": "3. Benign",
+        "content": "• MEANING:- Gentle and kindly; not harmful\n• हानिरहित, सौम्य\n\n• SYNONYMS:- harmless, kind, gentle, friendly, mild\n\n• ANTONYMS:- malignant, harmful, hostile, dangerous, severe"
       },
       {
-        "subtopic": "Burgeon",
-        "content": "meaning: To grow or expand rapidly\nsynonyms: flourish, thrive, prosper, multiply, escalate\nantonyms: decline, diminish, shrink, wither, decrease"
+        "subtopic": "4. Berate",
+        "content": "• MEANING:- To scold or criticize angrily\n• डाँटना, फटकारना\n\n• SYNONYMS:- rebuke, scold, reprimand, reproach, upbraid\n\n• ANTONYMS:- praise, compliment, applaud, approve, commend"
       },
       {
-        "subtopic": "Buttress",
-        "content": "meaning: To provide support or justification\nsynonyms: support, strengthen, uphold, reinforce, sustain\nantonyms: weaken, undermine, oppose, hinder, obstruct"
+        "subtopic": "5. Bolster",
+        "content": "• MEANING:- To support or strengthen\n• सहारा देना, मज़बूत करना\n\n• SYNONYMS:- support, reinforce, boost, strengthen, uphold\n\n• ANTONYMS:- weaken, undermine, hinder, obstruct, harm"
       },
       {
-        "subtopic": "Bellicose",
-        "content": "meaning: Demonstrating aggression and willingness to fight\nsynonyms: hostile, aggressive, warlike, combative, belligerent\nantonyms: peaceful, friendly, nonviolent, pacifist, calm"
+        "subtopic": "6. Brazen",
+        "content": "• MEANING:- Bold and without shame\n• निर्लज्ज, बेहया\n\n• SYNONYMS:- shameless, audacious, bold, impudent, brash\n\n• ANTONYMS:- shy, timid, humble, modest, respectful"
       },
       {
-        "subtopic": "Banal",
-        "content": "meaning: Lacking originality; boring\nsynonyms: trite, clichéd, overused, dull, commonplace\nantonyms: original, fresh, innovative, creative, unique"
+        "subtopic": "7. Brevity",
+        "content": "• MEANING:- Concise and exact use of words\n• संक्षिप्तता, अल्पता\n\n• SYNONYMS:- conciseness, shortness, succinctness, terseness, compression\n\n• ANTONYMS:- lengthiness, verbosity, wordiness, expansiveness, long-windedness"
+      },
+      {
+        "subtopic": "8. Burgeon",
+        "content": "• MEANING:- To grow or expand rapidly\n• तेजी से बढ़ना, फलना-फूलना\n\n• SYNONYMS:- flourish, thrive, expand, prosper, increase\n\n• ANTONYMS:- decline, diminish, wither, shrink, decrease"
+      },
+      {
+        "subtopic": "9. Buttress",
+        "content": "• MEANING:- To support, reinforce or defend\n• सहारा देना, मज़बूत करना\n\n• SYNONYMS:- support, strengthen, uphold, reinforce, defend\n\n• ANTONYMS:- weaken, undermine, damage, hinder, obstruct"
+      },
+      {
+        "subtopic": "10. Byzantine",
+        "content": "• MEANING:- Excessively complicated and intricate\n• अत्यधिक जटिल\n\n• SYNONYMS:- complex, complicated, convoluted, intricate, elaborate\n\n• ANTONYMS:- simple, straightforward, clear, uncomplicated, plain"
       }
     ]
   },
@@ -82,36 +93,64 @@
     "topic": "Starts with C",
     "subtopics": [
       {
-        "subtopic": "Cajole",
-        "content": "meaning: Persuade someone by flattery or gentle urging\nsynonyms: coax, persuade, entice, flatter, wheedle\nantonyms: bully, force, repel, discourage, dissuade"
+        "subtopic": "1. Cacophony",
+        "content": "• MEANING:- A harsh, discordant mixture of sounds\n• कर्कश ध्वनि, बेसुरा शोर\n\n• SYNONYMS:- noise, discord, clamor, din, racket\n\n• ANTONYMS:- harmony, melody, silence, peace, quiet"
       },
       {
-        "subtopic": "Candor",
-        "content": "meaning: The quality of being open and honest in expression\nsynonyms: honesty, frankness, sincerity, openness, truthfulness\nantonyms: deceit, dishonesty, concealment, evasion, lying"
+        "subtopic": "2. Cajole",
+        "content": "• MEANING:- To persuade someone by flattery or coaxing\n• मनाना, खुशामद करना\n\n• SYNONYMS:- coax, persuade, wheedle, flatter, entice\n\n• ANTONYMS:- bully, force, discourage, dissuade, repel"
       },
       {
-        "subtopic": "Capitulate",
-        "content": "meaning: To surrender or give in after resistance\nsynonyms: yield, submit, concede, succumb, surrender\nantonyms: resist, fight, oppose, persist, defy"
+        "subtopic": "3. Callous",
+        "content": "• MEANING:- Showing or having an insensitive and cruel disregard for others\n• निर्दयी, कठोर\n\n• SYNONYMS:- heartless, insensitive, ruthless, unfeeling, harsh\n\n• ANTONYMS:- compassionate, kind, caring, sensitive, humane"
       },
       {
-        "subtopic": "Caustic",
-        "content": "meaning: Sarcastic in a scathing and bitter way; also capable of burning\nsynonyms: corrosive, biting, sarcastic, harsh, cutting\nantonyms: mild, gentle, soothing, kind, bland"
+        "subtopic": "4. Candor",
+        "content": "• MEANING:- The quality of being open and honest in expression\n• स्पष्टवादिता, ईमानदारी\n\n• SYNONYMS:- honesty, frankness, openness, sincerity, truthfulness\n\n• ANTONYMS:- dishonesty, deceit, lying, falsehood, hypocrisy"
       },
       {
-        "subtopic": "Censure",
-        "content": "meaning: To express strong disapproval\nsynonyms: criticize, condemn, rebuke, denounce, reprimand\nantonyms: praise, approve, commend, support, endorse"
+        "subtopic": "5. Capitulate",
+        "content": "• MEANING:- Cease to resist; surrender\n• आत्मसमर्पण करना, हार मानना\n\n• SYNONYMS:- surrender, yield, submit, concede, give in\n\n• ANTONYMS:- resist, fight, conquer, oppose, win"
       },
       {
-        "subtopic": "Chicanery",
-        "content": "meaning: The use of trickery to achieve a purpose\nsynonyms: deception, fraud, trickery, dishonesty, subterfuge\nantonyms: honesty, truthfulness, openness, sincerity, candor"
+        "subtopic": "6. Capricious",
+        "content": "• MEANING:- Given to sudden changes of mood or behavior\n• चंचल, सनकी\n\n• SYNONYMS:- unpredictable, fickle, whimsical, impulsive, erratic\n\n• ANTONYMS:- stable, consistent, steady, reliable, predictable"
       },
       {
-        "subtopic": "Concur",
-        "content": "meaning: To agree or have the same opinion\nsynonyms: agree, coincide, consent, harmonize, approve\nantonyms: disagree, dissent, oppose, contradict, differ"
+        "subtopic": "7. Castigate",
+        "content": "• MEANING:- To criticize severely\n• कड़ी आलोचना करना\n\n• SYNONYMS:- criticize, reprimand, rebuke, scold, chastise\n\n• ANTONYMS:- praise, compliment, approve, commend, applaud"
       },
       {
-        "subtopic": "Conundrum",
-        "content": "meaning: A confusing and difficult problem\nsynonyms: puzzle, riddle, mystery, dilemma, enigma\nantonyms: solution, answer, explanation, clarity, resolution"
+        "subtopic": "8. Caustic",
+        "content": "• MEANING:- Sarcastic in a scathing and bitter way\n• कटु, व्यंग्यपूर्ण\n\n• SYNONYMS:- sarcastic, biting, scornful, harsh, acrid\n\n• ANTONYMS:- gentle, kind, soothing, polite, mild"
+      },
+      {
+        "subtopic": "9. Censure",
+        "content": "• MEANING:- To express strong disapproval\n• निंदा करना, आलोचना करना\n\n• SYNONYMS:- condemn, criticize, denounce, blame, reproach\n\n• ANTONYMS:- praise, approve, commend, support, applaud"
+      },
+      {
+        "subtopic": "10. Chagrin",
+        "content": "• MEANING:- Distress or embarrassment at having failed or been humiliated\n• लज्जा, खीझ\n\n• SYNONYMS:- annoyance, irritation, vexation, humiliation, displeasure\n\n• ANTONYMS:- satisfaction, delight, happiness, joy, contentment"
+      },
+      {
+        "subtopic": "11. Chicanery",
+        "content": "• MEANING:- The use of trickery to achieve a political, financial, or legal purpose\n• कपट, धोखाधड़ी\n\n• SYNONYMS:- deception, trickery, fraud, dishonesty, guile\n\n• ANTONYMS:- honesty, truthfulness, fairness, integrity, openness"
+      },
+      {
+        "subtopic": "12. Coerce",
+        "content": "• MEANING:- To persuade or force someone to do something by threats\n• जबरदस्ती करना, बाध्य करना\n\n• SYNONYMS:- force, compel, pressure, intimidate, bully\n\n• ANTONYMS:- convince, encourage, persuade, allow, support"
+      },
+      {
+        "subtopic": "13. Cogent",
+        "content": "• MEANING:- Clear, logical, and convincing\n• प्रभावशाली, तार्किक\n\n• SYNONYMS:- convincing, persuasive, compelling, strong, logical\n\n• ANTONYMS:- weak, invalid, unconvincing, illogical, ineffective"
+      },
+      {
+        "subtopic": "14. Complacent",
+        "content": "• MEANING:- Showing self-satisfaction while being unaware of dangers\n• आत्मसंतुष्ट\n\n• SYNONYMS:- self-satisfied, smug, unconcerned, careless, indifferent\n\n• ANTONYMS:- aware, concerned, dissatisfied, worried, attentive"
+      },
+      {
+        "subtopic": "15. Concur",
+        "content": "• MEANING:- To agree or have the same opinion\n• सहमत होना\n\n• SYNONYMS:- agree, coincide, approve, consent, harmonize\n\n• ANTONYMS:- disagree, oppose, differ, contradict, dispute"
       }
     ]
   },
@@ -119,36 +158,64 @@
     "topic": "Starts with D",
     "subtopics": [
       {
-        "subtopic": "Debacle",
-        "content": "meaning: A sudden and disastrous failure\nsynonyms: disaster, fiasco, catastrophe, collapse, downfall\nantonyms: success, triumph, achievement, victory, accomplishment"
+        "subtopic": "1. Daunt",
+        "content": "• MEANING:- To make someone feel intimidated or apprehensive\n• डराना, भयभीत करना\n\n• SYNONYMS:- discourage, intimidate, dishearten, demoralize, unnerve\n\n• ANTONYMS:- encourage, inspire, embolden, strengthen, reassure"
       },
       {
-        "subtopic": "Debilitate",
-        "content": "meaning: To weaken or impair the strength of\nsynonyms: weaken, cripple, disable, enfeeble, exhaust\nantonyms: strengthen, fortify, empower, invigorate, restore"
+        "subtopic": "2. Debacle",
+        "content": "• MEANING:- A sudden and ignominious failure; a fiasco\n• असफलता, पतन\n\n• SYNONYMS:- disaster, collapse, fiasco, downfall, catastrophe\n\n• ANTONYMS:- success, triumph, victory, achievement, accomplishment"
       },
       {
-        "subtopic": "Decorum",
-        "content": "meaning: Proper behavior and good manners\nsynonyms: propriety, etiquette, manners, civility, politeness\nantonyms: rudeness, impropriety, indecency, vulgarity, discourtesy"
+        "subtopic": "3. Debilitate",
+        "content": "• MEANING:- To make someone weak or feeble\n• कमजोर करना\n\n• SYNONYMS:- weaken, enfeeble, exhaust, drain, incapacitate\n\n• ANTONYMS:- strengthen, invigorate, fortify, energize, empower"
       },
       {
-        "subtopic": "Deference",
-        "content": "meaning: Respectful submission or yielding to the opinion of others\nsynonyms: respect, regard, honor, reverence, esteem\nantonyms: disrespect, disregard, defiance, dishonor, contempt"
+        "subtopic": "4. Debunk",
+        "content": "• MEANING:- To expose falseness or exaggeration\n• असत्य साबित करना\n\n• SYNONYMS:- expose, disprove, refute, invalidate, demystify\n\n• ANTONYMS:- prove, confirm, validate, uphold, authenticate"
       },
       {
-        "subtopic": "Delineate",
-        "content": "meaning: To describe or portray something precisely\nsynonyms: depict, outline, describe, portray, represent\nantonyms: confuse, distort, obscure, misrepresent, blur"
+        "subtopic": "5. Decadent",
+        "content": "• MEANING:- Marked by decline in morals or culture\n• पतित, अध:पतनशील\n\n• SYNONYMS:- degenerate, corrupt, depraved, immoral, self-indulgent\n\n• ANTONYMS:- moral, upright, principled, virtuous, noble"
       },
       {
-        "subtopic": "Deride",
-        "content": "meaning: To ridicule or mock\nsynonyms: ridicule, mock, scorn, taunt, insult\nantonyms: praise, admire, compliment, respect, commend"
+        "subtopic": "6. Decrepit",
+        "content": "• MEANING:- Worn out or ruined because of age or neglect\n• जर्जर, बूढ़ा\n\n• SYNONYMS:- feeble, frail, dilapidated, weak, broken-down\n\n• ANTONYMS:- strong, robust, healthy, sturdy, vigorous"
       },
       {
-        "subtopic": "Despot",
-        "content": "meaning: A ruler with absolute power, often oppressive\nsynonyms: tyrant, dictator, autocrat, oppressor, authoritarian\nantonyms: democrat, liberator, supporter, protector, advocate"
+        "subtopic": "7. Defunct",
+        "content": "• MEANING:- No longer existing or functioning\n• मृत, अस्तित्वहीन\n\n• SYNONYMS:- dead, obsolete, extinct, non-existent, inoperative\n\n• ANTONYMS:- existing, active, alive, operational, functioning"
       },
       {
-        "subtopic": "Dichotomy",
-        "content": "meaning: A division or contrast between two things\nsynonyms: contrast, division, polarity, split, duality\nantonyms: unity, harmony, similarity, agreement, consistency"
+        "subtopic": "8. Deleterious",
+        "content": "• MEANING:- Causing harm or damage\n• हानिकारक, नुकसानदायक\n\n• SYNONYMS:- harmful, damaging, injurious, destructive, detrimental\n\n• ANTONYMS:- beneficial, helpful, harmless, advantageous, useful"
+      },
+      {
+        "subtopic": "9. Delineate",
+        "content": "• MEANING:- To describe or portray something precisely\n• स्पष्ट करना, चित्रित करना\n\n• SYNONYMS:- describe, outline, depict, portray, represent\n\n• ANTONYMS:- confuse, distort, misrepresent, obscure, blur"
+      },
+      {
+        "subtopic": "10. Demagogue",
+        "content": "• MEANING:- A political leader who seeks support by appealing to desires and prejudices rather than rational argument\n• लोकलुभावन नेता\n\n• SYNONYMS:- agitator, instigator, firebrand, rabble-rouser, manipulator\n\n• ANTONYMS:- peacemaker, unifier, mediator, reconciler, pacifist"
+      },
+      {
+        "subtopic": "11. Demur",
+        "content": "• MEANING:- To raise doubts or objections\n• आपत्ति करना, संकोच करना\n\n• SYNONYMS:- object, protest, hesitate, resist, oppose\n\n• ANTONYMS:- agree, accept, consent, approve, support"
+      },
+      {
+        "subtopic": "12. Denigrate",
+        "content": "• MEANING:- To criticize unfairly; to belittle\n• बदनाम करना, अपमान करना\n\n• SYNONYMS:- disparage, defame, malign, slander, belittle\n\n• ANTONYMS:- praise, commend, compliment, applaud, honor"
+      },
+      {
+        "subtopic": "13. Deride",
+        "content": "• MEANING:- To express contempt for; ridicule\n• मजाक उड़ाना, उपहास करना\n\n• SYNONYMS:- mock, ridicule, jeer, taunt, scorn\n\n• ANTONYMS:- respect, admire, praise, honor, compliment"
+      },
+      {
+        "subtopic": "14. Despot",
+        "content": "• MEANING:- A ruler who holds absolute power, often in a cruel way\n• निरंकुश शासक\n\n• SYNONYMS:- tyrant, dictator, oppressor, autocrat, authoritarian\n\n• ANTONYMS:- democrat, liberator, protector, constitutionalist"
+      },
+      {
+        "subtopic": "15. Detrimental",
+        "content": "• MEANING:- Tending to cause harm\n• हानिकारक, नुक़सानदेह\n\n• SYNONYMS:- harmful, damaging, injurious, destructive, adverse\n\n• ANTONYMS:- beneficial, advantageous, helpful, favorable, useful"
       }
     ]
   },
@@ -156,36 +223,64 @@
     "topic": "Starts with E",
     "subtopics": [
       {
-        "subtopic": "Ebullient",
-        "content": "meaning: Cheerful and full of energy\nsynonyms: enthusiastic, exuberant, lively, high-spirited, animated\nantonyms: depressed, gloomy, apathetic, lifeless, dull"
+        "subtopic": "1. Eccentric",
+        "content": "• MEANING:- Unconventional and slightly strange\n• सनकी, विचित्र\n\n• SYNONYMS:- odd, unusual, quirky, peculiar, unconventional\n\n• ANTONYMS:- normal, ordinary, conventional, regular, standard"
       },
       {
-        "subtopic": "Eccentric",
-        "content": "meaning: Unconventional and slightly strange\nsynonyms: odd, peculiar, quirky, unusual, bizarre\nantonyms: normal, ordinary, conventional, typical, standard"
+        "subtopic": "2. Eclectic",
+        "content": "• MEANING:- Deriving ideas, style, or taste from a broad and diverse range of sources\n• चयनित, विविध\n\n• SYNONYMS:- diverse, varied, wide-ranging, comprehensive, inclusive\n\n• ANTONYMS:- narrow, limited, restricted, exclusive"
       },
       {
-        "subtopic": "Edify",
-        "content": "meaning: To instruct or improve morally or intellectually\nsynonyms: educate, enlighten, uplift, instruct, guide\nantonyms: mislead, confuse, corrupt, hinder, obscure"
+        "subtopic": "3. Edify",
+        "content": "• MEANING:- To instruct or improve morally or intellectually\n• शिक्षित करना, नैतिक शिक्षा देना\n\n• SYNONYMS:- educate, enlighten, instruct, uplift, inspire\n\n• ANTONYMS:- mislead, confuse, degrade, corrupt, cloud"
       },
       {
-        "subtopic": "Egregious",
-        "content": "meaning: Outstandingly bad or shocking\nsynonyms: atrocious, appalling, flagrant, heinous, outrageous\nantonyms: minor, trivial, insignificant, admirable, good"
+        "subtopic": "4. Efficacious",
+        "content": "• MEANING:- Successful in producing a desired result\n• प्रभावशाली, कारगर\n\n• SYNONYMS:- effective, efficient, powerful, successful, potent\n\n• ANTONYMS:- ineffective, useless, weak, futile, powerless"
       },
       {
-        "subtopic": "Elated",
-        "content": "meaning: Ecstatically happy\nsynonyms: overjoyed, delighted, thrilled, jubilant, ecstatic\nantonyms: depressed, miserable, unhappy, gloomy, dejected"
+        "subtopic": "5. Effigy",
+        "content": "• MEANING:- A roughly made model of a person, often to be destroyed in protest\n• पुतला\n\n• SYNONYMS:- statue, image, representation, dummy, likeness\n\n• ANTONYMS:- being, reality, existence, entity"
       },
       {
-        "subtopic": "Elucidate",
-        "content": "meaning: To make something clear or explain\nsynonyms: explain, clarify, illuminate, interpret, expound\nantonyms: confuse, obscure, complicate, distort, cloud"
+        "subtopic": "6. Elated",
+        "content": "• MEANING:- Extremely happy or proud\n• अत्यंत प्रसन्न\n\n• SYNONYMS:- overjoyed, delighted, jubilant, thrilled, ecstatic\n\n• ANTONYMS:- depressed, sad, miserable, unhappy, gloomy"
       },
       {
-        "subtopic": "Emulate",
-        "content": "meaning: To imitate or match, especially successfully\nsynonyms: imitate, copy, mimic, rival, follow\nantonyms: neglect, ignore, reject, oppose, disregard"
+        "subtopic": "7. Elucidate",
+        "content": "• MEANING:- To make something clear; explain\n• स्पष्ट करना\n\n• SYNONYMS:- explain, clarify, interpret, illustrate, shed light\n\n• ANTONYMS:- confuse, obscure, distort, cloud, complicate"
       },
       {
-        "subtopic": "Enervate",
-        "content": "meaning: To weaken or drain of energy\nsynonyms: weaken, exhaust, debilitate, fatigue, sap\nantonyms: energize, invigorate, strengthen, fortify, empower"
+        "subtopic": "8. Emulate",
+        "content": "• MEANING:- To imitate with the intent to equal or surpass\n• अनुकरण करना, बराबरी करना\n\n• SYNONYMS:- imitate, copy, follow, mirror, rival\n\n• ANTONYMS:- neglect, abandon, ignore, reject"
+      },
+      {
+        "subtopic": "9. Enervate",
+        "content": "• MEANING:- To weaken or drain of energy\n• दुर्बल करना, शक्ति छीन लेना\n\n• SYNONYMS:- weaken, exhaust, debilitate, drain, fatigue\n\n• ANTONYMS:- strengthen, invigorate, energize, empower, fortify"
+      },
+      {
+        "subtopic": "10. Engender",
+        "content": "• MEANING:- To cause or give rise to\n• उत्पन्न करना\n\n• SYNONYMS:- produce, generate, create, arouse, provoke\n\n• ANTONYMS:- prevent, stop, halt, extinguish, suppress"
+      },
+      {
+        "subtopic": "11. Ennui",
+        "content": "• MEANING:- A feeling of listlessness and dissatisfaction from lack of excitement\n• ऊब, उदासी\n\n• SYNONYMS:- boredom, dissatisfaction, weariness, tedium, melancholy\n\n• ANTONYMS:- excitement, enthusiasm, interest, joy, cheerfulness"
+      },
+      {
+        "subtopic": "12. Enigma",
+        "content": "• MEANING:- A person or thing that is mysterious or difficult to understand\n• रहस्य, पहेली\n\n• SYNONYMS:- mystery, puzzle, riddle, conundrum, paradox\n\n• ANTONYMS:- clarity, solution, explanation, answer"
+      },
+      {
+        "subtopic": "13. Enrich",
+        "content": "• MEANING:- To improve or enhance the quality or value of something\n• समृद्ध करना, मूल्य बढ़ाना\n\n• SYNONYMS:- improve, enhance, augment, boost, upgrade\n\n• ANTONYMS:- impoverish, weaken, degrade, diminish, reduce"
+      },
+      {
+        "subtopic": "14. Entice",
+        "content": "• MEANING:- To attract or tempt by offering pleasure or advantage\n• लुभाना, आकर्षित करना\n\n• SYNONYMS:- tempt, lure, attract, allure, persuade\n\n• ANTONYMS:- repel, discourage, dissuade, deter, reject"
+      },
+      {
+        "subtopic": "15. Equanimity",
+        "content": "• MEANING:- Mental calmness, composure, and evenness of temper\n• मानसिक शांति, धैर्य\n\n• SYNONYMS:- calmness, serenity, composure, poise, tranquility\n\n• ANTONYMS:- anxiety, agitation, nervousness, restlessness, worry"
       }
     ]
   },
@@ -193,36 +288,64 @@
     "topic": "Starts with F",
     "subtopics": [
       {
-        "subtopic": "Facetious",
-        "content": "meaning: Treating serious issues with inappropriate humor\nsynonyms: flippant, sarcastic, witty, playful, joking\nantonyms: serious, solemn, sincere, earnest, grave"
+        "subtopic": "1. Facetious",
+        "content": "• MEANING:- Treating serious issues with deliberately inappropriate humor\n• मज़ाकिया, हल्के में लेने वाला\n\n• SYNONYMS:- flippant, witty, playful, humorous, joking\n\n• ANTONYMS:- serious, solemn, sincere, grave"
       },
       {
-        "subtopic": "Fallacious",
-        "content": "meaning: Based on a mistaken belief\nsynonyms: false, misleading, deceptive, erroneous, invalid\nantonyms: true, valid, correct, accurate, sound"
+        "subtopic": "2. Fallacy",
+        "content": "• MEANING:- A mistaken belief, especially based on unsound reasoning\n• भ्रांति, गलत धारणा\n\n• SYNONYMS:- misconception, delusion, error, falsehood, illusion\n\n• ANTONYMS:- truth, fact, reality, certainty"
       },
       {
-        "subtopic": "Fastidious",
-        "content": "meaning: Very attentive to detail; hard to please\nsynonyms: meticulous, fussy, perfectionist, particular, demanding\nantonyms: careless, sloppy, easy-going, indifferent, negligent"
+        "subtopic": "3. Fastidious",
+        "content": "• MEANING:- Very attentive to detail; hard to please\n• अति सावधान, नखरे वाला\n\n• SYNONYMS:- meticulous, fussy, perfectionist, critical, picky\n\n• ANTONYMS:- careless, easy-going, sloppy, indifferent"
       },
       {
-        "subtopic": "Fatuous",
-        "content": "meaning: Silly and pointless\nsynonyms: foolish, idiotic, absurd, senseless, ridiculous\nantonyms: wise, intelligent, sensible, rational, prudent"
+        "subtopic": "4. Fathom",
+        "content": "• MEANING:- To understand after much thought\n• समझ पाना, गहराई मापना\n\n• SYNONYMS:- understand, grasp, comprehend, figure out, appreciate\n\n• ANTONYMS:- misunderstand, confuse, misinterpret, ignore"
       },
       {
-        "subtopic": "Feasible",
-        "content": "meaning: Possible and practical to do\nsynonyms: achievable, workable, practicable, viable, possible\nantonyms: impossible, impractical, unachievable, unworkable, unattainable"
+        "subtopic": "5. Fatuous",
+        "content": "• MEANING:- Silly and pointless\n• मूर्खतापूर्ण, निरर्थक\n\n• SYNONYMS:- foolish, stupid, idiotic, absurd, senseless\n\n• ANTONYMS:- wise, intelligent, sensible, rational"
       },
       {
-        "subtopic": "Fervent",
-        "content": "meaning: Having or displaying passionate intensity\nsynonyms: passionate, ardent, enthusiastic, eager, zealous\nantonyms: indifferent, apathetic, disinterested, unconcerned, cold"
+        "subtopic": "6. Fervent",
+        "content": "• MEANING:- Having or displaying passionate intensity\n• उत्साही, प्रबल\n\n• SYNONYMS:- passionate, ardent, intense, zealous, enthusiastic\n\n• ANTONYMS:- indifferent, apathetic, unemotional, half-hearted"
       },
       {
-        "subtopic": "Flabbergasted",
-        "content": "meaning: Extremely surprised or shocked\nsynonyms: astonished, amazed, dumbfounded, stunned, astounded\nantonyms: unsurprised, calm, unimpressed, indifferent, composed"
+        "subtopic": "7. Fiasco",
+        "content": "• MEANING:- A complete failure, often humiliating\n• असफलता, विफलता\n\n• SYNONYMS:- disaster, debacle, catastrophe, flop, collapse\n\n• ANTONYMS:- success, triumph, achievement, accomplishment"
       },
       {
-        "subtopic": "Furtive",
-        "content": "meaning: Attempting to avoid notice or attention\nsynonyms: secretive, stealthy, clandestine, surreptitious, covert\nantonyms: open, obvious, overt, honest, public"
+        "subtopic": "8. Fickle",
+        "content": "• MEANING:- Changing frequently, especially in loyalty or affection\n• चंचल, अस्थिर\n\n• SYNONYMS:- inconsistent, changeable, unstable, unreliable, variable\n\n• ANTONYMS:- stable, constant, steadfast, reliable"
+      },
+      {
+        "subtopic": "9. Flagrant",
+        "content": "• MEANING:- Shockingly noticeable or evident; obvious wrongdoing\n• घोर, अत्यंत स्पष्ट\n\n• SYNONYMS:- blatant, glaring, outrageous, scandalous, shameless\n\n• ANTONYMS:- subtle, hidden, concealed, unnoticeable"
+      },
+      {
+        "subtopic": "10. Flimsy",
+        "content": "• MEANING:- Weak and unconvincing\n• कमजोर, नाज़ुक\n\n• SYNONYMS:- weak, fragile, shaky, feeble, insubstantial\n\n• ANTONYMS:- strong, sturdy, robust, convincing"
+      },
+      {
+        "subtopic": "11. Flourish",
+        "content": "• MEANING:- To grow or develop successfully\n• फलना-फूलना, प्रगति करना\n\n• SYNONYMS:- thrive, prosper, bloom, succeed, expand\n\n• ANTONYMS:- decline, wither, fail, collapse"
+      },
+      {
+        "subtopic": "12. Fluctuate",
+        "content": "• MEANING:- To rise and fall irregularly in number or amount\n• उतार-चढ़ाव होना\n\n• SYNONYMS:- vary, shift, oscillate, waver, alternate\n\n• ANTONYMS:- stabilize, remain, persist, stay constant"
+      },
+      {
+        "subtopic": "13. Forlorn",
+        "content": "• MEANING:- Pitifully sad and abandoned or lonely\n• निराश, अकेला\n\n• SYNONYMS:- hopeless, desolate, miserable, abandoned, sad\n\n• ANTONYMS:- cheerful, hopeful, happy, joyful, comforted"
+      },
+      {
+        "subtopic": "14. Fortitude",
+        "content": "• MEANING:- Courage in pain or adversity\n• धैर्य, साहस\n\n• SYNONYMS:- bravery, courage, endurance, resilience, determination\n\n• ANTONYMS:- cowardice, weakness, fear, timidity"
+      },
+      {
+        "subtopic": "15. Frivolous",
+        "content": "• MEANING:- Not having any serious purpose or value\n• तुच्छ, महत्वहीन\n\n• SYNONYMS:- trivial, silly, petty, unimportant, superficial\n\n• ANTONYMS:- serious, important, significant, valuable"
       }
     ]
   },
@@ -230,32 +353,64 @@
     "topic": "Starts with G",
     "subtopics": [
       {
-        "subtopic": "Garrulous",
-        "content": "meaning: Excessively talkative, especially on trivial matters\nsynonyms: talkative, chatty, verbose, loquacious, rambling\nantonyms: taciturn, reticent, quiet, reserved, concise"
+        "subtopic": "1. Garrulous",
+        "content": "• MEANING:- Excessively talkative, especially on trivial matters\n• बहुत बोलने वाला, बातूनी\n\n• SYNONYMS:- talkative, chatty, loquacious, verbose\n\n• ANTONYMS:- quiet, reserved, reticent, taciturn"
       },
       {
-        "subtopic": "Gaudy",
-        "content": "meaning: Extravagantly bright or showy, often tasteless\nsynonyms: flashy, showy, garish, loud, ostentatious\nantonyms: simple, modest, tasteful, elegant, understated"
+        "subtopic": "2. Gaudy",
+        "content": "• MEANING:- Extravagantly bright or showy, tasteless\n• भड़कीला, दिखावटी\n\n• SYNONYMS:- flashy, showy, loud, ostentatious\n\n• ANTONYMS:- simple, elegant, modest, tasteful"
       },
       {
-        "subtopic": "Germane",
-        "content": "meaning: Relevant to a subject under consideration\nsynonyms: relevant, appropriate, suitable, fitting, pertinent\nantonyms: irrelevant, inappropriate, unsuitable, extraneous, unrelated"
+        "subtopic": "3. Germane",
+        "content": "• MEANING:- Relevant to the subject at hand\n• उपयुक्त, संबंधित\n\n• SYNONYMS:- relevant, pertinent, applicable, appropriate\n\n• ANTONYMS:- irrelevant, inappropriate, unsuitable, unrelated"
       },
       {
-        "subtopic": "Gluttonous",
-        "content": "meaning: Excessively greedy, especially for food\nsynonyms: greedy, voracious, ravenous, insatiable, piggish\nantonyms: moderate, restrained, abstemious, temperate, satisfied"
+        "subtopic": "4. Glib",
+        "content": "• MEANING:- Fluent but insincere and shallow in speech\n• चिकनी-चुपड़ी बातें करने वाला\n\n• SYNONYMS:- smooth-talking, slick, insincere, superficial\n\n• ANTONYMS:- sincere, genuine, thoughtful, inarticulate"
       },
       {
-        "subtopic": "Gregarious",
-        "content": "meaning: Fond of company; sociable\nsynonyms: sociable, outgoing, convivial, extroverted, friendly\nantonyms: introverted, unsociable, reserved, solitary, aloof"
+        "subtopic": "5. Gregarious",
+        "content": "• MEANING:- Fond of company; sociable\n• मिलनसार, संग-साथ पसंद करने वाला\n\n• SYNONYMS:- sociable, outgoing, friendly, convivial\n\n• ANTONYMS:- unsociable, introverted, reserved, reclusive"
       },
       {
-        "subtopic": "Guileless",
-        "content": "meaning: Innocent and without deception\nsynonyms: naive, honest, innocent, candid, straightforward\nantonyms: deceitful, cunning, dishonest, crafty, sly"
+        "subtopic": "6. Grim",
+        "content": "• MEANING:- Forbidding or uninviting; serious\n• गंभीर, भयानक\n\n• SYNONYMS:- stern, harsh, forbidding, severe\n\n• ANTONYMS:- pleasant, cheerful, friendly, attractive"
       },
       {
-        "subtopic": "Gullible",
-        "content": "meaning: Easily persuaded to believe something\nsynonyms: naive, trusting, credulous, unsuspecting, innocent\nantonyms: suspicious, skeptical, shrewd, cautious, wary"
+        "subtopic": "7. Grotesque",
+        "content": "• MEANING:- Comically or repulsively ugly or distorted\n• विकृत, विचित्र\n\n• SYNONYMS:- distorted, bizarre, monstrous, unnatural\n\n• ANTONYMS:- normal, natural, beautiful, attractive"
+      },
+      {
+        "subtopic": "8. Gullible",
+        "content": "• MEANING:- Easily fooled or cheated\n• भोला-भाला, आसानी से विश्वास करने वाला\n\n• SYNONYMS:- naive, trusting, innocent, credulous\n\n• ANTONYMS:- skeptical, shrewd, suspicious, cynical"
+      },
+      {
+        "subtopic": "9. Genteel",
+        "content": "• MEANING:- Polite, refined, or respectable\n• सभ्य, शालीन\n\n• SYNONYMS:- refined, polite, sophisticated, elegant\n\n• ANTONYMS:- rude, vulgar, coarse, uncouth"
+      },
+      {
+        "subtopic": "10. Glutton",
+        "content": "• MEANING:- A person who eats or consumes excessively\n• पेटू, लालची\n\n• SYNONYMS:- overeater, greedy, hog, gourmand\n\n• ANTONYMS:- moderate, ascetic, restrained, dieter"
+      },
+      {
+        "subtopic": "11. Grandiose",
+        "content": "• MEANING:- Impressive but pretentious and unrealistic\n• भव्य पर दिखावटी\n\n• SYNONYMS:- magnificent, pompous, pretentious, extravagant\n\n• ANTONYMS:- humble, simple, modest, practical"
+      },
+      {
+        "subtopic": "12. Grudge",
+        "content": "• MEANING:- A persistent feeling of ill-will or resentment\n• बैर, मनमुटाव\n\n• SYNONYMS:- resentment, bitterness, animosity, hatred\n\n• ANTONYMS:- goodwill, friendship, kindness, forgiveness"
+      },
+      {
+        "subtopic": "13. Guile",
+        "content": "• MEANING:- Clever but dishonest behavior to deceive\n• छल, धूर्तता\n\n• SYNONYMS:- deceit, cunning, trickery, slyness\n\n• ANTONYMS:- honesty, sincerity, truthfulness, frankness"
+      },
+      {
+        "subtopic": "14. Gumption",
+        "content": "• MEANING:- Courage and resourcefulness\n• हिम्मत, सूझ-बूझ\n\n• SYNONYMS:- initiative, enterprise, courage, determination\n\n• ANTONYMS:- laziness, timidity, weakness, indecision"
+      },
+      {
+        "subtopic": "15. Gaunt",
+        "content": "• MEANING:- Extremely thin, often due to hunger or illness\n• दुबला-पतला, कमजोर\n\n• SYNONYMS:- skinny, emaciated, lean, bony\n\n• ANTONYMS:- plump, healthy, chubby, strong"
       }
     ]
   },
@@ -263,32 +418,64 @@
     "topic": "Starts with H",
     "subtopics": [
       {
-        "subtopic": "Hackneyed",
-        "content": "meaning: Lacking significance through having been overused\nsynonyms: clichéd, trite, overused, stale, banal\nantonyms: original, fresh, novel, inventive, unique"
+        "subtopic": "1. Hackneyed",
+        "content": "• MEANING:- Overused and unoriginal\n• घिसा-पिटा, साधारण\n\n• SYNONYMS:- cliched, trite, stale, common\n\n• ANTONYMS:- original, fresh, unique, novel"
       },
       {
-        "subtopic": "Harangue",
-        "content": "meaning: A lengthy and aggressive speech\nsynonyms: tirade, rant, lecture, diatribe, polemic\nantonyms: praise, approval, eulogy, compliment, panegyric"
+        "subtopic": "2. Haphazard",
+        "content": "• MEANING:- Lacking order or planning\n• बेतरतीब, अव्यवस्थित\n\n• SYNONYMS:- random, chaotic, unorganized, careless\n\n• ANTONYMS:- systematic, planned, orderly, organized"
       },
       {
-        "subtopic": "Harbinger",
-        "content": "meaning: A person or thing that announces or signals the approach of another\nsynonyms: forerunner, precursor, herald, omen, sign\nantonyms: follower, successor, result, outcome, end"
+        "subtopic": "3. Harangue",
+        "content": "• MEANING:- A lengthy and aggressive speech\n• लंबा और आक्रामक भाषण\n\n• SYNONYMS:- tirade, rant, lecture, diatribe\n\n• ANTONYMS:- praise, eulogy, compliment, approval"
       },
       {
-        "subtopic": "Haughty",
-        "content": "meaning: Arrogantly superior and disdainful\nsynonyms: arrogant, conceited, proud, snobbish, pompous\nantonyms: humble, modest, meek, respectful, unassuming"
+        "subtopic": "4. Hardy",
+        "content": "• MEANING:- Robust; capable of enduring difficult conditions\n• मजबूत, सहनशील\n\n• SYNONYMS:- strong, tough, resilient, sturdy\n\n• ANTONYMS:- weak, fragile, delicate, feeble"
       },
       {
-        "subtopic": "Hedonist",
-        "content": "meaning: A person who believes that pleasure is the chief goal in life\nsynonyms: pleasure-seeker, sensualist, epicure, sybarite, voluptuary\nantonyms: ascetic, puritan, stoic, self-denying, abstinent"
+        "subtopic": "5. Haughty",
+        "content": "• MEANING:- Arrogantly superior and disdainful\n• घमंडी, अहंकारी\n\n• SYNONYMS:- arrogant, proud, snobbish, conceited\n\n• ANTONYMS:- humble, modest, respectful, down-to-earth"
       },
       {
-        "subtopic": "Heretic",
-        "content": "meaning: A person holding beliefs at odds with established doctrine\nsynonyms: dissenter, nonconformist, iconoclast, rebel, radical\nantonyms: conformist, believer, follower, orthodox, traditionalist"
+        "subtopic": "6. Hedonist",
+        "content": "• MEANING:- A person who seeks pleasure as the highest good\n• सुखवादी, भोगी\n\n• SYNONYMS:- pleasure-seeker, sensualist, sybarite, epicurean\n\n• ANTONYMS:- ascetic, puritan, self-denying, austere"
       },
       {
-        "subtopic": "Homogeneous",
-        "content": "meaning: Of the same kind; alike\nsynonyms: uniform, identical, consistent, similar, standardized\nantonyms: heterogeneous, diverse, varied, different, dissimilar"
+        "subtopic": "7. Heinous",
+        "content": "• MEANING:- Extremely wicked or evil\n• घृणित, जघन्य\n\n• SYNONYMS:- atrocious, abominable, vile, wicked\n\n• ANTONYMS:- admirable, good, noble, virtuous"
+      },
+      {
+        "subtopic": "8. Heresy",
+        "content": "• MEANING:- Belief contrary to orthodox religious doctrine\n• कुप्रथा, मतभेद\n\n• SYNONYMS:- dissent, blasphemy, nonconformity, sacrilege\n\n• ANTONYMS:- orthodoxy, tradition, conformity, belief"
+      },
+      {
+        "subtopic": "9. Hermit",
+        "content": "• MEANING:- A person living in solitude as a religious discipline\n• सन्यासी, एकांतवासी\n\n• SYNONYMS:- recluse, monk, ascetic, solitary\n\n• ANTONYMS:- extrovert, socialite, companion, sociable person"
+      },
+      {
+        "subtopic": "10. Hinder",
+        "content": "• MEANING:- To create difficulties, delay, or obstruct\n• बाधा डालना, रोकना\n\n• SYNONYMS:- obstruct, impede, block, prevent\n\n• ANTONYMS:- help, assist, facilitate, promote"
+      },
+      {
+        "subtopic": "11. Hoard",
+        "content": "• MEANING:- To store or accumulate something secretly\n• जमा करना, संचित करना\n\n• SYNONYMS:- stockpile, amass, save, gather\n\n• ANTONYMS:- spend, waste, squander, dissipate"
+      },
+      {
+        "subtopic": "12. Homogeneous",
+        "content": "• MEANING:- Of the same kind or nature\n• एकरूप, समान\n\n• SYNONYMS:- uniform, identical, similar, alike\n\n• ANTONYMS:- heterogeneous, different, varied, diverse"
+      },
+      {
+        "subtopic": "13. Hostile",
+        "content": "• MEANING:- Unfriendly, antagonistic\n• शत्रुतापूर्ण, विरोधी\n\n• SYNONYMS:- unfriendly, aggressive, antagonistic, adversarial\n\n• ANTONYMS:- friendly, kind, amicable, cordial"
+      },
+      {
+        "subtopic": "14. Humdrum",
+        "content": "• MEANING:- Lacking excitement; dull\n• नीरस, उबाऊ\n\n• SYNONYMS:- boring, monotonous, tedious, repetitive\n\n• ANTONYMS:- exciting, interesting, lively, thrilling"
+      },
+      {
+        "subtopic": "15. Hypocrisy",
+        "content": "• MEANING:- Claiming to have moral standards that one does not possess\n• पाखंड, कपट\n\n• SYNONYMS:- insincerity, deceit, dishonesty, duplicity\n\n• ANTONYMS:- sincerity, honesty, truthfulness, genuineness"
       }
     ]
   },
@@ -296,32 +483,68 @@
     "topic": "Starts with I",
     "subtopics": [
       {
-        "subtopic": "Iconoclast",
-        "content": "meaning: A person who attacks cherished beliefs or institutions\nsynonyms: critic, skeptic, rebel, dissenter, nonconformist\nantonyms: conformist, traditionalist, supporter, follower, believer"
+        "subtopic": "1. Iconoclast",
+        "content": "• MEANING:- A person who attacks cherished beliefs or institutions\n• परंपरा तोड़ने वाला, विद्रोही\n\n• SYNONYMS:- rebel, dissenter, nonconformist, radical\n\n• ANTONYMS:- conformist, traditionalist, believer, supporter"
       },
       {
-        "subtopic": "Idiosyncrasy",
-        "content": "meaning: A mode of behavior or way of thought peculiar to an individual\nsynonyms: peculiarity, quirk, trait, eccentricity, mannerism\nantonyms: normality, conformity, regularity, sameness, convention"
+        "subtopic": "2. Idiosyncrasy",
+        "content": "• MEANING:- A distinctive or peculiar feature or characteristic of a person\n• विशेष आदत, स्वभाव की विचित्रता\n\n• SYNONYMS:- peculiarity, quirk, trait, eccentricity\n\n• ANTONYMS:- normality, conformity, commonness, usualness"
       },
       {
-        "subtopic": "Ignominious",
-        "content": "meaning: Deserving or causing public disgrace or shame\nsynonyms: humiliating, disgraceful, shameful, dishonorable, scandalous\nantonyms: honorable, dignified, respectable, noble, glorious"
+        "subtopic": "3. Ignoble",
+        "content": "• MEANING:- Not honorable in character or purpose\n• नीच, अपमानजनक\n\n• SYNONYMS:- dishonorable, shameful, base, lowly\n\n• ANTONYMS:- noble, dignified, honorable, respectable"
       },
       {
-        "subtopic": "Imminent",
-        "content": "meaning: About to happen\nsynonyms: impending, forthcoming, looming, approaching, inevitable\nantonyms: distant, remote, delayed, uncertain, unlikely"
+        "subtopic": "4. Illicit",
+        "content": "• MEANING:- Forbidden by law, rules, or custom\n• अवैध, गैर-कानूनी\n\n• SYNONYMS:- illegal, unlawful, prohibited, forbidden\n\n• ANTONYMS:- legal, lawful, permitted, authorized"
       },
       {
-        "subtopic": "Immutable",
-        "content": "meaning: Unchanging over time or unable to be changed\nsynonyms: fixed, permanent, constant, enduring, unalterable\nantonyms: changeable, variable, flexible, temporary, alterable"
+        "subtopic": "5. Immaculate",
+        "content": "• MEANING:- Perfectly clean, neat, or free from flaws\n• निर्मल, निर्दोष\n\n• SYNONYMS:- spotless, flawless, pure, pristine\n\n• ANTONYMS:- dirty, flawed, impure, stained"
       },
       {
-        "subtopic": "Impartial",
-        "content": "meaning: Treating all rivals or disputants equally\nsynonyms: unbiased, neutral, fair, objective, even-handed\nantonyms: biased, partial, prejudiced, unfair, one-sided"
+        "subtopic": "6. Imminent",
+        "content": "• MEANING:- About to happen very soon\n• आसन्न, शीघ्र आने वाला\n\n• SYNONYMS:- impending, approaching, looming, forthcoming\n\n• ANTONYMS:- distant, remote, later, unlikely"
       },
       {
-        "subtopic": "Impetuous",
-        "content": "meaning: Acting quickly without thought or care\nsynonyms: rash, impulsive, reckless, hasty, spontaneous\nantonyms: cautious, thoughtful, careful, deliberate, prudent"
+        "subtopic": "7. Immutable",
+        "content": "• MEANING:- Unchanging over time\n• अपरिवर्तनीय, अटल\n\n• SYNONYMS:- unchangeable, permanent, fixed, enduring\n\n• ANTONYMS:- changeable, flexible, alterable, variable"
+      },
+      {
+        "subtopic": "8. Impartial",
+        "content": "• MEANING:- Treating all parties equally, fair\n• निष्पक्ष, पक्षपात रहित\n\n• SYNONYMS:- unbiased, neutral, objective, fair-minded\n\n• ANTONYMS:- biased, prejudiced, unfair, partial"
+      },
+      {
+        "subtopic": "9. Impeccable",
+        "content": "• MEANING:- Flawless, without fault or error\n• निर्दोष, त्रुटिहीन\n\n• SYNONYMS:- perfect, exemplary, unblemished, immaculate\n\n• ANTONYMS:- imperfect, faulty, flawed, defective"
+      },
+      {
+        "subtopic": "10. Impetuous",
+        "content": "• MEANING:- Acting quickly without thought or care\n• उतावला, जल्दबाज़\n\n• SYNONYMS:- rash, reckless, hasty, impulsive\n\n• ANTONYMS:- cautious, careful, thoughtful, deliberate"
+      },
+      {
+        "subtopic": "11. Implacable",
+        "content": "• MEANING:- Unable to be appeased or pacified\n• अडिग, जिसे शांत न किया जा सके\n\n• SYNONYMS:- unyielding, unforgiving, relentless, merciless\n\n• ANTONYMS:- kind, merciful, compassionate, forgiving"
+      },
+      {
+        "subtopic": "12. Implicit",
+        "content": "• MEANING:- Suggested but not directly expressed\n• निहित, अप्रत्यक्ष\n\n• SYNONYMS:- implied, understood, inherent, tacit\n\n• ANTONYMS:- explicit, clear, stated, expressed"
+      },
+      {
+        "subtopic": "13. Impoverished",
+        "content": "• MEANING:- Poor; lacking financial resources\n• गरीब, निर्धन\n\n• SYNONYMS:- destitute, needy, penniless, bankrupt\n\n• ANTONYMS:- wealthy, rich, affluent, prosperous"
+      },
+      {
+        "subtopic": "14. Impromptu",
+        "content": "• MEANING:- Done without preparation\n• तत्काल, बिना तैयारी का\n\n• SYNONYMS:- spontaneous, unplanned, improvised, extempore\n\n• ANTONYMS:- rehearsed, planned, prepared, deliberate"
+      },
+      {
+        "subtopic": "15. Incessant",
+        "content": "• MEANING:- Continuing without pause or interruption\n• लगातार, निरंतर\n\n• SYNONYMS:- continuous, unceasing, endless, perpetual\n\n• ANTONYMS:- intermittent, occasional, ceasing, stopping"
+      },
+      {
+        "subtopic": "16. Incorrigible",
+        "content": "• MEANING:- Not able to be corrected or reformed\n• असुधारनीय, हठी\n\n• SYNONYMS:- hopeless, incurable, unmanageable, stubborn\n\n• ANTONYMS:- reformable, correctable, obedient, manageable"
       }
     ]
   },
@@ -329,28 +552,48 @@
     "topic": "Starts with J",
     "subtopics": [
       {
-        "subtopic": "Judicious",
-        "content": "meaning: Having, showing, or done with good judgment or sense\nsynonyms: wise, sensible, prudent, rational, discerning\nantonyms: foolish, imprudent, thoughtless, reckless, careless"
+        "subtopic": "1. Jargon",
+        "content": "• MEANING:- Special words used by a particular group, difficult for others to understand\n• तकनीकी भाषा, पेशेवर शब्दावली\n\n• SYNONYMS:- terminology, lingo, slang, argot\n\n• ANTONYMS:- simple language, common speech, plain talk"
       },
       {
-        "subtopic": "Juxtapose",
-        "content": "meaning: Place or deal with close together for contrasting effect\nsynonyms: compare, contrast, pair, collocate, connect\nantonyms: separate, divide, isolate, detach, disconnect"
+        "subtopic": "2. Jaunty",
+        "content": "• MEANING:- Lively, cheerful, and self-confident in manner\n• चंचल, आत्मविश्वासी\n\n• SYNONYMS:- cheerful, lively, perky, sprightly\n\n• ANTONYMS:- sad, gloomy, depressed, dull"
       },
       {
-        "subtopic": "Jargon",
-        "content": "meaning: Special words or expressions used by a profession or group\nsynonyms: terminology, lingo, slang, dialect, argot\nantonyms: standard language, plain speech, simplicity, clarity"
+        "subtopic": "3. Jeopardize",
+        "content": "• MEANING:- To put something into danger or risk\n• संकट में डालना, खतरे में डालना\n\n• SYNONYMS:- endanger, risk, threaten, imperil\n\n• ANTONYMS:- safeguard, protect, secure, shield"
       },
       {
-        "subtopic": "Jeopardize",
-        "content": "meaning: Put (someone or something) into a situation of danger or loss\nsynonyms: endanger, risk, imperil, compromise, threaten\nantonyms: protect, safeguard, secure, defend, preserve"
+        "subtopic": "4. Judicious",
+        "content": "• MEANING:- Having or showing good judgment\n• विवेकपूर्ण, समझदार\n\n• SYNONYMS:- wise, prudent, sensible, rational\n\n• ANTONYMS:- foolish, reckless, imprudent, thoughtless"
       },
       {
-        "subtopic": "Jovial",
-        "content": "meaning: Cheerful and friendly\nsynonyms: jolly, good-humored, sociable, hearty, cheerful\nantonyms: gloomy, unfriendly, morose, sullen, miserable"
+        "subtopic": "5. Juxtapose",
+        "content": "• MEANING:- To place side by side for comparison\n• साथ-साथ रखना, तुलना करना\n\n• SYNONYMS:- compare, collocate, pair, align\n\n• ANTONYMS:- separate, detach, isolate, disconnect"
       },
       {
-        "subtopic": "Judgmental",
-        "content": "meaning: Having or displaying an excessively critical point of view\nsynonyms: critical, fault-finding, censorious, disapproving\nantonyms: accepting, tolerant, open-minded, nonjudgmental"
+        "subtopic": "6. Jubilant",
+        "content": "• MEANING:- Feeling or expressing great joy\n• अत्यंत प्रसन्न, उल्लासित\n\n• SYNONYMS:- joyful, elated, overjoyed, ecstatic\n\n• ANTONYMS:- sad, sorrowful, miserable, gloomy"
+      },
+      {
+        "subtopic": "7. Justify",
+        "content": "• MEANING:- To prove something to be right or reasonable\n• उचित ठहराना, न्यायोचित साबित करना\n\n• SYNONYMS:- validate, defend, explain, support\n\n• ANTONYMS:- condemn, disprove, oppose, reject"
+      },
+      {
+        "subtopic": "8. Jaded",
+        "content": "• MEANING:- Tired or bored, typically after doing something for too long\n• थका हुआ, ऊब चुका\n\n• SYNONYMS:- weary, exhausted, fatigued, worn-out\n\n• ANTONYMS:- energetic, fresh, lively, active"
+      },
+      {
+        "subtopic": "9. Jurisdiction",
+        "content": "• MEANING:- The official power to make legal decisions\n• अधिकार क्षेत्र, न्यायाधिकार\n\n• SYNONYMS:- authority, power, control, dominion\n\n• ANTONYMS:- powerlessness, limitation, restriction"
+      },
+      {
+        "subtopic": "10. Jocund",
+        "content": "• MEANING:- Cheerful and light-hearted\n• प्रसन्नचित्त, हँसमुख\n\n• SYNONYMS:- jolly, merry, gleeful, joyous\n\n• ANTONYMS:- serious, solemn, sad, morose"
+      },
+      {
+        "subtopic": "11. Jinx",
+        "content": "• MEANING:- A person or thing that brings bad luck\n• अपशकुन, दुर्भाग्य का कारण\n\n• SYNONYMS:- curse, spell, hex, bad luck\n\n• ANTONYMS:- blessing, charm, fortune, luck"
       }
     ]
   },
@@ -358,28 +601,48 @@
     "topic": "Starts with K",
     "subtopics": [
       {
-        "subtopic": "Keen",
-        "content": "meaning: Having or showing eagerness or enthusiasm\nsynonyms: eager, enthusiastic, passionate, zealous, devoted\nantonyms: indifferent, apathetic, disinterested, unconcerned"
+        "subtopic": "1. Keen",
+        "content": "• MEANING:- Having or showing eagerness or enthusiasm\n• उत्सुक, इच्छुक\n\n• SYNONYMS:- eager, enthusiastic, ardent, interested\n\n• ANTONYMS:- indifferent, apathetic, disinterested, dull"
       },
       {
-        "subtopic": "Kindle",
-        "content": "meaning: Arouse or inspire an emotion or feeling; to ignite\nsynonyms: ignite, spark, trigger, stimulate, provoke\nantonyms: extinguish, suppress, quench, stifle, smother"
+        "subtopic": "2. Kindle",
+        "content": "• MEANING:- To start a fire or to inspire an emotion\n• जलाना, प्रेरित करना\n\n• SYNONYMS:- ignite, spark, arouse, stimulate\n\n• ANTONYMS:- extinguish, quench, suppress, stifle"
       },
       {
-        "subtopic": "Kudos",
-        "content": "meaning: Praise and honor received for an achievement\nsynonyms: praise, acclaim, credit, honor, recognition\nantonyms: criticism, blame, disapproval, condemnation"
+        "subtopic": "3. Knotty",
+        "content": "• MEANING:- Complicated and difficult to solve\n• जटिल, कठिन\n\n• SYNONYMS:- complex, tricky, intricate, puzzling\n\n• ANTONYMS:- simple, easy, straightforward, clear"
       },
       {
-        "subtopic": "Knavery",
-        "content": "meaning: Dishonest or unscrupulous behavior\nsynonyms: trickery, deceit, fraud, mischief, villainy\nantonyms: honesty, integrity, fairness, truthfulness"
+        "subtopic": "4. Kudos",
+        "content": "• MEANING:- Praise and honor received for an achievement\n• प्रशंसा, सराहना\n\n• SYNONYMS:- acclaim, praise, credit, glory\n\n• ANTONYMS:- criticism, blame, disapproval, shame"
       },
       {
-        "subtopic": "Kinetic",
-        "content": "meaning: Relating to or resulting from motion\nsynonyms: active, dynamic, moving, energetic, lively\nantonyms: static, inactive, motionless, still, dormant"
+        "subtopic": "5. Knavish",
+        "content": "• MEANING:- Dishonest or deceitful behavior\n• धूर्त, छलपूर्ण\n\n• SYNONYMS:- deceitful, tricky, fraudulent, cunning\n\n• ANTONYMS:- honest, upright, sincere, truthful"
       },
       {
-        "subtopic": "Knavish",
-        "content": "meaning: Dishonest or unscrupulous\nsynonyms: deceitful, tricky, mischievous, roguish, sly\nantonyms: honest, trustworthy, upright, noble"
+        "subtopic": "6. Keen-witted",
+        "content": "• MEANING:- Quick to understand and respond\n• तीक्ष्ण बुद्धि वाला\n\n• SYNONYMS:- sharp, clever, intelligent, perceptive\n\n• ANTONYMS:- dull, slow, foolish, ignorant"
+      },
+      {
+        "subtopic": "7. Kickback",
+        "content": "• MEANING:- A form of bribery or illegal payment\n• रिश्वत, अवैध लाभ\n\n• SYNONYMS:- bribe, payoff, graft, commission\n\n• ANTONYMS:- honesty, fairness, integrity"
+      },
+      {
+        "subtopic": "8. Kindred",
+        "content": "• MEANING:- Similar in nature; related\n• समान, संबंधित\n\n• SYNONYMS:- related, alike, comparable, allied\n\n• ANTONYMS:- different, unrelated, dissimilar, distinct"
+      },
+      {
+        "subtopic": "9. Kingpin",
+        "content": "• MEANING:- The most important person in an organization or activity\n• मुख्य व्यक्ति, आधारस्तंभ\n\n• SYNONYMS:- leader, boss, chief, head\n\n• ANTONYMS:- subordinate, follower, minor, underling"
+      },
+      {
+        "subtopic": "10. Knack",
+        "content": "• MEANING:- A special skill or talent\n• विशेष कौशल, हुनर\n\n• SYNONYMS:- talent, ability, aptitude, skill\n\n• ANTONYMS:- inability, weakness, incapacity"
+      },
+      {
+        "subtopic": "11. Keystone",
+        "content": "• MEANING:- The central, most important part of something\n• आधार, मुख्य तत्व\n\n• SYNONYMS:- foundation, base, core, support\n\n• ANTONYMS:- unimportant part, minor detail"
       }
     ]
   },
@@ -387,28 +650,48 @@
     "topic": "Starts with L",
     "subtopics": [
       {
-        "subtopic": "Lucid",
-        "content": "meaning: Expressed clearly; easy to understand\nsynonyms: clear, intelligible, transparent, coherent, plain\nantonyms: obscure, confusing, ambiguous, vague"
+        "subtopic": "1. Lament",
+        "content": "• MEANING:- To express grief or sorrow\n• शोक करना, विलाप करना\n\n• SYNONYMS:- mourn, grieve, bewail, regret\n\n• ANTONYMS:- celebrate, rejoice, praise, delight"
       },
       {
-        "subtopic": "Lament",
-        "content": "meaning: To mourn a loss or express sorrow\nsynonyms: mourn, grieve, weep, bemoan, bewail\nantonyms: rejoice, celebrate, cheer, delight"
+        "subtopic": "2. Languid",
+        "content": "• MEANING:- Lacking energy, slow and relaxed\n• शिथिल, सुस्त\n\n• SYNONYMS:- weak, sluggish, faint, weary\n\n• ANTONYMS:- energetic, lively, vigorous, active"
       },
       {
-        "subtopic": "Laudable",
-        "content": "meaning: Deserving praise and commendation\nsynonyms: praiseworthy, admirable, commendable, creditable\nantonyms: blameworthy, discreditable, shameful"
+        "subtopic": "3. Lavish",
+        "content": "• MEANING:- Extremely generous or extravagant\n• अपव्ययी, अत्यधिक खर्चीला\n\n• SYNONYMS:- extravagant, abundant, luxurious, plentiful\n\n• ANTONYMS:- frugal, scarce, meager, stingy"
       },
       {
-        "subtopic": "Lethargic",
-        "content": "meaning: Sluggish, inactive, and lacking energy\nsynonyms: sluggish, lazy, drowsy, inert, weary\nantonyms: energetic, lively, active, dynamic"
+        "subtopic": "4. Lenient",
+        "content": "• MEANING:- Merciful, tolerant, or indulgent\n• उदार, दयालु\n\n• SYNONYMS:- merciful, forgiving, tolerant, compassionate\n\n• ANTONYMS:- strict, harsh, severe, ruthless"
       },
       {
-        "subtopic": "Loquacious",
-        "content": "meaning: Tending to talk a great deal; talkative\nsynonyms: talkative, garrulous, chatty, verbose, wordy\nantonyms: reticent, taciturn, reserved, silent"
+        "subtopic": "5. Lethargic",
+        "content": "• MEANING:- Feeling sluggish or lacking energy\n• सुस्त, आलसी\n\n• SYNONYMS:- inactive, lazy, drowsy, weary\n\n• ANTONYMS:- energetic, alert, active, lively"
       },
       {
-        "subtopic": "Luciferous",
-        "content": "meaning: Bringing or providing light, enlightening\nsynonyms: illuminating, enlightening, revealing, explanatory\nantonyms: obscure, confusing, dark, puzzling"
+        "subtopic": "6. Lucid",
+        "content": "• MEANING:- Clear and easy to understand\n• स्पष्ट, समझने योग्य\n\n• SYNONYMS:- clear, plain, intelligible, coherent\n\n• ANTONYMS:- unclear, confusing, obscure, vague"
+      },
+      {
+        "subtopic": "7. Lucrative",
+        "content": "• MEANING:- Producing a great deal of profit\n• लाभदायक, फायदे का\n\n• SYNONYMS:- profitable, gainful, rewarding, money-making\n\n• ANTONYMS:- unprofitable, loss-making, disadvantageous"
+      },
+      {
+        "subtopic": "8. Ludicrous",
+        "content": "• MEANING:- Ridiculously absurd or laughable\n• हास्यास्पद, मूर्खतापूर्ण\n\n• SYNONYMS:- absurd, ridiculous, comical, preposterous\n\n• ANTONYMS:- sensible, reasonable, logical, serious"
+      },
+      {
+        "subtopic": "9. Lurid",
+        "content": "• MEANING:- Very vivid in color, often unpleasantly; shocking details\n• चटकीला, सनसनीखेज\n\n• SYNONYMS:- sensational, shocking, bright, ghastly\n\n• ANTONYMS:- dull, restrained, subtle, understated"
+      },
+      {
+        "subtopic": "10. Languish",
+        "content": "• MEANING:- To suffer or remain in an unpleasant situation\n• कमजोर होना, पीड़ा सहना\n\n• SYNONYMS:- weaken, decline, deteriorate, wither\n\n• ANTONYMS:- thrive, flourish, prosper, strengthen"
+      },
+      {
+        "subtopic": "11. Lofty",
+        "content": "• MEANING:- Of imposing height; noble in character\n• ऊँचा, महान\n\n• SYNONYMS:- tall, elevated, noble, grand\n\n• ANTONYMS:- low, base, humble, petty"
       }
     ]
   },
@@ -416,28 +699,48 @@
     "topic": "Starts with M",
     "subtopics": [
       {
-        "subtopic": "Magnanimous",
-        "content": "meaning: Generous or forgiving, especially towards a rival or less powerful person\nsynonyms: generous, charitable, benevolent, kind, forgiving\nantonyms: petty, selfish, mean, spiteful"
+        "subtopic": "1. Magnanimous",
+        "content": "• MEANING:- Very generous or forgiving, especially towards a rival\n• उदार, क्षमाशील\n\n• SYNONYMS:- generous, benevolent, kind, forgiving\n\n• ANTONYMS:- selfish, petty, mean, vindictive"
       },
       {
-        "subtopic": "Meticulous",
-        "content": "meaning: Showing great attention to detail; very careful and precise\nsynonyms: careful, precise, thorough, diligent, accurate\nantonyms: careless, negligent, sloppy, haphazard"
+        "subtopic": "2. Malign",
+        "content": "• MEANING:- To speak harmful lies about someone\n• बदनाम करना, निंदा करना\n\n• SYNONYMS:- slander, defame, vilify, disparage\n\n• ANTONYMS:- praise, commend, honor, acclaim"
       },
       {
-        "subtopic": "Morose",
-        "content": "meaning: Sullen, gloomy, and ill-tempered\nsynonyms: sullen, gloomy, melancholy, sulky, moody\nantonyms: cheerful, happy, joyful, pleasant"
+        "subtopic": "3. Manifest",
+        "content": "• MEANING:- Clear, obvious, or evident\n• प्रत्यक्ष, स्पष्ट\n\n• SYNONYMS:- apparent, evident, visible, clear\n\n• ANTONYMS:- hidden, obscure, unclear, concealed"
       },
       {
-        "subtopic": "Mitigate",
-        "content": "meaning: To make less severe, serious, or painful\nsynonyms: alleviate, ease, reduce, relieve, diminish\nantonyms: aggravate, worsen, intensify, exacerbate"
+        "subtopic": "4. Manipulate",
+        "content": "• MEANING:- To control or influence cleverly or unfairly\n• चालाकी से नियंत्रित करना\n\n• SYNONYMS:- exploit, maneuver, influence, control\n\n• ANTONYMS:- mismanage, neglect, ignore"
       },
       {
-        "subtopic": "Mundane",
-        "content": "meaning: Lacking interest or excitement; ordinary\nsynonyms: ordinary, dull, boring, routine, monotonous\nantonyms: extraordinary, exciting, unusual, remarkable"
+        "subtopic": "5. Meander",
+        "content": "• MEANING:- To wander aimlessly or without a fixed course\n• भटकना, इधर-उधर घूमना\n\n• SYNONYMS:- wander, roam, drift, ramble\n\n• ANTONYMS:- straighten, direct, focus"
       },
       {
-        "subtopic": "Maverick",
-        "content": "meaning: An independent-minded person who resists conformity\nsynonyms: individualist, nonconformist, rebel, free spirit\nantonyms: conformist, follower, traditionalist"
+        "subtopic": "6. Melancholy",
+        "content": "• MEANING:- A deep, long-lasting sadness\n• उदासी, विषाद\n\n• SYNONYMS:- sadness, gloom, sorrow, grief\n\n• ANTONYMS:- joy, happiness, cheerfulness, delight"
+      },
+      {
+        "subtopic": "7. Meticulous",
+        "content": "• MEANING:- Showing great attention to detail\n• अत्यधिक सावधान, सूक्ष्म\n\n• SYNONYMS:- careful, precise, thorough, diligent\n\n• ANTONYMS:- careless, sloppy, negligent, hasty"
+      },
+      {
+        "subtopic": "8. Militant",
+        "content": "• MEANING:- Aggressive and combative in support of a cause\n• उग्र, आक्रामक\n\n• SYNONYMS:- aggressive, combative, belligerent, confrontational\n\n• ANTONYMS:- peaceful, calm, gentle, tolerant"
+      },
+      {
+        "subtopic": "9. Mitigate",
+        "content": "• MEANING:- To make less severe or painful\n• कम करना, शमन करना\n\n• SYNONYMS:- alleviate, reduce, ease, lessen\n\n• ANTONYMS:- aggravate, intensify, worsen, heighten"
+      },
+      {
+        "subtopic": "10. Mundane",
+        "content": "• MEANING:- Lacking excitement, ordinary\n• साधारण, नीरस\n\n• SYNONYMS:- ordinary, routine, dull, commonplace\n\n• ANTONYMS:- extraordinary, exciting, unusual, remarkable"
+      },
+      {
+        "subtopic": "11. Myriad",
+        "content": "• MEANING:- A countless or extremely great number\n• असंख्य, अनगिनत\n\n• SYNONYMS:- innumerable, countless, infinite, numerous\n\n• ANTONYMS:- few, limited, finite, scarce"
       }
     ]
   },
@@ -445,28 +748,48 @@
     "topic": "Starts with N",
     "subtopics": [
       {
-        "subtopic": "Nefarious",
-        "content": "meaning: Wicked, criminal, or morally bad\nsynonyms: wicked, evil, sinful, villainous, corrupt\nantonyms: virtuous, righteous, honorable, ethical"
+        "subtopic": "1. Nefarious",
+        "content": "• MEANING:- Wicked, evil, or criminal\n• दुष्ट, अनैतिक\n\n• SYNONYMS:- wicked, evil, villainous, immoral\n\n• ANTONYMS:- good, virtuous, noble, moral"
       },
       {
-        "subtopic": "Nebulous",
-        "content": "meaning: Unclear, vague, or ill-defined\nsynonyms: vague, unclear, indefinite, hazy, ambiguous\nantonyms: clear, definite, distinct, precise"
+        "subtopic": "2. Negligent",
+        "content": "• MEANING:- Failing to take proper care\n• लापरवाह, असावधान\n\n• SYNONYMS:- careless, inattentive, heedless, reckless\n\n• ANTONYMS:- careful, attentive, responsible, cautious"
       },
       {
-        "subtopic": "Nonchalant",
-        "content": "meaning: Feeling or appearing casually calm and relaxed; not displaying anxiety or enthusiasm\nsynonyms: calm, composed, unconcerned, casual, indifferent\nantonyms: anxious, concerned, enthusiastic, worried"
+        "subtopic": "3. Niche",
+        "content": "• MEANING:- A comfortable or suitable position in life or job\n• उपयुक्त स्थान, विशेष क्षेत्र\n\n• SYNONYMS:- position, role, slot, place\n\n• ANTONYMS:- misfit, incompatibility, displacement"
       },
       {
-        "subtopic": "Nostalgia",
-        "content": "meaning: A sentimental longing for the past\nsynonyms: reminiscence, homesickness, wistfulness, yearning\nantonyms: forgetfulness, indifference, amnesia"
+        "subtopic": "4. Nominal",
+        "content": "• MEANING:- Very small, far below the real value\n• नाममात्र का, बहुत कम\n\n• SYNONYMS:- minimal, token, insignificant, tiny\n\n• ANTONYMS:- significant, considerable, substantial"
       },
       {
-        "subtopic": "Negligent",
-        "content": "meaning: Failing to take proper care in doing something\nsynonyms: careless, inattentive, lax, irresponsible\nantonyms: careful, attentive, conscientious, responsible"
+        "subtopic": "5. Nostalgia",
+        "content": "• MEANING:- Sentimental longing for the past\n• अतीत की याद, पुरानी यादें\n\n• SYNONYMS:- reminiscence, homesickness, sentimentality\n\n• ANTONYMS:- indifference, forgetfulness, unconcern"
       },
       {
-        "subtopic": "Nuance",
-        "content": "meaning: A subtle difference in meaning, expression, or sound\nsynonyms: subtlety, distinction, refinement, gradation\nantonyms: bluntness, obviousness, clarity"
+        "subtopic": "6. Notorious",
+        "content": "• MEANING:- Famous for something bad\n• बदनाम, कुख्यात\n\n• SYNONYMS:- infamous, disreputable, scandalous\n\n• ANTONYMS:- reputable, respected, honorable"
+      },
+      {
+        "subtopic": "7. Novel",
+        "content": "• MEANING:- New and original\n• नया, मौलिक\n\n• SYNONYMS:- innovative, fresh, original, unique\n\n• ANTONYMS:- old, traditional, common, ordinary"
+      },
+      {
+        "subtopic": "8. Noxious",
+        "content": "• MEANING:- Harmful, poisonous, or very unpleasant\n• हानिकारक, जहरीला\n\n• SYNONYMS:- harmful, toxic, poisonous, injurious\n\n• ANTONYMS:- beneficial, harmless, safe, healthy"
+      },
+      {
+        "subtopic": "9. Nuance",
+        "content": "• MEANING:- A subtle difference in meaning, expression, or tone\n• सूक्ष्म भेद, नाज़ुक अंतर\n\n• SYNONYMS:- subtlety, distinction, variation, shade\n\n• ANTONYMS:- similarity, uniformity, sameness"
+      },
+      {
+        "subtopic": "10. Nurture",
+        "content": "• MEANING:- To care for and encourage growth\n• पोषण करना, पालन-पोषण करना\n\n• SYNONYMS:- foster, nourish, cultivate, support\n\n• ANTONYMS:- neglect, ignore, hinder, abandon"
+      },
+      {
+        "subtopic": "11. Naive",
+        "content": "• MEANING:- Lacking experience or wisdom\n• भोला, अनुभवहीन\n\n• SYNONYMS:- innocent, gullible, simple, trusting\n\n• ANTONYMS:- wise, experienced, shrewd, skeptical"
       }
     ]
   },
@@ -474,28 +797,48 @@
     "topic": "Starts with O",
     "subtopics": [
       {
-        "subtopic": "Obstinate",
-        "content": "meaning: Stubbornly refusing to change one's opinion or course of action\nsynonyms: stubborn, inflexible, headstrong, unyielding\nantonyms: flexible, compliant, submissive, yielding"
+        "subtopic": "1. Obdurate",
+        "content": "• MEANING:- Stubbornly refusing to change one’s opinion\n• हठी, अड़ियल\n\n• SYNONYMS:- stubborn, inflexible, unyielding, adamant\n\n• ANTONYMS:- flexible, yielding, soft, compliant"
       },
       {
-        "subtopic": "Ominous",
-        "content": "meaning: Giving the impression that something bad is going to happen\nsynonyms: threatening, menacing, foreboding, sinister\nantonyms: promising, hopeful, reassuring, favorable"
+        "subtopic": "2. Oblivious",
+        "content": "• MEANING:- Not aware of or not concerned about what is happening\n• अनजान, बेखबर\n\n• SYNONYMS:- unaware, ignorant, inattentive, heedless\n\n• ANTONYMS:- aware, conscious, mindful, alert"
       },
       {
-        "subtopic": "Ostentatious",
-        "content": "meaning: Characterized by vulgar or pretentious display; designed to impress\nsynonyms: showy, flamboyant, extravagant, pretentious\nantonyms: modest, humble, simple, restrained"
+        "subtopic": "3. Obscure",
+        "content": "• MEANING:- Not well-known, unclear, difficult to understand\n• अस्पष्ट, धुंधला\n\n• SYNONYMS:- unclear, vague, ambiguous, hidden\n\n• ANTONYMS:- clear, obvious, distinct, famous"
       },
       {
-        "subtopic": "Oblivious",
-        "content": "meaning: Not aware of or concerned about what is happening around\nsynonyms: unaware, unconscious, ignorant, heedless\nantonyms: aware, mindful, conscious, attentive"
+        "subtopic": "4. Obsolete",
+        "content": "• MEANING:- Outdated, no longer in use\n• पुराना, अप्रचलित\n\n• SYNONYMS:- outdated, archaic, old-fashioned, extinct\n\n• ANTONYMS:- modern, current, new, contemporary"
       },
       {
-        "subtopic": "Opaque",
-        "content": "meaning: Not transparent; hard to understand\nsynonyms: cloudy, obscure, unclear, impenetrable\nantonyms: transparent, clear, lucid, obvious"
+        "subtopic": "5. Obstinate",
+        "content": "• MEANING:- Very stubborn, unwilling to change\n• जिद्दी, हठी\n\n• SYNONYMS:- stubborn, headstrong, unyielding, rigid\n\n• ANTONYMS:- compliant, cooperative, flexible, obedient"
       },
       {
-        "subtopic": "Omnipotent",
-        "content": "meaning: Having unlimited power; able to do anything\nsynonyms: all-powerful, supreme, almighty, invincible\nantonyms: powerless, weak, limited, helpless"
+        "subtopic": "6. Ominous",
+        "content": "• MEANING:- Suggesting that something bad is going to happen\n• अशुभ, अनिष्टसूचक\n\n• SYNONYMS:- threatening, foreboding, menacing, sinister\n\n• ANTONYMS:- promising, hopeful, auspicious"
+      },
+      {
+        "subtopic": "7. Opaque",
+        "content": "• MEANING:- Not transparent, hard to understand\n• अपारदर्शी, अस्पष्ट\n\n• SYNONYMS:- unclear, murky, obscure, dense\n\n• ANTONYMS:- clear, transparent, obvious"
+      },
+      {
+        "subtopic": "8. Opulent",
+        "content": "• MEANING:- Rich, luxurious, and lavish\n• धनी, भव्य\n\n• SYNONYMS:- wealthy, luxurious, grand, extravagant\n\n• ANTONYMS:- poor, simple, humble, modest"
+      },
+      {
+        "subtopic": "9. Ornate",
+        "content": "• MEANING:- Highly decorated, elaborate\n• अलंकृत, सजाया हुआ\n\n• SYNONYMS:- decorated, embellished, adorned, fancy\n\n• ANTONYMS:- plain, simple, unadorned"
+      },
+      {
+        "subtopic": "10. Orthodox",
+        "content": "• MEANING:- Following traditional beliefs or practices\n• परंपरागत, रूढ़िवादी\n\n• SYNONYMS:- traditional, conventional, conservative\n\n• ANTONYMS:- unorthodox, unconventional, liberal"
+      },
+      {
+        "subtopic": "11. Ostentatious",
+        "content": "• MEANING:- Showing off wealth or knowledge in a vulgar way\n• दिखावटी, आडंबरपूर्ण\n\n• SYNONYMS:- showy, flashy, extravagant, boastful\n\n• ANTONYMS:- modest, simple, humble, restrained"
       }
     ]
   },
@@ -503,28 +846,52 @@
     "topic": "Starts with P",
     "subtopics": [
       {
-        "subtopic": "Pragmatic",
-        "content": "meaning: Dealing with things sensibly and realistically\nsynonyms: practical, realistic, rational, logical\nantonyms: impractical, unrealistic, irrational, idealistic"
+        "subtopic": "1. Palliate",
+        "content": "• MEANING:- To make a problem seem less serious without solving it\n• उपशमन करना, हल्का करना\n\n• SYNONYMS:- alleviate, ease, lessen, relieve\n\n• ANTONYMS:- worsen, aggravate, intensify"
       },
       {
-        "subtopic": "Pernicious",
-        "content": "meaning: Having a harmful effect, especially in a gradual way\nsynonyms: harmful, destructive, damaging, injurious\nantonyms: beneficial, helpful, harmless, favorable"
+        "subtopic": "2. Panacea",
+        "content": "• MEANING:- A solution or remedy for all problems\n• सर्वरोगनाशक, रामबाण इलाज\n\n• SYNONYMS:- cure-all, universal remedy, elixir\n\n• ANTONYMS:- poison, disease, problem"
       },
       {
-        "subtopic": "Pensive",
-        "content": "meaning: Engaged in deep or serious thought\nsynonyms: thoughtful, reflective, contemplative, meditative\nantonyms: careless, negligent, thoughtless, shallow"
+        "subtopic": "3. Paradox",
+        "content": "• MEANING:- A statement that seems contradictory but may be true\n• विरोधाभास, विपरीतार्थक कथन\n\n• SYNONYMS:- contradiction, puzzle, inconsistency, irony\n\n• ANTONYMS:- clarity, certainty, consistency"
       },
       {
-        "subtopic": "Prolific",
-        "content": "meaning: Producing much fruit, foliage, or offspring; highly productive\nsynonyms: productive, fertile, abundant, fruitful\nantonyms: barren, unproductive, infertile, scarce"
+        "subtopic": "4. Paragon",
+        "content": "• MEANING:- A model of excellence or perfection\n• आदर्श, उत्कृष्ट उदाहरण\n\n• SYNONYMS:- model, ideal, epitome, standard\n\n• ANTONYMS:- flaw, imperfection, worst"
       },
       {
-        "subtopic": "Persevere",
-        "content": "meaning: Continue in a course of action even in the face of difficulty\nsynonyms: persist, endure, continue, strive\nantonyms: quit, surrender, give up, abandon"
+        "subtopic": "5. Paramount",
+        "content": "• MEANING:- More important than anything else\n• सर्वोच्च, सबसे महत्वपूर्ण\n\n• SYNONYMS:- supreme, dominant, primary, foremost\n\n• ANTONYMS:- minor, trivial, secondary"
       },
       {
-        "subtopic": "Placate",
-        "content": "meaning: Make someone less angry or hostile\nsynonyms: pacify, appease, soothe, mollify\nantonyms: provoke, irritate, enrage, upset"
+        "subtopic": "6. Paucity",
+        "content": "• MEANING:- The presence of something in very small amount\n• कमी, अल्पता\n\n• SYNONYMS:- scarcity, shortage, dearth, insufficiency\n\n• ANTONYMS:- abundance, plenty, profusion"
+      },
+      {
+        "subtopic": "7. Pedantic",
+        "content": "• MEANING:- Excessively concerned with minor details or rules\n• शास्त्रीय विवरणों में उलझा हुआ\n\n• SYNONYMS:- fussy, overcritical, precise, meticulous\n\n• ANTONYMS:- careless, informal, easy-going"
+      },
+      {
+        "subtopic": "8. Penchant",
+        "content": "• MEANING:- A strong liking for something\n• झुकाव, रुचि\n\n• SYNONYMS:- inclination, preference, taste, fondness\n\n• ANTONYMS:- dislike, aversion, disinclination"
+      },
+      {
+        "subtopic": "9. Perfunctory",
+        "content": "• MEANING:- Done carelessly or without real interest\n• औपचारिक, बिना ध्यान से किया हुआ\n\n• SYNONYMS:- superficial, careless, hasty, routine\n\n• ANTONYMS:- careful, detailed, thorough"
+      },
+      {
+        "subtopic": "10. Pernicious",
+        "content": "• MEANING:- Having a harmful effect, especially in a subtle way\n• हानिकारक, घातक\n\n• SYNONYMS:- harmful, destructive, dangerous, damaging\n\n• ANTONYMS:- beneficial, harmless, favorable"
+      },
+      {
+        "subtopic": "11. Perspicacious",
+        "content": "• MEANING:- Having a ready insight into things\n• दूरदर्शी, गहरी समझ रखने वाला\n\n• SYNONYMS:- insightful, perceptive, wise, shrewd\n\n• ANTONYMS:- ignorant, dull, unaware"
+      },
+      {
+        "subtopic": "12. Prodigal",
+        "content": "• MEANING:- Spending money or resources freely and recklessly\n• अपव्ययी, फिजूलखर्ची करने वाला\n\n• SYNONYMS:- wasteful, extravagant, lavish, spendthrift\n\n• ANTONYMS:- frugal, economical, thrifty"
       }
     ]
   },
@@ -532,24 +899,44 @@
     "topic": "Starts with Q",
     "subtopics": [
       {
-        "subtopic": "Quaint",
-        "content": "meaning: Attractively unusual or old-fashioned\nsynonyms: picturesque, charming, curious, whimsical\nantonyms: modern, ordinary, common, usual"
+        "subtopic": "1. Quagmire",
+        "content": "• MEANING:- A difficult or complex situation\n• दलदल, कठिन परिस्थिति\n\n• SYNONYMS:- dilemma, entanglement, predicament, mess\n\n• ANTONYMS:- solution, advantage, clarity"
       },
       {
-        "subtopic": "Quell",
-        "content": "meaning: To put an end to (a rebellion or disorder), typically by force\nsynonyms: suppress, subdue, crush, extinguish\nantonyms: incite, provoke, encourage, arouse"
+        "subtopic": "2. Quail",
+        "content": "• MEANING:- To feel or show fear\n• डरना, सहम जाना\n\n• SYNONYMS:- cower, flinch, tremble, recoil\n\n• ANTONYMS:- confront, endure, resist, face"
       },
       {
-        "subtopic": "Querulous",
-        "content": "meaning: Complaining in a whining or petulant manner\nsynonyms: whining, complaining, irritable, grumbling\nantonyms: cheerful, contented, satisfied, easy-going"
+        "subtopic": "3. Quandary",
+        "content": "• MEANING:- A state of uncertainty or confusion\n• दुविधा, उलझन\n\n• SYNONYMS:- confusion, dilemma, perplexity, uncertainty\n\n• ANTONYMS:- certainty, solution, clarity"
       },
       {
-        "subtopic": "Quintessential",
-        "content": "meaning: Representing the most perfect example of something\nsynonyms: typical, classic, ideal, ultimate\nantonyms: atypical, abnormal, flawed, imperfect"
+        "subtopic": "4. Quarantine",
+        "content": "• MEANING:- Isolation to prevent the spread of disease\n• पृथकवास, अलगाव\n\n• SYNONYMS:- isolation, seclusion, segregation, separation\n\n• ANTONYMS:- integration, freedom, mixing"
       },
       {
-        "subtopic": "Quixotic",
-        "content": "meaning: Exceedingly idealistic; unrealistic and impractical\nsynonyms: visionary, romantic, impractical, dreamy\nantonyms: pragmatic, realistic, practical, sensible"
+        "subtopic": "5. Quench",
+        "content": "• MEANING:- To satisfy thirst or extinguish fire\n• बुझाना, प्यास बुझाना\n\n• SYNONYMS:- satisfy, extinguish, suppress, slake\n\n• ANTONYMS:- inflame, ignite, provoke"
+      },
+      {
+        "subtopic": "6. Querulous",
+        "content": "• MEANING:- Complaining in a petulant or whining manner\n• शिकायत करने वाला, चिड़चिड़ा\n\n• SYNONYMS:- irritable, moody, grumbling, fretful\n\n• ANTONYMS:- cheerful, satisfied, content"
+      },
+      {
+        "subtopic": "7. Quibble",
+        "content": "• MEANING:- A slight objection or criticism\n• तर्क-वितर्क करना, बहाना बनाना\n\n• SYNONYMS:- complaint, objection, criticism, cavil\n\n• ANTONYMS:- agreement, approval, praise"
+      },
+      {
+        "subtopic": "8. Quintessential",
+        "content": "• MEANING:- Representing the most perfect example\n• उत्कृष्ट उदाहरण, मूलभूत\n\n• SYNONYMS:- perfect, ultimate, typical, ideal\n\n• ANTONYMS:- atypical, abnormal, flawed"
+      },
+      {
+        "subtopic": "9. Quixotic",
+        "content": "• MEANING:- Extremely idealistic or unrealistic\n• अव्यावहारिक, काल्पनिक\n\n• SYNONYMS:- unrealistic, impractical, dreamy, romantic\n\n• ANTONYMS:- practical, realistic, sensible"
+      },
+      {
+        "subtopic": "10. Quotidian",
+        "content": "• MEANING:- Ordinary or everyday occurrence\n• दैनिक, साधारण\n\n• SYNONYMS:- daily, routine, commonplace, regular\n\n• ANTONYMS:- unusual, rare, extraordinary"
       }
     ]
   },
@@ -557,24 +944,72 @@
     "topic": "Starts with R",
     "subtopics": [
       {
-        "subtopic": "Resilient",
-        "content": "meaning: Able to withstand or recover quickly from difficulties\nsynonyms: strong, tough, adaptable, flexible\nantonyms: fragile, weak, vulnerable, delicate"
+        "subtopic": "1. Rambunctious",
+        "content": "• MEANING:- Uncontrollably exuberant or boisterous\n• शोरगुल वाला, उग्र\n\n• SYNONYMS:- rowdy, noisy, wild, disorderly\n\n• ANTONYMS:- calm, quiet, peaceful, restrained"
       },
       {
-        "subtopic": "Reticent",
-        "content": "meaning: Not revealing one’s thoughts or feelings readily\nsynonyms: reserved, silent, quiet, introverted\nantonyms: talkative, open, communicative, outgoing"
+        "subtopic": "2. Rampant",
+        "content": "• MEANING:- Spreading unchecked, widespread\n• बेकाबू, व्यापक\n\n• SYNONYMS:- uncontrolled, widespread, unrestrained\n\n• ANTONYMS:- controlled, limited, restrained"
       },
       {
-        "subtopic": "Ravenous",
-        "content": "meaning: Extremely hungry\nsynonyms: starving, famished, voracious, insatiable\nantonyms: full, satisfied, content, nourished"
+        "subtopic": "3. Rancor",
+        "content": "• MEANING:- Bitterness or resentfulness\n• कटुता, द्वेष\n\n• SYNONYMS:- resentment, bitterness, hostility, malice\n\n• ANTONYMS:- goodwill, friendliness, kindness"
       },
       {
-        "subtopic": "Reverence",
-        "content": "meaning: Deep respect for someone or something\nsynonyms: admiration, esteem, honor, veneration\nantonyms: disrespect, disdain, contempt, scorn"
+        "subtopic": "4. Rapport",
+        "content": "• MEANING:- A close and harmonious relationship\n• अच्छा संबंध, मेल-जोल\n\n• SYNONYMS:- harmony, connection, bond, understanding\n\n• ANTONYMS:- discord, conflict, disagreement"
       },
       {
-        "subtopic": "Rudimentary",
-        "content": "meaning: Involving basic principles; not fully developed\nsynonyms: basic, elementary, simple, primitive\nantonyms: advanced, sophisticated, complex, developed"
+        "subtopic": "5. Rapture",
+        "content": "• MEANING:- A state of intense joy\n• परम आनंद, उल्लास\n\n• SYNONYMS:- ecstasy, joy, delight, bliss\n\n• ANTONYMS:- misery, sorrow, despair"
+      },
+      {
+        "subtopic": "6. Rarefied",
+        "content": "• MEANING:- Distant from the lives of ordinary people; thin air at high altitudes\n• दुर्लभ, विरल\n\n• SYNONYMS:- esoteric, exclusive, thin, refined\n\n• ANTONYMS:- common, ordinary, dense"
+      },
+      {
+        "subtopic": "7. Rationale",
+        "content": "• MEANING:- The underlying reason or explanation\n• तर्क, कारण\n\n• SYNONYMS:- reason, justification, basis, logic\n\n• ANTONYMS:- irrationality, nonsense, ambiguity"
+      },
+      {
+        "subtopic": "8. Ravenous",
+        "content": "• MEANING:- Extremely hungry\n• भूखा-प्यासा, लालची\n\n• SYNONYMS:- famished, starving, insatiable\n\n• ANTONYMS:- full, satisfied, content"
+      },
+      {
+        "subtopic": "9. Rebuff",
+        "content": "• MEANING:- A blunt or abrupt rejection\n• इंकार, ठुकराना\n\n• SYNONYMS:- rejection, denial, refusal, snub\n\n• ANTONYMS:- approval, acceptance, agreement"
+      },
+      {
+        "subtopic": "10. Rebuke",
+        "content": "• MEANING:- To express sharp disapproval or criticism\n• डांटना, फटकारना\n\n• SYNONYMS:- scold, reprimand, censure, reproach\n\n• ANTONYMS:- praise, commend, compliment"
+      },
+      {
+        "subtopic": "11. Recalcitrant",
+        "content": "• MEANING:- Stubbornly resisting authority\n• हठी, जिद्दी\n\n• SYNONYMS:- defiant, resistant, disobedient, unmanageable\n\n• ANTONYMS:- compliant, obedient, cooperative"
+      },
+      {
+        "subtopic": "12. Recapitulate",
+        "content": "• MEANING:- To summarize and state again\n• सारांश देना, दोहराना\n\n• SYNONYMS:- summarize, review, repeat, restate\n\n• ANTONYMS:- expand, elaborate, lengthen"
+      },
+      {
+        "subtopic": "13. Reclusive",
+        "content": "• MEANING:- Avoiding the company of others\n• एकांतप्रिय, संन्यासी\n\n• SYNONYMS:- solitary, isolated, secluded, withdrawn\n\n• ANTONYMS:- sociable, outgoing, extroverted"
+      },
+      {
+        "subtopic": "14. Redundant",
+        "content": "• MEANING:- No longer needed or useful\n• अनावश्यक, बेकार\n\n• SYNONYMS:- superfluous, surplus, excessive, unnecessary\n\n• ANTONYMS:- essential, necessary, important"
+      },
+      {
+        "subtopic": "15. Refurbish",
+        "content": "• MEANING:- To renovate or redecorate\n• नवीनीकरण करना, सुधारना\n\n• SYNONYMS:- renovate, renew, restore, improve\n\n• ANTONYMS:- damage, ruin, spoil"
+      },
+      {
+        "subtopic": "16. Resilient",
+        "content": "• MEANING:- Able to recover quickly from difficulties\n• लचीला, दृढ़\n\n• SYNONYMS:- tough, strong, adaptable, flexible\n\n• ANTONYMS:- fragile, weak, rigid"
+      },
+      {
+        "subtopic": "17. Resolute",
+        "content": "• MEANING:- Admirably purposeful and determined\n• दृढ़निश्चयी, अटल\n\n• SYNONYMS:- determined, steadfast, unwavering, firm\n\n• ANTONYMS:- indecisive, uncertain, weak"
       }
     ]
   },
@@ -582,24 +1017,88 @@
     "topic": "Starts with S",
     "subtopics": [
       {
-        "subtopic": "Sagacious",
-        "content": "meaning: Having or showing keen mental discernment and good judgment\nsynonyms: wise, intelligent, perceptive, shrewd\nantonyms: foolish, ignorant, naive, stupid"
+        "subtopic": "1. Sagacious",
+        "content": "• MEANING:- Having or showing keen mental discernment and good judgment\n• बुद्धिमान, विवेकी\n\n• SYNONYMS:- wise, intelligent, prudent, shrewd\n\n• ANTONYMS:- foolish, ignorant, unwise"
       },
       {
-        "subtopic": "Scrutinize",
-        "content": "meaning: To examine or inspect closely and thoroughly\nsynonyms: inspect, analyze, investigate, probe\nantonyms: glance, ignore, overlook, neglect"
+        "subtopic": "2. Salient",
+        "content": "• MEANING:- Most noticeable or important\n• प्रमुख, मुख्य\n\n• SYNONYMS:- prominent, important, significant, striking\n\n• ANTONYMS:- insignificant, minor, unimportant"
       },
       {
-        "subtopic": "Skeptical",
-        "content": "meaning: Not easily convinced; having doubts or reservations\nsynonyms: doubtful, cynical, suspicious, unconvinced\nantonyms: convinced, certain, trusting, credulous"
+        "subtopic": "3. Sanguine",
+        "content": "• MEANING:- Optimistic or positive, especially in a difficult situation\n• आशावादी, सकारात्मक\n\n• SYNONYMS:- hopeful, confident, cheerful, positive\n\n• ANTONYMS:- pessimistic, gloomy, doubtful"
       },
       {
-        "subtopic": "Superfluous",
-        "content": "meaning: Unnecessary, especially through being more than enough\nsynonyms: excessive, redundant, surplus, extra\nantonyms: necessary, essential, needed, vital"
+        "subtopic": "4. Sardonic",
+        "content": "• MEANING:- Grimly mocking or cynical\n• व्यंग्यपूर्ण, कटाक्षयुक्त\n\n• SYNONYMS:- sarcastic, mocking, derisive, cynical\n\n• ANTONYMS:- sincere, genuine, respectful"
       },
       {
-        "subtopic": "Sympathy",
-        "content": "meaning: Feelings of pity and sorrow for someone else’s misfortune\nsynonyms: compassion, concern, kindness, understanding\nantonyms: apathy, indifference, cruelty, callousness"
+        "subtopic": "5. Scrupulous",
+        "content": "• MEANING:- Extremely attentive to details; very concerned to avoid doing wrong\n• ईमानदार, सजग\n\n• SYNONYMS:- meticulous, honest, careful, diligent\n\n• ANTONYMS:- careless, dishonest, negligent"
+      },
+      {
+        "subtopic": "6. Scurrilous",
+        "content": "• MEANING:- Making or spreading scandalous claims with the intention of damaging reputation\n• अपमानजनक, अशोभनीय\n\n• SYNONYMS:- slanderous, abusive, defamatory, insulting\n\n• ANTONYMS:- respectful, complimentary, polite"
+      },
+      {
+        "subtopic": "7. Secluded",
+        "content": "• MEANING:- Not seen or visited by many people; private\n• एकांत, अलग\n\n• SYNONYMS:- isolated, remote, solitary, hidden\n\n• ANTONYMS:- public, open, accessible"
+      },
+      {
+        "subtopic": "8. Serendipity",
+        "content": "• MEANING:- The occurrence of events by chance in a happy or beneficial way\n• सौभाग्यपूर्ण संयोग\n\n• SYNONYMS:- fluke, chance, fortune, luck\n\n• ANTONYMS:- misfortune, bad luck, accident"
+      },
+      {
+        "subtopic": "9. Servile",
+        "content": "• MEANING:- Excessively willing to serve or please others\n• दासवत, चापलूस\n\n• SYNONYMS:- submissive, slavish, obedient, fawning\n\n• ANTONYMS:- assertive, independent, dominant"
+      },
+      {
+        "subtopic": "10. Skeptical",
+        "content": "• MEANING:- Not easily convinced; having doubts\n• संदेहशील, शंका करने वाला\n\n• SYNONYMS:- doubtful, suspicious, unconvinced, wary\n\n• ANTONYMS:- convinced, trusting, certain"
+      },
+      {
+        "subtopic": "11. Sluggish",
+        "content": "• MEANING:- Lacking energy or alertness\n• सुस्त, आलसी\n\n• SYNONYMS:- inactive, lazy, lethargic, slow\n\n• ANTONYMS:- active, energetic, lively"
+      },
+      {
+        "subtopic": "12. Slovenly",
+        "content": "• MEANING:- Untidy or careless in appearance\n• अस्त-व्यस्त, गंदा\n\n• SYNONYMS:- messy, untidy, careless, negligent\n\n• ANTONYMS:- neat, tidy, clean"
+      },
+      {
+        "subtopic": "13. Sporadic",
+        "content": "• MEANING:- Occurring at irregular intervals\n• छिटपुट, अनियमित\n\n• SYNONYMS:- occasional, infrequent, irregular, scattered\n\n• ANTONYMS:- constant, regular, frequent"
+      },
+      {
+        "subtopic": "14. Spurious",
+        "content": "• MEANING:- Not genuine, fake, false\n• नकली, झूठा\n\n• SYNONYMS:- fake, counterfeit, false, fraudulent\n\n• ANTONYMS:- genuine, real, authentic"
+      },
+      {
+        "subtopic": "15. Stagnant",
+        "content": "• MEANING:- Not flowing or moving; dull and sluggish\n• ठहरा हुआ, गतिहीन\n\n• SYNONYMS:- motionless, inactive, sluggish, still\n\n• ANTONYMS:- flowing, active, lively"
+      },
+      {
+        "subtopic": "16. Stalwart",
+        "content": "• MEANING:- Loyal, reliable, and hardworking\n• वफादार, मेहनती\n\n• SYNONYMS:- loyal, strong, dependable, faithful\n\n• ANTONYMS:- disloyal, weak, unfaithful"
+      },
+      {
+        "subtopic": "17. Stringent",
+        "content": "• MEANING:- Strict, precise, and exacting\n• कठोर, सख्त\n\n• SYNONYMS:- strict, severe, rigid, firm\n\n• ANTONYMS:- lenient, flexible, tolerant"
+      },
+      {
+        "subtopic": "18. Substantiate",
+        "content": "• MEANING:- Provide evidence to support the truth of something\n• प्रमाणित करना, साबित करना\n\n• SYNONYMS:- prove, validate, confirm, support\n\n• ANTONYMS:- disprove, refute, contradict"
+      },
+      {
+        "subtopic": "19. Superfluous",
+        "content": "• MEANING:- Unnecessary, more than enough\n• अनावश्यक, अतिरिक्त\n\n• SYNONYMS:- surplus, redundant, excessive, needless\n\n• ANTONYMS:- necessary, essential, vital"
+      },
+      {
+        "subtopic": "20. Surreptitious",
+        "content": "• MEANING:- Kept secret, especially because it would not be approved of\n• गुप्त, छुपा हुआ\n\n• SYNONYMS:- secret, stealthy, hidden, clandestine\n\n• ANTONYMS:- open, public, transparent"
+      },
+      {
+        "subtopic": "21. Synergy",
+        "content": "• MEANING:- The combined power of a group that is greater than individual efforts\n• सहयोगात्मक शक्ति\n\n• SYNONYMS:- teamwork, cooperation, harmony\n\n• ANTONYMS:- discord, conflict, rivalry"
       }
     ]
   },
@@ -607,24 +1106,88 @@
     "topic": "Starts with T",
     "subtopics": [
       {
-        "subtopic": "Tenacious",
-        "content": "meaning: Tending to keep a firm hold of something; persistent\nsynonyms: determined, resolute, steadfast, persistent\nantonyms: weak, yielding, irresolute, submissive"
+        "subtopic": "1. Tacit",
+        "content": "• MEANING:- Understood without being stated\n• मौन स्वीकृति, अप्रकट\n\n• SYNONYMS:- implied, unspoken, implicit, understood\n\n• ANTONYMS:- explicit, stated, expressed"
       },
       {
-        "subtopic": "Transient",
-        "content": "meaning: Lasting for only a short time\nsynonyms: temporary, fleeting, short-lived, momentary\nantonyms: permanent, lasting, enduring, eternal"
+        "subtopic": "2. Taciturn",
+        "content": "• MEANING:- Reserved or saying little\n• कम बोलने वाला, मितभाषी\n\n• SYNONYMS:- reserved, silent, reticent, quiet\n\n• ANTONYMS:- talkative, chatty, loquacious"
       },
       {
-        "subtopic": "Tranquil",
-        "content": "meaning: Free from disturbance; calm\nsynonyms: peaceful, serene, quiet, restful\nantonyms: noisy, disturbed, chaotic, restless"
+        "subtopic": "3. Tactful",
+        "content": "• MEANING:- Showing skill and sensitivity in dealing with others\n• समझदार, कुशल\n\n• SYNONYMS:- diplomatic, considerate, polite, thoughtful\n\n• ANTONYMS:- rude, careless, blunt"
       },
       {
-        "subtopic": "Trepidation",
-        "content": "meaning: A feeling of fear or agitation about something that may happen\nsynonyms: anxiety, dread, fear, apprehension\nantonyms: confidence, assurance, calmness, composure"
+        "subtopic": "4. Tangible",
+        "content": "• MEANING:- Perceptible by touch; clear and definite\n• ठोस, स्पर्शनीय\n\n• SYNONYMS:- real, concrete, actual, physical\n\n• ANTONYMS:- intangible, unreal, abstract"
       },
       {
-        "subtopic": "Tangible",
-        "content": "meaning: Perceptible by touch; real and concrete\nsynonyms: touchable, palpable, physical, substantial\nantonyms: intangible, abstract, unreal, imaginary"
+        "subtopic": "5. Tantalize",
+        "content": "• MEANING:- To tease or torment by presenting something desirable but out of reach\n• ललचाना, तंग करना\n\n• SYNONYMS:- tease, tempt, provoke, attract\n\n• ANTONYMS:- gratify, satisfy, please"
+      },
+      {
+        "subtopic": "6. Tarnish",
+        "content": "• MEANING:- To lose or cause to lose luster; to damage reputation\n• धूमिल करना, कलंकित करना\n\n• SYNONYMS:- stain, spoil, ruin, sully\n\n• ANTONYMS:- polish, shine, enhance"
+      },
+      {
+        "subtopic": "7. Tedious",
+        "content": "• MEANING:- Too long, slow, or dull; tiresome\n• उबाऊ, नीरस\n\n• SYNONYMS:- boring, monotonous, dull, repetitive\n\n• ANTONYMS:- interesting, exciting, engaging"
+      },
+      {
+        "subtopic": "8. Temerity",
+        "content": "• MEANING:- Excessive confidence or boldness\n• दुस्साहस, हिम्मत\n\n• SYNONYMS:- audacity, boldness, recklessness, daring\n\n• ANTONYMS:- caution, timidity, fear"
+      },
+      {
+        "subtopic": "9. Temperate",
+        "content": "• MEANING:- Showing moderation or self-restraint\n• संयमी, मध्यम\n\n• SYNONYMS:- moderate, restrained, balanced, calm\n\n• ANTONYMS:- extreme, excessive, immoderate"
+      },
+      {
+        "subtopic": "10. Tenacious",
+        "content": "• MEANING:- Tending to keep a firm hold of something; persistent\n• दृढ़, अटल\n\n• SYNONYMS:- determined, persistent, stubborn, resolute\n\n• ANTONYMS:- weak, irresolute, hesitant"
+      },
+      {
+        "subtopic": "11. Terse",
+        "content": "• MEANING:- Sparing in the use of words; abrupt\n• संक्षिप्त, छोटा\n\n• SYNONYMS:- brief, concise, succinct, short\n\n• ANTONYMS:- long-winded, wordy, verbose"
+      },
+      {
+        "subtopic": "12. Thwart",
+        "content": "• MEANING:- To prevent someone from accomplishing something\n• विफल करना, रोकना\n\n• SYNONYMS:- obstruct, hinder, oppose, prevent\n\n• ANTONYMS:- assist, support, aid"
+      },
+      {
+        "subtopic": "13. Tirade",
+        "content": "• MEANING:- A long, angry speech of criticism or accusation\n• लंबा क्रोधित भाषण, गाली-गलौज\n\n• SYNONYMS:- rant, outburst, diatribe, condemnation\n\n• ANTONYMS:- praise, compliment, approval"
+      },
+      {
+        "subtopic": "14. Torpid",
+        "content": "• MEANING:- Mentally or physically inactive\n• सुस्त, निढाल\n\n• SYNONYMS:- sluggish, lethargic, inactive, lazy\n\n• ANTONYMS:- active, energetic, lively"
+      },
+      {
+        "subtopic": "15. Tractable",
+        "content": "• MEANING:- Easy to control or influence\n• आज्ञाकारी, विनम्र\n\n• SYNONYMS:- obedient, manageable, compliant, submissive\n\n• ANTONYMS:- stubborn, defiant, disobedient"
+      },
+      {
+        "subtopic": "16. Transient",
+        "content": "• MEANING:- Lasting only for a short time\n• अस्थायी, क्षणिक\n\n• SYNONYMS:- temporary, fleeting, short-lived, brief\n\n• ANTONYMS:- permanent, lasting, enduring"
+      },
+      {
+        "subtopic": "17. Trepidation",
+        "content": "• MEANING:- A feeling of fear or agitation about something that may happen\n• भय, घबराहट\n\n• SYNONYMS:- fear, anxiety, dread, apprehension\n\n• ANTONYMS:- confidence, calmness, assurance"
+      },
+      {
+        "subtopic": "18. Trivial",
+        "content": "• MEANING:- Of little value or importance\n• मामूली, महत्वहीन\n\n• SYNONYMS:- insignificant, minor, petty, unimportant\n\n• ANTONYMS:- significant, important, serious"
+      },
+      {
+        "subtopic": "19. Truculent",
+        "content": "• MEANING:- Eager or quick to argue or fight\n• झगड़ालू, उग्र\n\n• SYNONYMS:- aggressive, hostile, belligerent, combative\n\n• ANTONYMS:- gentle, peaceful, cooperative"
+      },
+      {
+        "subtopic": "20. Turbulent",
+        "content": "• MEANING:- Characterized by conflict, disorder, or confusion\n• अशांत, अशुभ\n\n• SYNONYMS:- stormy, chaotic, restless, violent\n\n• ANTONYMS:- calm, peaceful, quiet"
+      },
+      {
+        "subtopic": "21. Tussle",
+        "content": "• MEANING:- A vigorous struggle or scuffle\n• झगड़ा, संघर्ष\n\n• SYNONYMS:- fight, quarrel, brawl, conflict\n\n• ANTONYMS:- agreement, harmony, peace"
       }
     ]
   },
@@ -632,24 +1195,88 @@
     "topic": "Starts with U",
     "subtopics": [
       {
-        "subtopic": "Ubiquitous",
-        "content": "meaning: Present, appearing, or found everywhere\nsynonyms: omnipresent, pervasive, universal, widespread\nantonyms: rare, scarce, limited, uncommon"
+        "subtopic": "1. Ubiquitous",
+        "content": "• MEANING:- Present, appearing, or found everywhere\n• सर्वव्यापी, हर जगह मौजूद\n\n• SYNONYMS:- omnipresent, universal, pervasive, widespread\n\n• ANTONYMS:- rare, scarce, limited"
       },
       {
-        "subtopic": "Unanimous",
-        "content": "meaning: Fully in agreement; everyone agrees\nsynonyms: agreed, united, concordant, harmonious\nantonyms: divided, conflicting, opposed, dissenting"
+        "subtopic": "2. Ulterior",
+        "content": "• MEANING:- Existing beyond what is obvious or admitted\n• छिपा हुआ, गुप्त\n\n• SYNONYMS:- hidden, concealed, secret, undisclosed\n\n• ANTONYMS:- open, obvious, clear"
       },
       {
-        "subtopic": "Undermine",
-        "content": "meaning: To weaken or damage gradually\nsynonyms: weaken, sabotage, subvert, erode\nantonyms: strengthen, support, fortify, bolster"
+        "subtopic": "3. Unanimous",
+        "content": "• MEANING:- Fully in agreement\n• सर्वसम्मत, एकमत\n\n• SYNONYMS:- agreed, united, concordant\n\n• ANTONYMS:- divided, split, conflicting"
       },
       {
-        "subtopic": "Unprecedented",
-        "content": "meaning: Never done or known before\nsynonyms: unparalleled, extraordinary, unique, unmatched\nantonyms: common, ordinary, usual, familiar"
+        "subtopic": "4. Uncanny",
+        "content": "• MEANING:- Strange or mysterious, especially in an unsettling way\n• रहस्यमय, अजीब\n\n• SYNONYMS:- eerie, supernatural, strange, weird\n\n• ANTONYMS:- natural, normal, ordinary"
       },
       {
-        "subtopic": "Uphold",
-        "content": "meaning: To support or maintain\nsynonyms: defend, support, sustain, endorse\nantonyms: oppose, undermine, reject, weaken"
+        "subtopic": "5. Uncouth",
+        "content": "• MEANING:- Lacking good manners or refinement\n• असभ्य, गंवार\n\n• SYNONYMS:- rude, uncivilized, boorish, rough\n\n• ANTONYMS:- polite, refined, cultured"
+      },
+      {
+        "subtopic": "6. Undermine",
+        "content": "• MEANING:- To weaken gradually\n• कमजोर करना, नींव हिलाना\n\n• SYNONYMS:- weaken, impair, sabotage, damage\n\n• ANTONYMS:- strengthen, support, bolster"
+      },
+      {
+        "subtopic": "7. Unequivocal",
+        "content": "• MEANING:- Leaving no doubt; clear and unambiguous\n• स्पष्ट, निर्विवाद\n\n• SYNONYMS:- clear, definite, absolute, unmistakable\n\n• ANTONYMS:- ambiguous, unclear, doubtful"
+      },
+      {
+        "subtopic": "8. Unfathomable",
+        "content": "• MEANING:- Difficult or impossible to understand\n• अथाह, अगाध, समझ से बाहर\n\n• SYNONYMS:- incomprehensible, deep, mysterious, puzzling\n\n• ANTONYMS:- clear, understandable, simple"
+      },
+      {
+        "subtopic": "9. Unflinching",
+        "content": "• MEANING:- Showing no fear or hesitation\n• अडिग, दृढ़\n\n• SYNONYMS:- resolute, fearless, steadfast, determined\n\n• ANTONYMS:- fearful, hesitant, cowardly"
+      },
+      {
+        "subtopic": "10. Unprecedented",
+        "content": "• MEANING:- Never done or known before\n• अभूतपूर्व, पहले कभी नहीं हुआ\n\n• SYNONYMS:- unheard-of, extraordinary, exceptional, novel\n\n• ANTONYMS:- usual, ordinary, common"
+      },
+      {
+        "subtopic": "11. Unpretentious",
+        "content": "• MEANING:- Modest, not trying to impress others\n• सादगीपूर्ण, सरल\n\n• SYNONYMS:- humble, simple, modest, natural\n\n• ANTONYMS:- arrogant, showy, pretentious"
+      },
+      {
+        "subtopic": "12. Unrelenting",
+        "content": "• MEANING:- Not yielding in strength, severity, or determination\n• अडिग, कठोर\n\n• SYNONYMS:- relentless, persistent, determined, ruthless\n\n• ANTONYMS:- lenient, flexible, merciful"
+      },
+      {
+        "subtopic": "13. Unscathed",
+        "content": "• MEANING:- Without suffering any injury or harm\n• सुरक्षित, अक्षत\n\n• SYNONYMS:- unharmed, safe, intact, secure\n\n• ANTONYMS:- injured, hurt, damaged"
+      },
+      {
+        "subtopic": "14. Untainted",
+        "content": "• MEANING:- Not spoiled or affected by something bad\n• निष्कलंक, पवित्र\n\n• SYNONYMS:- pure, clean, uncorrupted, spotless\n\n• ANTONYMS:- tainted, impure, corrupt"
+      },
+      {
+        "subtopic": "15. Unwavering",
+        "content": "• MEANING:- Steady or resolute\n• दृढ़, अटल\n\n• SYNONYMS:- firm, determined, steadfast, constant\n\n• ANTONYMS:- uncertain, wavering, indecisive"
+      },
+      {
+        "subtopic": "16. Urbane",
+        "content": "• MEANING:- Courteous and refined in manner\n• शिष्ट, सभ्य\n\n• SYNONYMS:- polite, cultured, refined, suave\n\n• ANTONYMS:- rude, uncouth, unrefined"
+      },
+      {
+        "subtopic": "17. Urge",
+        "content": "• MEANING:- A strong desire or impulse\n• आग्रह, प्रबल इच्छा\n\n• SYNONYMS:- desire, craving, compulsion, impulse\n\n• ANTONYMS:- indifference, reluctance, disinclination"
+      },
+      {
+        "subtopic": "18. Usher",
+        "content": "• MEANING:- To guide or show the way\n• मार्गदर्शन करना, ले जाना\n\n• SYNONYMS:- guide, lead, escort, conduct\n\n• ANTONYMS:- mislead, confuse, abandon"
+      },
+      {
+        "subtopic": "19. Usurp",
+        "content": "• MEANING:- To take a position of power illegally or by force\n• हड़पना, कब्जा करना\n\n• SYNONYMS:- seize, capture, appropriate, hijack\n\n• ANTONYMS:- surrender, release, relinquish"
+      },
+      {
+        "subtopic": "20. Utopia",
+        "content": "• MEANING:- An imagined place of perfection\n• आदर्श राज्य, कल्पित स्वर्ग\n\n• SYNONYMS:- paradise, heaven, ideal place, dreamland\n\n• ANTONYMS:- dystopia, hell, chaos"
+      },
+      {
+        "subtopic": "21. Utilitarian",
+        "content": "• MEANING:- Designed to be useful rather than attractive\n• उपयोगितावादी, व्यावहारिक\n\n• SYNONYMS:- practical, functional, efficient, serviceable\n\n• ANTONYMS:- decorative, ornamental, luxurious"
       }
     ]
   },
@@ -657,24 +1284,96 @@
     "topic": "Starts with V",
     "subtopics": [
       {
-        "subtopic": "Vacillate",
-        "content": "meaning: To waver between different opinions or actions; be indecisive\nsynonyms: hesitate, fluctuate, oscillate, waver\nantonyms: decide, determine, persist, remain"
+        "subtopic": "1. Vacillate",
+        "content": "• MEANING:- To waver between different opinions or actions\n• डगमगाना, असमंजस में होना\n\n• SYNONYMS:- hesitate, fluctuate, waver, oscillate\n\n• ANTONYMS:- decide, determine, persist"
       },
       {
-        "subtopic": "Venerable",
-        "content": "meaning: Accorded a great deal of respect due to age, wisdom, or character\nsynonyms: respected, revered, honored, esteemed\nantonyms: disrespected, dishonorable, contemptible, insignificant"
+        "subtopic": "2. Vacuous",
+        "content": "• MEANING:- Lacking intelligence, ideas, or thought\n• मूर्खतापूर्ण, रिक्त\n\n• SYNONYMS:- empty, mindless, foolish, blank\n\n• ANTONYMS:- intelligent, thoughtful, meaningful"
       },
       {
-        "subtopic": "Vindicate",
-        "content": "meaning: To clear someone of blame or suspicion\nsynonyms: justify, exonerate, absolve, acquit\nantonyms: blame, accuse, convict, condemn"
+        "subtopic": "3. Vague",
+        "content": "• MEANING:- Not clearly expressed or understood\n• अस्पष्ट, धुंधला\n\n• SYNONYMS:- unclear, indefinite, ambiguous\n\n• ANTONYMS:- clear, definite, precise"
       },
       {
-        "subtopic": "Voracious",
-        "content": "meaning: Having a very eager approach to something; excessively hungry\nsynonyms: greedy, ravenous, insatiable, gluttonous\nantonyms: satisfied, content, full, moderate"
+        "subtopic": "4. Valiant",
+        "content": "• MEANING:- Possessing or showing courage\n• बहादुर, वीर\n\n• SYNONYMS:- brave, courageous, fearless, heroic\n\n• ANTONYMS:- cowardly, fearful, weak"
       },
       {
-        "subtopic": "Vigilant",
-        "content": "meaning: Keeping careful watch for possible danger or difficulties\nsynonyms: watchful, alert, attentive, observant\nantonyms: careless, inattentive, negligent, oblivious"
+        "subtopic": "5. Validate",
+        "content": "• MEANING:- To check or prove the accuracy of something\n• प्रमाणित करना, मान्य करना\n\n• SYNONYMS:- confirm, verify, approve, substantiate\n\n• ANTONYMS:- invalidate, reject, disprove"
+      },
+      {
+        "subtopic": "6. Vandalize",
+        "content": "• MEANING:- To deliberately destroy or damage property\n• तोड़फोड़ करना, नुकसान पहुँचाना\n\n• SYNONYMS:- destroy, damage, ruin, demolish\n\n• ANTONYMS:- repair, restore, protect"
+      },
+      {
+        "subtopic": "7. Vanguard",
+        "content": "• MEANING:- The leading position in a movement or field\n• अग्रणी, नेतृत्व स्थान\n\n• SYNONYMS:- forefront, leader, pioneer\n\n• ANTONYMS:- follower, rear, laggard"
+      },
+      {
+        "subtopic": "8. Vantage",
+        "content": "• MEANING:- A place or position giving an advantage\n• लाभकारी स्थिति\n\n• SYNONYMS:- advantage, edge, superiority, benefit\n\n• ANTONYMS:- disadvantage, weakness, handicap"
+      },
+      {
+        "subtopic": "9. Vehement",
+        "content": "• MEANING:- Showing strong feeling; forceful, passionate\n• प्रबल, जोरदार\n\n• SYNONYMS:- intense, passionate, fervent, forceful\n\n• ANTONYMS:- mild, weak, indifferent"
+      },
+      {
+        "subtopic": "10. Veil",
+        "content": "• MEANING:- Something that covers or conceals\n• आवरण, पर्दा\n\n• SYNONYMS:- cover, disguise, concealment\n\n• ANTONYMS:- expose, reveal, uncover"
+      },
+      {
+        "subtopic": "11. Venerate",
+        "content": "• MEANING:- To regard with great respect\n• आदर करना, सम्मान करना\n\n• SYNONYMS:- respect, revere, honor, worship\n\n• ANTONYMS:- despise, disrespect, dishonor"
+      },
+      {
+        "subtopic": "12. Veracity",
+        "content": "• MEANING:- Conformity to truth or accuracy\n• सत्यता, सच्चाई\n\n• SYNONYMS:- truth, honesty, accuracy, sincerity\n\n• ANTONYMS:- dishonesty, falsehood, deceit"
+      },
+      {
+        "subtopic": "13. Verbose",
+        "content": "• MEANING:- Using more words than needed\n• शब्दाडंबरपूर्ण, अधिक शब्दों वाला\n\n• SYNONYMS:- wordy, lengthy, talkative\n\n• ANTONYMS:- concise, brief, succinct"
+      },
+      {
+        "subtopic": "14. Versatile",
+        "content": "• MEANING:- Able to adapt to many functions or activities\n• बहुमुखी, निपुण\n\n• SYNONYMS:- adaptable, resourceful, multifaceted\n\n• ANTONYMS:- limited, unskilled, restricted"
+      },
+      {
+        "subtopic": "15. Vestige",
+        "content": "• MEANING:- A trace or remnant of something that once existed\n• अवशेष, चिन्ह\n\n• SYNONYMS:- remnant, trace, residue, relic\n\n• ANTONYMS:- whole, entirety, completeness"
+      },
+      {
+        "subtopic": "16. Viable",
+        "content": "• MEANING:- Capable of working successfully\n• व्यावहारिक, सफल होने योग्य\n\n• SYNONYMS:- feasible, workable, practicable\n\n• ANTONYMS:- unworkable, impractical, impossible"
+      },
+      {
+        "subtopic": "17. Vicarious",
+        "content": "• MEANING:- Experienced through someone else’s actions or feelings\n• परोक्ष, अप्रत्यक्ष अनुभव\n\n• SYNONYMS:- indirect, secondary, substitute\n\n• ANTONYMS:- direct, primary, first-hand"
+      },
+      {
+        "subtopic": "18. Vigilant",
+        "content": "• MEANING:- Keeping careful watch for danger\n• सतर्क, चौकस\n\n• SYNONYMS:- watchful, alert, attentive\n\n• ANTONYMS:- careless, inattentive, negligent"
+      },
+      {
+        "subtopic": "19. Vindicate",
+        "content": "• MEANING:- To clear from blame or suspicion\n• निर्दोष सिद्ध करना, बचाव करना\n\n• SYNONYMS:- justify, prove, defend, absolve\n\n• ANTONYMS:- blame, accuse, condemn"
+      },
+      {
+        "subtopic": "20. Virulent",
+        "content": "• MEANING:- Extremely harmful or hostile\n• घातक, विषैला\n\n• SYNONYMS:- poisonous, toxic, hostile, malicious\n\n• ANTONYMS:- harmless, gentle, friendly"
+      },
+      {
+        "subtopic": "21. Vivid",
+        "content": "• MEANING:- Producing strong, clear images in the mind\n• जीवंत, स्पष्ट\n\n• SYNONYMS:- bright, clear, striking, graphic\n\n• ANTONYMS:- dull, vague, unclear"
+      },
+      {
+        "subtopic": "22. Vociferous",
+        "content": "• MEANING:- Expressing opinions loudly and forcefully\n• शोरगुल करने वाला, जोरदार\n\n• SYNONYMS:- loud, noisy, outspoken, clamorous\n\n• ANTONYMS:- quiet, silent, subdued"
+      },
+      {
+        "subtopic": "23. Volatile",
+        "content": "• MEANING:- Likely to change suddenly and unpredictably\n• अस्थिर, चंचल\n\n• SYNONYMS:- unstable, unpredictable, explosive, fickle\n\n• ANTONYMS:- stable, steady, calm"
       }
     ]
   },
@@ -682,24 +1381,84 @@
     "topic": "Starts with W",
     "subtopics": [
       {
-        "subtopic": "Wane",
-        "content": "meaning: To decrease in size, extent, or degree\nsynonyms: decline, diminish, dwindle, fade\nantonyms: grow, increase, rise, expand"
+        "subtopic": "1. Wane",
+        "content": "• MEANING:- To decrease in power, size, or intensity\n• घटना, क्षीण होना\n\n• SYNONYMS:- decline, diminish, weaken, dwindle\n\n• ANTONYMS:- increase, grow, rise, strengthen"
       },
       {
-        "subtopic": "Wary",
-        "content": "meaning: Feeling or showing caution about possible dangers or problems\nsynonyms: cautious, careful, alert, vigilant\nantonyms: careless, reckless, negligent, incautious"
+        "subtopic": "2. Wary",
+        "content": "• MEANING:- Feeling or showing caution about danger\n• सतर्क, सावधान\n\n• SYNONYMS:- cautious, careful, vigilant, alert\n\n• ANTONYMS:- careless, reckless, incautious"
       },
       {
-        "subtopic": "Whet",
-        "content": "meaning: To sharpen or stimulate an appetite or interest\nsynonyms: sharpen, hone, excite, arouse\nantonyms: dull, blunt, discourage, weaken"
+        "subtopic": "3. Wither",
+        "content": "• MEANING:- To dry up, shrivel, or lose freshness\n• मुरझाना, सूख जाना\n\n• SYNONYMS:- fade, decay, wilt, perish\n\n• ANTONYMS:- bloom, flourish, thrive"
       },
       {
-        "subtopic": "Withstand",
-        "content": "meaning: To resist or stand firm against something\nsynonyms: resist, endure, oppose, survive\nantonyms: surrender, yield, succumb, fail"
+        "subtopic": "4. Wield",
+        "content": "• MEANING:- To hold and use (a weapon, tool, or power)\n• प्रयोग करना, अधिकार चलाना\n\n• SYNONYMS:- handle, exercise, use, exert\n\n• ANTONYMS:- neglect, misuse, ignore"
       },
       {
-        "subtopic": "Wistful",
-        "content": "meaning: Having or showing a feeling of vague or regretful longing\nsynonyms: nostalgic, yearning, melancholic, pensive\nantonyms: content, satisfied, cheerful, fulfilled"
+        "subtopic": "5. Widespread",
+        "content": "• MEANING:- Existing or happening over a large area\n• व्यापक, सर्वव्यापी\n\n• SYNONYMS:- prevalent, extensive, common, universal\n\n• ANTONYMS:- limited, rare, confined"
+      },
+      {
+        "subtopic": "6. Whimsical",
+        "content": "• MEANING:- Playfully unusual or unpredictable\n• सनकी, चंचल\n\n• SYNONYMS:- fanciful, capricious, quirky\n\n• ANTONYMS:- serious, practical, predictable"
+      },
+      {
+        "subtopic": "7. Wicked",
+        "content": "• MEANING:- Morally wrong or evil\n• दुष्ट, बुरा\n\n• SYNONYMS:- evil, immoral, corrupt, sinful\n\n• ANTONYMS:- virtuous, good, moral"
+      },
+      {
+        "subtopic": "8. Willful",
+        "content": "• MEANING:- Intentional; done deliberately\n• जानबूझकर, हठी\n\n• SYNONYMS:- deliberate, stubborn, intentional\n\n• ANTONYMS:- accidental, unintentional, obedient"
+      },
+      {
+        "subtopic": "9. Winsome",
+        "content": "• MEANING:- Attractive or charming in a pleasing way\n• मनमोहक, आकर्षक\n\n• SYNONYMS:- charming, appealing, delightful, engaging\n\n• ANTONYMS:- unattractive, repulsive, unpleasant"
+      },
+      {
+        "subtopic": "10. Withdraw",
+        "content": "• MEANING:- To remove, take back, or retreat\n• वापस लेना, हट जाना\n\n• SYNONYMS:- retreat, remove, extract, pull back\n\n• ANTONYMS:- advance, continue, deposit"
+      },
+      {
+        "subtopic": "11. Withstand",
+        "content": "• MEANING:- To resist or endure successfully\n• सहना, विरोध करना\n\n• SYNONYMS:- resist, endure, oppose, survive\n\n• ANTONYMS:- surrender, succumb, yield"
+      },
+      {
+        "subtopic": "12. Woeful",
+        "content": "• MEANING:- Full of sorrow or misery\n• दुखी, शोकपूर्ण\n\n• SYNONYMS:- sorrowful, unhappy, miserable, tragic\n\n• ANTONYMS:- joyful, happy, cheerful"
+      },
+      {
+        "subtopic": "13. Wrangle",
+        "content": "• MEANING:- A long, complicated argument\n• झगड़ा, बहस\n\n• SYNONYMS:- quarrel, dispute, brawl, altercation\n\n• ANTONYMS:- agreement, peace, harmony"
+      },
+      {
+        "subtopic": "14. Wretched",
+        "content": "• MEANING:- In a very unhappy or unfortunate state\n• दयनीय, दुखी\n\n• SYNONYMS:- miserable, pathetic, pitiable, poor\n\n• ANTONYMS:- fortunate, content, happy"
+      },
+      {
+        "subtopic": "15. Wrest",
+        "content": "• MEANING:- To take something by force\n• बलपूर्वक लेना\n\n• SYNONYMS:- seize, grab, snatch, extract\n\n• ANTONYMS:- give, surrender, release"
+      },
+      {
+        "subtopic": "16. Wriggle",
+        "content": "• MEANING:- To twist and turn the body with quick movements\n• मचलना, कसमसाना\n\n• SYNONYMS:- squirm, twist, wiggle, thrash\n\n• ANTONYMS:- still, steady, motionless"
+      },
+      {
+        "subtopic": "17. Wrought",
+        "content": "• MEANING:- Carefully formed or shaped\n• गढ़ा हुआ, निर्मित\n\n• SYNONYMS:- crafted, created, fashioned\n\n• ANTONYMS:- destroyed, broken, shapeless"
+      },
+      {
+        "subtopic": "18. Wry",
+        "content": "• MEANING:- Expressing dry, mocking humor\n• तिरछा, व्यंग्यपूर्ण\n\n• SYNONYMS:- sarcastic, ironic, mocking, cynical\n\n• ANTONYMS:- sincere, straightforward, genuine"
+      },
+      {
+        "subtopic": "19. Warrant",
+        "content": "• MEANING:- Official authorization or justification\n• अधिकार, वारंट\n\n• SYNONYMS:- authorization, sanction, guarantee\n\n• ANTONYMS:- prohibition, refusal, ban"
+      },
+      {
+        "subtopic": "20. Wholesome",
+        "content": "• MEANING:- Conducive to good health or morals\n• स्वास्थ्यवर्धक, हितकारी\n\n• SYNONYMS:- healthy, beneficial, nutritious, moral\n\n• ANTONYMS:- harmful, unhealthy, corrupt"
       }
     ]
   },
@@ -707,24 +1466,44 @@
     "topic": "Starts with X",
     "subtopics": [
       {
-        "subtopic": "Xenophobia",
-        "content": "meaning: Dislike or prejudice against people from other countries\nsynonyms: racism, nationalism, prejudice, intolerance\nantonyms: tolerance, acceptance, openness, inclusiveness"
+        "subtopic": "1. Xenophobia",
+        "content": "• MEANING:- Intense dislike or fear of foreigners or strangers\n• विदेशियों से घृणा\n\n• SYNONYMS:- racism, bias, prejudice, nationalism\n\n• ANTONYMS:- tolerance, acceptance, open-mindedness"
       },
       {
-        "subtopic": "Xeric",
-        "content": "meaning: Relating to or adapted to a dry environment\nsynonyms: arid, dry, desert-like, parched\nantonyms: humid, moist, wet, damp"
+        "subtopic": "2. Xenial",
+        "content": "• MEANING:- Friendly relation between host and guest\n• अतिथि सत्कार से संबंधित\n\n• SYNONYMS:- hospitable, cordial, friendly\n\n• ANTONYMS:- inhospitable, rude, unfriendly"
       },
       {
-        "subtopic": "Xylograph",
-        "content": "meaning: An engraving on wood, especially for printing\nsynonyms: woodcut, engraving, print, carving\nantonyms: painting, sketch, drawing (non-engraved art)"
+        "subtopic": "3. Xeric",
+        "content": "• MEANING:- Dry environment with little moisture\n• शुष्क, मरुस्थलीय\n\n• SYNONYMS:- arid, dry, desert-like\n\n• ANTONYMS:- moist, humid, damp"
       },
       {
-        "subtopic": "Xenial",
-        "content": "meaning: Hospitable, especially in relation to host–guest relations\nsynonyms: hospitable, welcoming, friendly, cordial\nantonyms: inhospitable, unfriendly, rude, hostile"
+        "subtopic": "4. Xerophyte",
+        "content": "• MEANING:- Plant adapted to dry climates\n• मरुस्थलीय पौधा\n\n• SYNONYMS:- cactus, desert plant\n\n• ANTONYMS:- hydrophyte, aquatic plant"
       },
       {
-        "subtopic": "Xyloid",
-        "content": "meaning: Resembling or pertaining to wood\nsynonyms: woody, ligneous, timber-like, wooden\nantonyms: metallic, stony, plastic-like, glassy"
+        "subtopic": "5. Xenogenesis",
+        "content": "• MEANING:- Production of offspring different from parents\n• भिन्न प्रकार की उत्पत्ति\n\n• SYNONYMS:- mutation, variation, transformation\n\n• ANTONYMS:- similarity, sameness, conformity"
+      },
+      {
+        "subtopic": "6. Xylography",
+        "content": "• MEANING:- Art of engraving on wood\n• लकड़ी पर नक्काशी की कला\n\n• SYNONYMS:- woodcutting, carving, engraving\n\n• ANTONYMS:- painting, molding"
+      },
+      {
+        "subtopic": "7. Xylophone",
+        "content": "• MEANING:- A musical instrument with wooden bars\n• एक वाद्य यंत्र (लकड़ी की पट्टियों वाला)\n\n• SYNONYMS:- percussion instrument, marimba\n\n• ANTONYMS:- (None directly)"
+      },
+      {
+        "subtopic": "8. Xenon",
+        "content": "• MEANING:- A chemical element, a noble gas used in lamps\n• ज़ेनोन (रासायनिक तत्व)\n\n• SYNONYMS:- element, inert gas\n\n• ANTONYMS:- (None directly)"
+      },
+      {
+        "subtopic": "9. Xerothermic",
+        "content": "• MEANING:- Hot and dry climate\n• गर्म और शुष्क\n\n• SYNONYMS:- arid, torrid, dry\n\n• ANTONYMS:- cold, humid, moist"
+      },
+      {
+        "subtopic": "10. X-factor",
+        "content": "• MEANING:- An outstanding special quality that makes someone stand out\n• विशेष गुण, आकर्षण\n\n• SYNONYMS:- uniqueness, charm, charisma\n\n• ANTONYMS:- dullness, ordinariness"
       }
     ]
   },
@@ -732,24 +1511,64 @@
     "topic": "Starts with Y",
     "subtopics": [
       {
-        "subtopic": "Yield",
-        "content": "meaning: To produce or provide; to give way under pressure\nsynonyms: produce, generate, surrender, concede\nantonyms: resist, oppose, withhold, retain"
+        "subtopic": "1. Yearn",
+        "content": "• MEANING:- To have an intense feeling of longing for something\n• तड़पना, लालायित होना\n\n• SYNONYMS:- crave, desire, long, pine, hanker\n\n• ANTONYMS:- dislike, despise, abhor, reject"
       },
       {
-        "subtopic": "Yearn",
-        "content": "meaning: To have an intense longing or desire for something\nsynonyms: crave, desire, pine, long\nantonyms: dislike, despise, abhor, hate"
+        "subtopic": "2. Yield",
+        "content": "• MEANING:- To produce or provide; to give way\n• उत्पादन करना, झुकना\n\n• SYNONYMS:- produce, generate, submit, surrender\n\n• ANTONYMS:- resist, oppose, deny, prevent"
       },
       {
-        "subtopic": "Yen",
-        "content": "meaning: A deep, passionate desire or craving\nsynonyms: urge, longing, craving, inclination\nantonyms: aversion, dislike, disinterest, repulsion"
+        "subtopic": "3. Yoke",
+        "content": "• MEANING:- A wooden crosspiece that joins two animals; symbol of burden\n• जुआ, बोझ\n\n• SYNONYMS:- harness, burden, oppression, bondage\n\n• ANTONYMS:- freedom, liberty, independence"
       },
       {
-        "subtopic": "Yoke",
-        "content": "meaning: To join or bind together; a wooden crosspiece fastened over animals\nsynonyms: bind, unite, connect, harness\nantonyms: separate, detach, disconnect, free"
+        "subtopic": "4. Yell",
+        "content": "• MEANING:- To shout loudly\n• चिल्लाना, जोर से बोलना\n\n• SYNONYMS:- scream, shout, cry, shriek\n\n• ANTONYMS:- whisper, murmur, silence"
       },
       {
-        "subtopic": "Yielding",
-        "content": "meaning: Willing to give in; flexible or submissive\nsynonyms: compliant, submissive, accommodating, pliant\nantonyms: stubborn, rigid, unyielding, inflexible"
+        "subtopic": "5. Yearling",
+        "content": "• MEANING:- An animal (esp. horse, sheep, cattle) one year old\n• एक साल का जानवर\n\n• SYNONYMS:- juvenile, youngling, calf, colt\n\n• ANTONYMS:- adult, mature, grown-up"
+      },
+      {
+        "subtopic": "6. Yawn",
+        "content": "• MEANING:- To open the mouth wide with a deep breath due to tiredness\n• जम्हाई लेना\n\n• SYNONYMS:- gape, open-mouth, drowsy-action\n\n• ANTONYMS:- attentive action, alertness"
+      },
+      {
+        "subtopic": "7. Yonder",
+        "content": "• MEANING:- At some distance in the direction indicated\n• दूर, सामने\n\n• SYNONYMS:- over there, beyond, farther\n\n• ANTONYMS:- nearby, close, near"
+      },
+      {
+        "subtopic": "8. Yammer",
+        "content": "• MEANING:- To talk loudly and continuously\n• बकबक करना, शोर मचाना\n\n• SYNONYMS:- chatter, complain, babble, whine\n\n• ANTONYMS:- quiet, silence, hush"
+      },
+      {
+        "subtopic": "9. Yuppie",
+        "content": "• MEANING:- A young urban professional with a luxurious lifestyle\n• विलासितापूर्ण जीवनशैली वाला युवा पेशेवर\n\n• SYNONYMS:- professional, ambitious worker\n\n• ANTONYMS:- unemployed, unprofessional"
+      },
+      {
+        "subtopic": "10. Yearlong",
+        "content": "• MEANING:- Lasting through a year\n• पूरे साल भर का\n\n• SYNONYMS:- annual, yearly, full-year\n\n• ANTONYMS:- momentary, short-term"
+      },
+      {
+        "subtopic": "11. Youthful",
+        "content": "• MEANING:- Having qualities of youth\n• युवा, तरुण\n\n• SYNONYMS:- juvenile, fresh, vigorous\n\n• ANTONYMS:- aged, old, senile"
+      },
+      {
+        "subtopic": "12. Yesteryear",
+        "content": "• MEANING:- Referring to the past, especially nostalgically\n• बीते हुए दिन, पुराना समय\n\n• SYNONYMS:- bygone days, past, history\n\n• ANTONYMS:- present, today, modern times"
+      },
+      {
+        "subtopic": "13. Yummy",
+        "content": "• MEANING:- Delicious, tasty\n• स्वादिष्ट\n\n• SYNONYMS:- delicious, appetizing, delectable\n\n• ANTONYMS:- tasteless, unappetizing, bland"
+      },
+      {
+        "subtopic": "14. Yowl",
+        "content": "• MEANING:- A loud, wailing cry of pain or distress\n• चिल्लाना, रोना\n\n• SYNONYMS:- howl, wail, cry, scream\n\n• ANTONYMS:- cheer, laugh, smile"
+      },
+      {
+        "subtopic": "15. Yarn",
+        "content": "• MEANING:- Thread used for knitting; also a long, adventurous story\n• सूत, लंबी कहानी\n\n• SYNONYMS:- thread, tale, narrative, story\n\n• ANTONYMS:- fact, truth, reality"
       }
     ]
   },
@@ -757,24 +1576,64 @@
     "topic": "Starts with Z",
     "subtopics": [
       {
-        "subtopic": "Zeal",
-        "content": "meaning: Great energy or enthusiasm for a cause or objective\nsynonyms: passion, eagerness, fervor, devotion\nantonyms: apathy, indifference, lethargy, disinterest"
+        "subtopic": "1. Zeal",
+        "content": "• MEANING:- Great energy or enthusiasm in pursuit of a cause\n• उत्साह, जोश\n\n• SYNONYMS:- passion, eagerness, devotion, fervor\n\n• ANTONYMS:- apathy, indifference, laziness"
       },
       {
-        "subtopic": "Zenith",
-        "content": "meaning: The highest point or peak; the time at which something is most powerful\nsynonyms: peak, climax, pinnacle, summit\nantonyms: nadir, bottom, base, lowest point"
+        "subtopic": "2. Zenith",
+        "content": "• MEANING:- The highest point, peak\n• शिखर, चरम सीमा\n\n• SYNONYMS:- summit, climax, pinnacle, top\n\n• ANTONYMS:- nadir, bottom, base"
       },
       {
-        "subtopic": "Zealous",
-        "content": "meaning: Showing strong and energetic support for something\nsynonyms: enthusiastic, ardent, fervent, passionate\nantonyms: indifferent, apathetic, half-hearted, dispassionate"
+        "subtopic": "3. Zealous",
+        "content": "• MEANING:- Having or showing great energy or enthusiasm\n• उत्साही, जोशीला\n\n• SYNONYMS:- fervent, passionate, dedicated, eager\n\n• ANTONYMS:- indifferent, cold, unenthusiastic"
       },
       {
-        "subtopic": "Zest",
-        "content": "meaning: Great enjoyment, energy, or enthusiasm\nsynonyms: enthusiasm, relish, gusto, vigor\nantonyms: dullness, apathy, boredom, lethargy"
+        "subtopic": "4. Zest",
+        "content": "• MEANING:- Great enjoyment, excitement\n• उत्साह, रुचि\n\n• SYNONYMS:- relish, enthusiasm, gusto, eagerness\n\n• ANTONYMS:- dullness, apathy, boredom"
       },
       {
-        "subtopic": "Zigzag",
-        "content": "meaning: A line or course with sharp turns in alternating directions\nsynonyms: winding, meandering, crooked, serpentine\nantonyms: straight, direct, linear, even"
+        "subtopic": "5. Zany",
+        "content": "• MEANING:- Comical in an odd or silly way\n• मसखरा, मज़ाकिया\n\n• SYNONYMS:- clownish, wacky, eccentric, comical\n\n• ANTONYMS:- serious, sensible, grave"
+      },
+      {
+        "subtopic": "6. Zigzag",
+        "content": "• MEANING:- A line or path that goes one way and then another\n• टेढ़ा-मेढ़ा रास्ता\n\n• SYNONYMS:- winding, meandering, twisting\n\n• ANTONYMS:- straight, direct, linear"
+      },
+      {
+        "subtopic": "7. Zilch",
+        "content": "• MEANING:- Nothing, zero\n• शून्य, कुछ भी नहीं\n\n• SYNONYMS:- nothing, naught, zero, null\n\n• ANTONYMS:- everything, plenty, abundance"
+      },
+      {
+        "subtopic": "8. Zenithal",
+        "content": "• MEANING:- Relating to the highest point\n• शिखर संबंधी\n\n• SYNONYMS:- peak, apical, supreme\n\n• ANTONYMS:- low, base, inferior"
+      },
+      {
+        "subtopic": "9. Zephyr",
+        "content": "• MEANING:- A soft, gentle breeze\n• ठंडी हवा, मंद समीर\n\n• SYNONYMS:- breeze, waft, draft, light wind\n\n• ANTONYMS:- storm, gale, tempest"
+      },
+      {
+        "subtopic": "10. Zombie",
+        "content": "• MEANING:- A person in a dull, apathetic state (figurative); undead being (literal)\n• सुस्त व्यक्ति, मृतप्राय जीव\n\n• SYNONYMS:- lifeless, robot-like, dullard\n\n• ANTONYMS:- lively, energetic, vibrant"
+      },
+      {
+        "subtopic": "11. Zone",
+        "content": "• MEANING:- An area or region\n• क्षेत्र, इलाका\n\n• SYNONYMS:- region, area, sector, territory\n\n• ANTONYMS:- whole, entirety"
+      },
+      {
+        "subtopic": "12. Zoom",
+        "content": "• MEANING:- To move quickly; to increase rapidly\n• तेज़ी से बढ़ना, उड़ना\n\n• SYNONYMS:- rush, speed, soar, escalate\n\n• ANTONYMS:- slow, crawl, decline"
+      },
+      {
+        "subtopic": "13. Zestful",
+        "content": "• MEANING:- Full of energy and enthusiasm\n• उत्साही, जोशीला\n\n• SYNONYMS:- lively, spirited, vigorous\n\n• ANTONYMS:- lifeless, dull, apathetic"
+      },
+      {
+        "subtopic": "14. Zillion",
+        "content": "• MEANING:- An extremely large, indefinite number\n• असंख्य, बेहिसाब\n\n• SYNONYMS:- countless, innumerable, myriad\n\n• ANTONYMS:- few, limited, scarce"
+      },
+      {
+        "subtopic": "15. Zodiac",
+        "content": "• MEANING:- A belt of the heavens divided into twelve signs\n• राशि चक्र\n\n• SYNONYMS:- astrology signs, horoscope\n\n• ANTONYMS:- none (scientific opposition)"
       }
     ]
   }
