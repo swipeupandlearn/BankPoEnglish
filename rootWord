@@ -49,7 +49,7 @@
     ]
   },
   {
-    "topic": "5. Root Word - Chron",
+    "topic": "6. Root Word - Chron",
     "subtopics": [
       {
         "subtopic": "Chron -> Time (समय)",
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "topic": "6. Root Word - Dict",
+    "topic": "7. Root Word - Dict",
     "subtopics": [
       {
         "subtopic": "Dict -> Speak, Say (बोलना, कहना)",
@@ -67,7 +67,7 @@
     ]
   },
   {
-    "topic": "7. Root Word - Graph",
+    "topic": "8. Root Word - Graph",
     "subtopics": [
       {
         "subtopic": "Graph -> Write, Draw (लिखना, चित्र बनाना)",
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "topic": "8. Root Word - Port",
+    "topic": "9. Root Word - Port",
     "subtopics": [
       {
         "subtopic": "Port -> Carry (ढोना, ले जाना)",
@@ -85,7 +85,7 @@
     ]
   },
   {
-    "topic": "9. Root Word - Vid/Vis",
+    "topic": "10. Root Word - Vid/Vis",
     "subtopics": [
       {
         "subtopic": "Vid/Vis -> See (देखना)",
@@ -94,11 +94,1065 @@
     ]
   },
   {
-    "topic": "10. Root Word - Aqua",
+    "topic": "11. Root Word - Aqua",
     "subtopics": [
       {
         "subtopic": "Aqua -> Water (पानी)",
         "content": "• MEANING:- Water (Latin origin)\n• अर्थ:- पानी (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Aquarium = aqua(water) + ium(place) → Place for water animals (एक्वेरियम)\n\n2. Aquatic = aqua(water) + ic(related) → Related to water (जलीय)\n\n3. Aqueduct = aqua(water) + duct(lead) → Channel for carrying water (जलसेतु)\n\n4. Aqueous = aqua(water) + ous(full of) → Watery, liquid (तरल)\n\n5. Aquafina = aqua(water) → A brand name for water (पानी का ब्रांड)\n\n• NOTE:- 'aqua' relates to water and watery things.\n• नोट:- 'aqua' वाले शब्द पानी और तरल से जुड़े होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "12. Root Word - Geo",
+    "subtopics": [
+      {
+        "subtopic": "Geo -> Earth (पृथ्वी)",
+        "content": "• MEANING:- Earth (Greek origin)\n• अर्थ:- पृथ्वी (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Geography = geo(earth) + graphy(write) → Study of earth (भूगोल)\n\n2. Geology = geo(earth) + logy(study) → Study of rocks/earth (भूविज्ञान)\n\n3. Geometry = geo(earth) + metry(measure) → Measurement of earth/figures (ज्यामिति)\n\n4. Geopolitics = geo(earth) + politics(government) → Politics related to geography (भू-राजनीति)\n\n5. Geocentric = geo(earth) + centric(center) → Earth-centered (पृथ्वी केंद्रित)\n\n• NOTE:- Words with 'geo' are related to earth and ground.\n• नोट:- 'geo' वाले शब्द पृथ्वी और भूमि से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "13. Root Word - Terra",
+    "subtopics": [
+      {
+        "subtopic": "Terra -> Land, Earth (भूमि, धरती)",
+        "content": "• MEANING:- Land, Earth (Latin origin)\n• अर्थ:- भूमि, धरती (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Terrain = terra(land) → Ground or land surface (भूमि का प्रकार)\n\n2. Territory = terra(land) + tory(place) → Area of land (क्षेत्र)\n\n3. Terrestrial = terra(land) + ial(related) → Related to land (स्थलीय)\n\n4. Subterranean = sub(under) + terr(earth) → Under the earth (भूमिगत)\n\n5. Extraterrestrial = extra(outside) + terr(earth) → Beyond earth (पृथ्वी के बाहर)\n\n• NOTE:- Words with 'terra' are linked to land, soil, and the earth.\n• नोट:- 'terra' वाले शब्द भूमि, मिट्टी और धरती से जुड़े होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "14. Root Word - Tele",
+    "subtopics": [
+      {
+        "subtopic": "Tele -> Far, Distance (दूर, दूरी)",
+        "content": "• MEANING:- Far, Distance (Greek origin)\n• अर्थ:- दूर, दूरी (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Telephone = tele(distance) + phone(sound) → Device for distant sound (टेलीफ़ोन)\n\n2. Television = tele(distance) + vision(see) → Device for distant viewing (टेलीविज़न)\n\n3. Telegram = tele(distance) + gram(write) → Written message sent far (टेलीग्राम)\n\n4. Telescope = tele(distance) + scope(see) → Device for seeing far objects (दूरबीन)\n\n5. Telepathy = tele(distance) + pathy(feeling) → Communication through thoughts (टेलीपैथी)\n\n• NOTE:- Words with 'tele' show the idea of distance or far-off action.\n• नोट:- 'tele' वाले शब्द दूरी या दूर से संबंधित क्रियाओं को दर्शाते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "15. Root Word - Auto",
+    "subtopics": [
+      {
+        "subtopic": "Auto -> Self (स्वयं)",
+        "content": "• MEANING:- Self (Greek origin)\n• अर्थ:- स्वयं (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Autobiography = auto(self) + bio(life) + graphy(write) → Writing of one’s own life (आत्मकथा)\n\n2. Automobile = auto(self) + mobile(move) → Vehicle that moves by itself (मोटरगाड़ी)\n\n3. Autograph = auto(self) + graph(write) → Self-signature (हस्ताक्षर)\n\n4. Automatic = auto(self) + matic(acting) → Working by itself (स्वचालित)\n\n5. Autonomy = auto(self) + nomy(rule) → Self-rule, independence (स्वशासन)\n\n• NOTE:- 'auto' represents self, independence, and automatic functions.\n• नोट:- 'auto' वाले शब्द स्वयं, स्वतंत्रता और स्वतः क्रिया से जुड़े होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "16. Root Word - Micro",
+    "subtopics": [
+      {
+        "subtopic": "Micro -> Small (छोटा)",
+        "content": "• MEANING:- Small (Greek origin)\n• अर्थ:- छोटा (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Microscope = micro(small) + scope(see) → Device to see small things (सूक्ष्मदर्शी)\n\n2. Microbiology = micro(small) + bio(life) + logy(study) → Study of microorganisms (सूक्ष्मजीवविज्ञान)\n\n3. Microchip = micro(small) + chip(piece) → Small computer chip (सूक्ष्म चिप)\n\n4. Microsecond = micro(small) + second(time) → One-millionth of a second (सूक्ष्म सेकंड)\n\n5. Microeconomics = micro(small) + economics(study of economy) → Study of small-scale economics (सूक्ष्म अर्थशास्त्र)\n\n• NOTE:- Words with 'micro' show smallness or minuteness.\n• नोट:- 'micro' वाले शब्द छोटेपन या सूक्ष्मता को दर्शाते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "17. Root Word - Macro",
+    "subtopics": [
+      {
+        "subtopic": "Macro -> Large, Great (बड़ा, विशाल)",
+        "content": "• MEANING:- Large, Great (Greek origin)\n• अर्थ:- बड़ा, विशाल (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Macroeconomics = macro(large) + economics(study of economy) → Study of the economy as a whole (सकल अर्थशास्त्र)\n\n2. Macroscope = macro(large) + scope(see) → Device to see large-scale structures (महादर्शी यंत्र)\n\n3. Macromolecule = macro(large) + molecule → Large molecule (महाअणु)\n\n4. Macrobiotic = macro(large) + biotic(life) → Relating to long life (दीर्घायु संबंधी)\n\n5. Macrocosm = macro(large) + cosm(world) → The whole universe (ब्रह्मांड)\n\n• NOTE:- 'macro' words indicate largeness or whole-scale.\n• नोट:- 'macro' वाले शब्द बड़े पैमाने या संपूर्णता को दर्शाते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "18. Root Word - Meter",
+    "subtopics": [
+      {
+        "subtopic": "Meter -> Measure (माप)",
+        "content": "• MEANING:- Measure (Greek origin)\n• अर्थ:- माप (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Thermometer = thermo(heat) + meter(measure) → Measures temperature (तापमान मापक यंत्र)\n\n2. Speedometer = speed + meter(measure) → Measures speed (गति मापक यंत्र)\n\n3. Odometer = odo(road) + meter(measure) → Measures distance traveled (दूरी मापक यंत्र)\n\n4. Barometer = bar(pressure) + meter(measure) → Measures atmospheric pressure (वायुमंडलीय दबाव मापक)\n\n5. Perimeter = peri(around) + meter(measure) → Measure around an area (परिमाप)\n\n• NOTE:- 'meter' words are related to measurement or calculating quantities.\n• नोट:- 'meter' वाले शब्द मापन या गणना से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "19. Root Word - Ject",
+    "subtopics": [
+      {
+        "subtopic": "Ject -> Throw (फेंकना)",
+        "content": "• MEANING:- Throw (Latin origin)\n• अर्थ:- फेंकना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Eject = e(out) + ject(throw) → To throw out (निकालना)\n\n2. Inject = in(into) + ject(throw) → To put in by force (सुई द्वारा डालना)\n\n3. Project = pro(forward) + ject(throw) → To throw forward/plan (परियोजना)\n\n4. Reject = re(back) + ject(throw) → To throw back/refuse (अस्वीकार करना)\n\n5. Interject = inter(between) + ject(throw) → To insert abruptly (बीच में टोकना)\n\n• NOTE:- 'ject' words are related to throwing, casting, or sending.\n• नोट:- 'ject' वाले शब्द फेंकने, डालने या भेजने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "20. Root Word - Scrib/Script",
+    "subtopics": [
+      {
+        "subtopic": "Scrib/Script -> Write (लिखना)",
+        "content": "• MEANING:- Write (Latin origin)\n• अर्थ:- लिखना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Describe = de(down) + scribe(write) → To explain in words (वर्णन करना)\n\n2. Manuscript = manu(hand) + script(write) → Handwritten document (पांडुलिपि)\n\n3. Inscription = in(on) + script(write) → Words written on a surface (लेख)\n\n4. Prescribe = pre(before) + scribe(write) → To write instructions (निर्देश देना)\n\n5. Subscription = sub(under) + scribe(write) → Signing for a service/publication (सदस्यता)\n\n• NOTE:- 'scrib/script' words relate to writing or recording.\n• नोट:- 'scrib/script' वाले शब्द लिखने या रिकॉर्ड करने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "21. Root Word - Struct",
+    "subtopics": [
+      {
+        "subtopic": "Struct -> Build (निर्माण करना)",
+        "content": "• MEANING:- Build (Latin origin)\n• अर्थ:- निर्माण करना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Construct = con(together) + struct(build) → To build something (निर्माण करना)\n\n2. Structure = struct(build) → Something built (संरचना)\n\n3. Destruct = de(down) + struct(build) → To destroy (विनाश करना)\n\n4. Infrastructure = infra(below) + structure(build) → Foundation/building system (अधोसंरचना)\n\n5. Obstruct = ob(against) + struct(build) → To block (रोकना)\n\n• NOTE:- 'struct' words relate to building, assembling, or organizing.\n• नोट:- 'struct' वाले शब्द निर्माण, संगठन या संयोजन से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "22. Root Word - Voc",
+    "subtopics": [
+      {
+        "subtopic": "Voc -> Call, Voice (आवाज, बुलाना)",
+        "content": "• MEANING:- Call, Voice (Latin origin)\n• अर्थ:- आवाज़, बुलाना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Vocal = voc(voice) → Related to voice (स्वर संबंधी)\n\n2. Invoke = in(into) + voc(call) → To call upon for help (आह्वान करना)\n\n3. Evoke = e(out) + vok(call) → To bring out/trigger (उत्प्रेरित करना)\n\n4. Convocation = con(together) + voc(call) → Formal assembly (सभा)\n\n5. Provoke = pro(forward) + vok(call) → To incite or anger (उत्तेजित करना)\n\n• NOTE:- 'voc' words relate to calling, voice, or speech.\n• नोट:- 'voc' वाले शब्द बुलाने, आवाज़ या भाषण से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "23. Root Word - Form",
+    "subtopics": [
+      {
+        "subtopic": "Form -> Shape, Structure (आकार, संरचना)",
+        "content": "• MEANING:- Shape, structure (Latin origin)\n• अर्थ:- आकार, संरचना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Formation = form(shape) + ation → The act of forming (निर्माण, गठन)\n\n2. Reform = re(again) + form(shape) → To improve or change (सुधार करना)\n\n3. Inform = in(into) + form(shape) → To give information (सूचित करना)\n\n4. Transform = trans(across) + form(shape) → To change shape/form (रूपांतरित करना)\n\n5. Conform = con(together) + form(shape) → To comply with rules/standards (अनुरूप होना)\n\n• NOTE:- 'form' words relate to shape, structure, or arrangement.\n• नोट:- 'form' वाले शब्द आकार, संरचना या व्यवस्था से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "24. Root Word - Log/Logo",
+    "subtopics": [
+      {
+        "subtopic": "Log/Logo -> Word, Study, Speech (शब्द, अध्ययन, भाषण)",
+        "content": "• MEANING:- Word, study, speech (Greek origin)\n• अर्थ:- शब्द, अध्ययन, भाषण (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Logic = log(word/study) → Reasoning or sound thinking (तार्किक)\n\n2. Dialogue = dia(across) + log(word/speech) → Conversation between two (संवाद)\n\n3. Monologue = mono(one) + log(word/speech) → Speech by one person (एकालाप)\n\n4. Biology = bio(life) + logy(study) → Study of life (जीवविज्ञान)\n\n5. Zoology = zoo(animal) + logy(study) → Study of animals (जीवविज्ञान)\n\n• NOTE:- 'log/logo' words relate to study, speech, or words.\n• नोट:- 'log/logo' वाले शब्द अध्ययन, भाषण या शब्द से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "25. Root Word - Therm",
+    "subtopics": [
+      {
+        "subtopic": "Therm -> Heat (ऊष्मा, गर्मी)",
+        "content": "• MEANING:- Heat (Greek origin)\n• अर्थ:- ऊष्मा, गर्मी (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Thermometer = therm(heat) + meter(measure) → Device to measure temperature (तापमान मापने यंत्र)\n\n2. Thermal = therm(heat) → Related to heat (तापीय)\n\n3. Thermostat = therm(heat) + stat(control) → Temperature controlling device (ताप नियंत्रण यंत्र)\n\n4. Thermodynamics = therm(heat) + dynamics(force) → Study of heat energy and its transformation (ऊष्मागतिकी)\n\n5. Hypothermia = hypo(under) + therm(heat) → Dangerous low body temperature (अत्यधिक ठंड से हानि)\n\n• NOTE:- 'therm' words relate to heat or temperature.\n• नोट:- 'therm' वाले शब्द गर्मी या तापमान से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "26. Root Word - Neo",
+    "subtopics": [
+      {
+        "subtopic": "Neo -> New, Recent (नया, हाल का)",
+        "content": "• MEANING:- New, recent (Greek origin)\n• अर्थ:- नया, हाल का (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Neologism = neo(new) + logism(word) → A new word or expression (नया शब्द)\n\n2. Neonatal = neo(new) + natal(birth) → Relating to a newborn (नवजात)\n\n3. Neoclassical = neo(new) + classical → A new form of classic style (नवशास्त्रीय)\n\n4. Neophyte = neo(new) + phyte(plant) → A beginner or novice (नौसिखिया)\n\n5. Neoconservative = neo(new) + conservative → A new form of conservatism (नव-रूढ़िवादी)\n\n• NOTE:- 'neo' words always suggest something new or a new version of something.\n• नोट:- 'neo' वाले शब्द हमेशा कुछ नया या किसी चीज़ का नया संस्करण सुझाते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "27. Root Word - Cred",
+    "subtopics": [
+      {
+        "subtopic": "Cred -> Believe, Trust (विश्वास करना)",
+        "content": "• MEANING:- Believe, trust (Latin origin)\n• अर्थ:- विश्वास करना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Credible = cred(believe) + ible(able) → Believable or trustworthy (विश्वसनीय)\n\n2. Incredible = in(not) + cred(believe) + ible(able) → Not believable; amazing (अविश्वसनीय)\n\n3. Credential = cred(believe) + ential → A document or quality that proves a person's trustworthiness (प्रमाण पत्र)\n\n4. Creed = cred(believe) → A set of beliefs or principles (सिद्धांत)\n\n5. Credit = cred(believe) → Belief in a person's ability to pay back a loan (साख)\n\n• NOTE:- 'cred' words relate to belief, trust, and faith.\n• नोट:- 'cred' वाले शब्द विश्वास, भरोसा और आस्था से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "28. Root Word - Rupt",
+    "subtopics": [
+      {
+        "subtopic": "Rupt -> Break, Burst (टूट जाना, फटना)",
+        "content": "• MEANING:- Break, burst (Latin origin)\n• अर्थ:- टूट जाना, फटना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Erupt = e(out) + rupt(burst) → To burst out (फटना, जैसे ज्वालामुखी)\n\n2. Interrupt = inter(between) + rupt(break) → To break in on someone's conversation (बाधा डालना)\n\n3. Rupture = rupt(break) → A break or burst (टूट-फूट)\n\n4. Bankrupt = bank(bank) + rupt(break) → To break financially (दिवालिया होना)\n\n5. Abrupt = ab(away from) + rupt(break) → Sudden; to break off suddenly (अचानक)\n\n• NOTE:- 'rupt' words relate to breaking, bursting, or disruption.\n• नोट:- 'rupt' वाले शब्द टूटने, फटने या विघ्न से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "29. Root Word - Aud",
+    "subtopics": [
+      {
+        "subtopic": "Aud -> Hear, Listen (सुनना)",
+        "content": "• MEANING:- Hear, listen (Latin origin)\n• अर्थ:- सुनना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Audition = aud(hear) + ition → A trial performance to be heard (ऑडिशन)\n\n2. Audible = aud(hear) + ible(able) → Able to be heard (श्रव्य)\n\n3. Audience = aud(hear) + ience → A group of people who listen or watch (श्रोतागण)\n\n4. Audio = aud(hear) → Sound, especially when recorded or transmitted (ध्वनि)\n\n5. Inaudible = in(not) + aud(hear) + ible(able) → Not able to be heard (अश्रव्य)\n\n• NOTE:- 'aud' words relate to sound and hearing.\n• नोट:- 'aud' वाले शब्द ध्वनि और सुनने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "30. Root Word - Magn",
+    "subtopics": [
+      {
+        "subtopic": "Magn -> Great, Large (महान, बड़ा)",
+        "content": "• MEANING:- Great, large (Latin origin)\n• अर्थ:- महान, बड़ा (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Magnify = magn(great) + fy(make) → To make something appear greater (बड़ा करना)\n\n2. Magnificent = magn(great) + ficent → Grand and impressive (शानदार)\n\n3. Magnitude = magn(great) + tude → The great size or importance of something (परिमाण)\n\n4. Magnanimous = magn(great) + animous(spirit) → Generous and forgiving, especially towards a rival (उदार)\n\n5. Magnum = magn(great) → A large bottle, especially for wine (बड़ी बोतल)\n\n• NOTE:- 'magn' words indicate greatness, largeness, or importance.\n• नोट:- 'magn' वाले शब्द महानता, विशालता या महत्व को दर्शाते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "31. Root Word - Man/Manu",
+    "subtopics": [
+      {
+        "subtopic": "Man/Manu -> Hand (हाथ)",
+        "content": "• MEANING:- Hand (Latin origin)\n• अर्थ:- हाथ (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Manual = manu(hand) + al → Operated by hand (हाथ से चलने वाला)\n\n2. Manuscript = manu(hand) + script(write) → A document written by hand (पांडुलिपि)\n\n3. Manufacture = manu(hand) + fact(make) → To make by hand or with a machine (विनिर्माण)\n\n4. Manipulate = manu(hand) + pulate → To handle or control skillfully (जोड़-तोड़ करना)\n\n5. Manicure = manu(hand) + cure(care) → A cosmetic treatment for the hands and nails (नाखूनों की देखभाल)\n\n• NOTE:- 'man' and 'manu' words are related to the hand or manual work.\n• नोट:- 'man' और 'manu' वाले शब्द हाथ या हस्तकार्य से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "32. Root Word - Ped",
+    "subtopics": [
+      {
+        "subtopic": "Ped -> Foot (पैर)",
+        "content": "• MEANING:- Foot (Latin origin)\n• अर्थ:- पैर (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Pedestrian = ped(foot) → A person walking (पैदल यात्री)\n\n2. Pedal = ped(foot) → A lever operated by the foot (पेडल)\n\n3. Biped = bi(two) + ped(foot) → An animal that walks on two feet (दो पैरों वाला)\n\n4. Tripod = tri(three) + pod(foot) → A stand with three feet (तिपाई)\n\n5. Pedicure = ped(foot) + cure(care) → A cosmetic treatment for the feet (पैरों की देखभाल)\n\n• NOTE:- 'ped' words are commonly related to feet or walking.\n• नोट:- 'ped' वाले शब्द आमतौर पर पैर या चलने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "33. Root Word - Spect",
+    "subtopics": [
+      {
+        "subtopic": "Spect -> Look, See (देखना)",
+        "content": "• MEANING:- Look, see (Latin origin)\n• अर्थ:- देखना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Inspect = in(into) + spect(look) → To look closely at something (निरीक्षण करना)\n\n2. Spectator = spect(look) + ator(one who) → A person who watches an event (दर्शक)\n\n3. Prospect = pro(forward) + spect(look) → The possibility of a future event (संभावना)\n\n4. Retrospect = retro(back) + spect(look) → A survey of past events (पिछली बातों को देखना)\n\n5. Spectacle = spect(look) → A visually striking performance or display (तमाशा)\n\n• NOTE:- 'spect' words relate to looking, observing, or seeing.\n• नोट:- 'spect' वाले शब्द देखने, अवलोकन करने या देखने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "34. Root Word - Ten/Tin/Tent",
+    "subtopics": [
+      {
+        "subtopic": "Ten/Tin/Tent -> Hold, Have (पकड़ना, रखना)",
+        "content": "• MEANING:- Hold, have (Latin origin)\n• अर्थ:- पकड़ना, रखना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Retain = re(back) + tain(hold) → To hold on to something (बनाए रखना)\n\n2. Contain = con(together) + tain(hold) → To hold or have something within (शामिल करना)\n\n3. Detain = de(away) + tain(hold) → To hold back; to keep from proceeding (हिरासत में लेना)\n\n4. Content = con(together) + tent(hold) → The topics or material contained within something (विषय-वस्तु)\n\n5. Maintain = manu(hand) + tain(hold) → To hold in a certain condition or state (बनाए रखना)\n\n• NOTE:- These roots relate to holding, having, or keeping.\n• नोट:- ये मूल शब्द पकड़ने, रखने या बनाए रखने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "35. Root Word - Pan",
+    "subtopics": [
+      {
+        "subtopic": "Pan -> All, Entire (सभी, संपूर्ण)",
+        "content": "• MEANING:- All, entire (Greek origin)\n• अर्थ:- सभी, संपूर्ण (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Pandemic = pan(all) + demic(people) → A disease prevalent over an entire country or the world (महामारी)\n\n2. Panacea = pan(all) + acea(cure) → A cure for all diseases (सर्व रोगहर औषधि)\n\n3. Panorama = pan(all) + orama(view) → A view of an entire surrounding area (चित्रमाला)\n\n4. Pan-American = pan(all) + American → Relating to all of the Americas (पूरे अमेरिका से संबंधित)\n\n5. Pantheon = pan(all) + theon(gods) → A temple dedicated to all the gods (सर्वदेव मंदिर)\n\n• NOTE:- 'pan' words indicate a scope that is all-encompassing.\n• नोट:- 'pan' वाले शब्द एक ऐसे दायरे का संकेत देते हैं जो सब कुछ समाहित करता है।"
+      }
+    ]
+  },
+  {
+    "topic": "36. Root Word - Phil",
+    "subtopics": [
+      {
+        "subtopic": "Phil -> Love (प्रेम)",
+        "content": "• MEANING:- Love (Greek origin)\n• अर्थ:- प्रेम (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Philosophy = phil(love) + sophy(wisdom) → The love of wisdom (दर्शन)\n\n2. Philanthropy = phil(love) + anthro(humanity) → The love of humanity; acts of goodwill (परोपकार)\n\n3. Bibliophile = biblio(book) + phil(love) → A person who loves books (पुस्तक प्रेमी)\n\n4. Philodendron = phil(love) + dendron(tree) → A climbing plant that loves trees (एक तरह का पौधा)\n\n5. Philharmonic = phil(love) + harmonic(harmony) → Loving harmony or music (संगीत प्रेमी)\n\n• NOTE:- 'phil' words express affection, fondness, or love.\n• नोट:- 'phil' वाले शब्द स्नेह, लगाव या प्रेम को व्यक्त करते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "37. Root Word - Contra/Counter",
+    "subtopics": [
+      {
+        "subtopic": "Contra/Counter -> Against, Opposite (के खिलाफ, विपरीत)",
+        "content": "• MEANING:- Against, opposite (Latin origin)\n• अर्थ:- के खिलाफ, विपरीत (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Contradict = contra(against) + dict(speak) → To speak against; to deny (खंडन करना)\n\n2. Counteract = counter(against) + act(do) → To act against something to neutralize it (प्रतिक्रिया करना)\n\n3. Contrary = contra(against) → Opposite in nature or position (विपरीत)\n\n4. Counterfeit = counter(against) + feit(make) → To make a fake or imitation (नकली)\n\n5. Contraband = contra(against) + ban(prohibit) → Goods imported or exported illegally (तस्करी का माल)\n\n• NOTE:- 'contra' and 'counter' words indicate opposition or doing the opposite.\n• नोट:- 'contra' और 'counter' वाले शब्द विरोध या विपरीत कार्य को दर्शाते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "38. Root Word - Liber",
+    "subtopics": [
+      {
+        "subtopic": "Liber -> Free (स्वतंत्र)",
+        "content": "• MEANING:- Free (Latin origin)\n• अर्थ:- स्वतंत्र (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Liberate = liber(free) + ate → To set free (मुक्त करना)\n\n2. Liberty = liber(free) + ty → The state of being free (स्वतंत्रता)\n\n3. Liberal = liber(free) + al → Generous; open to new ideas (उदार)\n\n4. Libertarian = liber(free) + tarian → One who advocates for free will (स्वेच्छावादी)\n\n5. Liberate = liber(free) + ate → To set free (मुक्त करना)\n\n• NOTE:- 'liber' words are related to freedom and liberty.\n• नोट:- 'liber' वाले शब्द स्वतंत्रता और आजादी से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "39. Root Word - Omni",
+    "subtopics": [
+      {
+        "subtopic": "Omni -> All, Every (सभी, प्रत्येक)",
+        "content": "• MEANING:- All, every (Latin origin)\n• अर्थ:- सभी, प्रत्येक (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Omnipotent = omni(all) + potent(power) → Having all power (सर्वशक्तिमान)\n\n2. Omniscient = omni(all) + scient(knowing) → Knowing everything (सर्वज्ञानी)\n\n3. Omnivore = omni(all) + vore(eat) → An animal that eats all types of food (सर्वाहारी)\n\n4. Omnipresent = omni(all) + present(here) → Present everywhere at all times (सर्वव्यापी)\n\n5. Omnibus = omni(all) + bus → A bus for all; a collection of things (सर्वसंग्रह)\n\n• NOTE:- 'omni' words refer to something being universal or all-encompassing.\n• नोट:- 'omni' वाले शब्द किसी चीज़ के सार्वभौमिक या सर्वव्यापी होने का उल्लेख करते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "40. Root Word - Mort",
+    "subtopics": [
+      {
+        "subtopic": "Mort -> Death (मृत्यु)",
+        "content": "• MEANING:- Death (Latin origin)\n• अर्थ:- मृत्यु (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Mortal = mort(death) + al → Subject to death (नश्वर)\n\n2. Immortal = im(not) + mortal(death) → Not subject to death (अमर)\n\n3. Mortician = mort(death) + ician → A person who prepares bodies for burial (शव प्रबंधक)\n\n4. Mortuary = mort(death) + uary → A place where dead bodies are kept (शवगृह)\n\n5. Postmortem = post(after) + mortem(death) → Occurring after death (मरणोपरांत)\n\n• NOTE:- 'mort' words are related to death or dying.\n• नोट:- 'mort' वाले शब्द मृत्यु या मरने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "41. Root Word - Mater/Matr",
+    "subtopics": [
+      {
+        "subtopic": "Mater/Matr -> Mother (माँ)",
+        "content": "• MEANING:- Mother (Latin origin)\n• अर्थ:- माँ (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Maternal = mater(mother) + nal → Related to a mother (मातृ)\n\n2. Matriarchy = matr(mother) + archy(rule) → A social system ruled by the mother (मातृसत्ता)\n\n3. Matron = matr(mother) + on → An older woman who is in charge of others (महिला प्रभारी)\n\n4. Maternity = mater(mother) + nity → The state of being a mother (मातृत्व)\n\n5. Alma Mater = alma(nourishing) + mater(mother) → The school, college, or university one attended (पुराना शिक्षण संस्थान)\n\n• NOTE:- 'mater' and 'matr' words relate to mothers or motherhood.\n• नोट:- 'mater' और 'matr' वाले शब्द माँ या मातृत्व से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "42. Root Word - Pater/Patr",
+    "subtopics": [
+      {
+        "subtopic": "Pater/Patr -> Father (पिता)",
+        "content": "• MEANING:- Father (Latin origin)\n• अर्थ:- पिता (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Paternal = pater(father) + nal → Related to a father (पितृ)\n\n2. Patriot = patr(father) + iot → A person who loves his 'fatherland' (देशभक्त)\n\n3. Patriarch = patr(father) + arch(rule) → The male head of a family or tribe (कुलपति)\n\n4. Patron = patr(father) + on → A person who gives financial support to a person or cause (संरक्षक)\n\n5. Paternity = pater(father) + nity → The state of being a father (पितृत्व)\n\n• NOTE:- 'pater' and 'patr' words are related to fathers or fatherhood.\n• नोट:- 'pater' और 'patr' वाले शब्द पिता या पितृत्व से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "43. Root Word - Gen",
+    "subtopics": [
+      {
+        "subtopic": "Gen -> Birth, Race, Kind (जन्म, जाति, प्रकार)",
+        "content": "• MEANING:- Birth, race, kind (Latin/Greek origin)\n• अर्थ:- जन्म, जाति, प्रकार (लैटिन/यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Genesis = gen(birth) + esis → The origin or beginning of something (उत्पत्ति)\n\n2. Generate = gen(birth) + erate(make) → To produce or create something (उत्पन्न करना)\n\n3. Indigenous = in(within) + gen(kind) + ous → Native to a certain place (स्वदेशी)\n\n4. Genealogy = gen(race) + logy(study) → The study of family history (वंशावली)\n\n5. Congenital = con(with) + gen(birth) + ital → Present from birth (जन्मजात)\n\n• NOTE:- 'gen' words relate to origin, birth, or type.\n• नोट:- 'gen' वाले शब्द उत्पत्ति, जन्म या प्रकार से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "44. Root Word - Loc",
+    "subtopics": [
+      {
+        "subtopic": "Loc -> Place (जगह)",
+        "content": "• MEANING:- Place (Latin origin)\n• अर्थ:- जगह (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Location = loc(place) + ation → A particular place or position (स्थान)\n\n2. Local = loc(place) + al → Related to a particular place (स्थानीय)\n\n3. Dislocate = dis(apart) + loc(place) + ate → To move or put out of place (स्थान से हटाना)\n\n4. Allocate = al(to) + loc(place) + ate → To set apart for a specific purpose (आवंटित करना)\n\n5. E-locate = e(out) + loc(place) + ate → To find the location of something (पता लगाना)\n\n• NOTE:- 'loc' words relate to place, position, or a specific area.\n• नोट:- 'loc' वाले शब्द स्थान, स्थिति या किसी विशिष्ट क्षेत्र से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "45. Root Word - Migr",
+    "subtopics": [
+      {
+        "subtopic": "Migr -> Wander, Move (भटकना, चलना)",
+        "content": "• MEANING:- Wander, move (Latin origin)\n• अर्थ:- भटकना, चलना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Migrate = migr(move) + ate → To move from one place to another (प्रवास करना)\n\n2. Immigrant = im(in) + migr(move) + ant → A person who moves into a country (आप्रवासी)\n\n3. Emigrate = e(out) + migr(move) + ate → To move out of a country (उत्प्रवास करना)\n\n4. Migratory = migr(move) + atory → Tending to migrate (प्रवासी)\n\n5. Migration = migr(move) + ation → The act of migrating (प्रवास)\n\n• NOTE:- 'migr' words relate to movement from one place to another.\n• नोट:- 'migr' वाले शब्द एक स्थान से दूसरे स्थान पर जाने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "46. Root Word - Cede/Ceed/Cess",
+    "subtopics": [
+      {
+        "subtopic": "Cede/Ceed/Cess -> Go, Yield (जाना, देना)",
+        "content": "• MEANING:- Go, yield (Latin origin)\n• अर्थ:- जाना, देना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Precede = pre(before) + cede(go) → To go before (पहले आना)\n\n2. Proceed = pro(forward) + ceed(go) → To go forward (आगे बढ़ना)\n\n3. Recede = re(back) + cede(go) → To go back or withdraw (पीछे हटना)\n\n4. Process = pro(forward) + cess(go) → A series of steps going forward (प्रक्रिया)\n\n5. Concede = con(together) + cede(yield) → To yield or admit to something (स्वीकार करना)\n\n• NOTE:- These roots relate to movement or yielding.\n• नोट:- ये मूल शब्द गति या देने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "47. Root Word - Jur/Jus/Jud",
+    "subtopics": [
+      {
+        "subtopic": "Jur/Jus/Jud -> Law, Justice, Right (कानून, न्याय, अधिकार)",
+        "content": "• MEANING:- Law, justice, right (Latin origin)\n• अर्थ:- कानून, न्याय, अधिकार (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Justice = jus(justice) + ice → Fairness in the way people are treated (न्याय)\n\n2. Jury = jur(law) + y → A body of people sworn to give a verdict in a legal case (जूरी)\n\n3. Judge = jud(justice) + ge → A public official who decides cases in a court of law (न्यायाधीश)\n\n4. Jurisdiction = jur(law) + diction(speak) → The official power to make legal decisions (अधिकार क्षेत्र)\n\n5. Justify = jus(right) + ify(make) → To show or prove to be right (सही ठहराना)\n\n• NOTE:- These roots are connected to law, justice, and judgment.\n• नोट:- ये मूल शब्द कानून, न्याय और निर्णय से जुड़े होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "48. Root Word - Nov",
+    "subtopics": [
+      {
+        "subtopic": "Nov -> New (नया)",
+        "content": "• MEANING:- New (Latin origin)\n• अर्थ:- नया (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Novel = nov(new) + el → New, original; a long fictional book (उपन्यास)\n\n2. Innovate = in(in) + nov(new) + ate → To introduce something new (नयापन लाना)\n\n3. Novice = nov(new) + ice → A person new to an activity (नौसिखिया)\n\n4. Renovate = re(again) + nov(new) + ate → To make something new again (नवीनीकरण करना)\n\n5. Novella = nov(new) + ella → A short novel (लघु उपन्यास)\n\n• NOTE:- 'nov' words are about newness or originality.\n• नोट:- 'nov' वाले शब्द नवीनता या मौलिकता के बारे में होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "49. Root Word - Opt",
+    "subtopics": [
+      {
+        "subtopic": "Opt -> Eye, Choose (आँख, चुनना)",
+        "content": "• MEANING:- Eye, choose (Latin/Greek origin)\n• अर्थ:- आँख, चुनना (लैटिन/यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Optician = opt(eye) + ician → A person who makes and sells glasses (चश्मा बनाने वाला)\n\n2. Optical = opt(eye) + ical → Related to the eye or sight (प्रकाश संबंधी)\n\n3. Option = opt(choose) + ion → The right to choose (विकल्प)\n\n4. Optimist = opt(choose) + ist → A person who chooses to look on the bright side (आशावादी)\n\n5. Adopt = ad(to) + opt(choose) → To choose to take as one's own (गोद लेना)\n\n• NOTE:- 'opt' words can be related to vision or making a choice.\n• नोट:- 'opt' वाले शब्द दृष्टि या चुनाव करने से संबंधित हो सकते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "50. Root Word - Terr",
+    "subtopics": [
+      {
+        "subtopic": "Terr -> Earth, Land (धरती, भूमि)",
+        "content": "• MEANING:- Earth, land (Latin origin)\n• अर्थ:- धरती, भूमि (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Terrain = terr(land) + ain → A stretch of land (भूभाग)\n\n2. Terrace = terr(land) + ace → A raised platform of land (चबूतरा)\n\n3. Terrestrial = terr(earth) + ial → Related to the earth or land (स्थलीय)\n\n4. Territory = terr(land) + tory → An area of land under a ruler (राज्य-क्षेत्र)\n\n5. Extraterrestrial = extra(outside) + terr(earth) + ial → Coming from outside the earth (बाह्य अंतरिक्षीय)\n\n• NOTE:- 'terr' words are related to the earth or land.\n• नोट:- 'terr' वाले शब्द धरती या भूमि से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "51. Root Word - Vac",
+    "subtopics": [
+      {
+        "subtopic": "Vac -> Empty (खाली)",
+        "content": "• MEANING:- Empty (Latin origin)\n• अर्थ:- खाली (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Vacuum = vac(empty) + uum → An empty space (निर्वात)\n\n2. Vacant = vac(empty) + ant → Empty; not occupied (खाली)\n\n3. Evacuate = e(out) + vac(empty) + ate → To make a place empty (खाली करना)\n\n4. Vacation = vac(empty) + ation → A period of time when one empties their responsibilities (छुट्टी)\n\n5. Vacuous = vac(empty) + ous → Lacking substance or intelligence; empty-headed (खोखला)\n\n• NOTE:- 'vac' words relate to emptiness or being without.\n• नोट:- 'vac' वाले शब्द खालीपन या किसी चीज़ के बिना होने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "52. Root Word - Vert/Vers",
+    "subtopics": [
+      {
+        "subtopic": "Vert/Vers -> Turn (मोड़ना)",
+        "content": "• MEANING:- Turn (Latin origin)\n• अर्थ:- मोड़ना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Convert = con(with) + vert(turn) → To turn to a different purpose or belief (परिवर्तित करना)\n\n2. Reverse = re(back) + verse(turn) → To turn back or in the opposite direction (उल्टा करना)\n\n3. Invert = in(in) + vert(turn) → To turn inward or upside down (उलटना)\n\n4. Divert = di(apart) + vert(turn) → To turn away or distract (ध्यान हटाना)\n\n5. Controversy = contro(against) + vers(turn) + y → A turning against; a public dispute (विवाद)\n\n• NOTE:- 'vert' and 'vers' words relate to turning or changing direction.\n• नोट:- 'vert' और 'vers' वाले शब्द मोड़ने या दिशा बदलने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "53. Root Word - Volv/Volut",
+    "subtopics": [
+      {
+        "subtopic": "Volv/Volut -> Roll, Turn (लुढ़कना, घूमना)",
+        "content": "• MEANING:- Roll, turn (Latin origin)\n• अर्थ:- लुढ़कना, घूमना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Evolve = e(out) + volv(roll) → To roll out; to develop gradually (विकसित होना)\n\n2. Revolve = re(again) + volv(roll) → To roll around a central point (घूमना)\n\n3. Revolution = re(again) + volut(roll) + ion → A rolling back to a previous state, or a sudden change (क्रांति)\n\n4. Involve = in(into) + volv(roll) → To roll into; to include as a part of something (शामिल करना)\n\n5. Convoluted = con(with) + volut(roll) + ed → Rolled together; complicated or difficult to understand (जटिल)\n\n• NOTE:- These roots relate to rolling, turning, or development.\n• नोट:- ये मूल शब्द लुढ़कने, घूमने या विकास से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "54. Root Word - Morph",
+    "subtopics": [
+      {
+        "subtopic": "Morph -> Form, Shape (आकार, रूप)",
+        "content": "• MEANING:- Form, shape (Greek origin)\n• अर्थ:- आकार, रूप (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Metamorphosis = meta(change) + morph(form) + osis → A change of form (रूप-परिवर्तन)\n\n2. Amorphous = a(without) + morph(form) + ous → Without a clear shape or form (अस्पष्ट)\n\n3. Morphology = morph(form) + logy(study) → The study of forms and shapes (आकृति विज्ञान)\n\n4. Morphing = morph(form) + ing → The process of changing shape (रूप-बदलना)\n\n5. Anthropomorphic = anthropo(human) + morph(form) + ic → Having human form or characteristics (मानवरूपी)\n\n• NOTE:- 'morph' words are related to form, shape, and structure.\n• नोट:- 'morph' वाले शब्द रूप, आकार और संरचना से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "55. Root Word - Psych",
+    "subtopics": [
+      {
+        "subtopic": "Psych -> Mind, Soul (मन, आत्मा)",
+        "content": "• MEANING:- Mind, soul (Greek origin)\n• अर्थ:- मन, आत्मा (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Psychology = psych(mind) + logy(study) → The study of the mind (मनोविज्ञान)\n\n2. Psychic = psych(mind) + ic → Related to the mind or supernatural abilities (मानसिक)\n\n3. Psychosis = psych(mind) + osis → A severe mental disorder (मनोरोग)\n\n4. Psychopath = psych(mind) + path(suffering) → A person with a severe mental disorder (मनोरोगी)\n\n5. Psychiatrist = psych(mind) + iatrist(healer) → A medical doctor who treats mental illness (मनोचिकित्सक)\n\n• NOTE:- 'psych' words are related to the mind, mental processes, or the soul.\n• नोट:- 'psych' वाले शब्द मन, मानसिक प्रक्रियाओं या आत्मा से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "56. Root Word - Vis/Vid",
+    "subtopics": [
+      {
+        "subtopic": "Vis/Vid -> See, Look (देखना)",
+        "content": "• MEANING:- See, look (Latin origin)\n• अर्थ:- देखना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Visible = vis(see) + ible → Able to be seen (दृश्य)\n\n2. Video = vid(see) + eo → A recording of moving images (वीडियो)\n\n3. Vision = vis(see) + ion → The ability to see (दृष्टि)\n\n4. Envision = en(in) + vis(see) + ion → To imagine as a future possibility (कल्पना करना)\n\n5. Evident = e(out) + vid(see) + ent → Clearly seen or understood (स्पष्ट)\n\n• NOTE:- 'vis' and 'vid' words relate to seeing, sight, and looking.\n• नोट:- 'vis' और 'vid' वाले शब्द देखने, दृष्टि और देखने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "57. Root Word - Log/Logue",
+    "subtopics": [
+      {
+        "subtopic": "Log/Logue -> Word, Speech, Study (शब्द, भाषण, अध्ययन)",
+        "content": "• MEANING:- Word, speech, study (Greek origin)\n• अर्थ:- शब्द, भाषण, अध्ययन (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Dialogue = dia(across) + logue(speech) → A conversation between two or more people (संवाद)\n\n2. Monologue = mono(one) + logue(speech) → A long speech by one person (एकांगी भाषण)\n\n3. Logic = log(study) + ic → The study of reasoning (तर्क)\n\n4. Epilogue = epi(upon) + logue(word) → A speech or piece of text at the end of a play or book (उपसंहार)\n\n5. Apology = apo(away) + logy(word) → Words spoken to express regret (माफी)\n\n• NOTE:- These roots are related to words, speech, or the study of a subject.\n• नोट:- ये मूल शब्द शब्द, भाषण, या किसी विषय के अध्ययन से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "58. Root Word - Phono",
+    "subtopics": [
+      {
+        "subtopic": "Phono -> Sound (ध्वनि)",
+        "content": "• MEANING:- Sound (Greek origin)\n• अर्थ:- ध्वनि (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Telephone = tele(far) + phone(sound) → A device for transmitting sound over a distance (दूरभाष)\n\n2. Phonograph = phono(sound) + graph(write) → An early sound-reproducing machine (ग्रामोफोन)\n\n3. Symphony = sym(together) + phony(sound) → A musical composition for an orchestra (सिम्फनी)\n\n4. Phonics = phon(sound) + ics → The study of sounds and their relationship to letters (ध्वनि विज्ञान)\n\n5. Cacophony = caco(bad) + phony(sound) → A harsh, discordant mixture of sounds (कर्णकटु ध्वनि)\n\n• NOTE:- 'phono' words are related to sound or speech.\n• नोट:- 'phono' वाले शब्द ध्वनि या भाषण से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "59. Root Word - Logy",
+    "subtopics": [
+      {
+        "subtopic": "Logy -> Study of (का अध्ययन)",
+        "content": "• MEANING:- Study of (Greek origin)\n• अर्थ:- का अध्ययन (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Biology = bio(life) + logy(study) → The study of life (जीव विज्ञान)\n\n2. Geology = geo(earth) + logy(study) → The study of the earth (भूविज्ञान)\n\n3. Anthropology = anthropo(human) + logy(study) → The study of human societies (मानव विज्ञान)\n\n4. Psychology = psych(mind) + logy(study) → The study of the mind (मनोविज्ञान)\n\n5. Etymology = etymon(true meaning) + logy(study) → The study of the origin of words (शब्द-व्युत्पत्ति विज्ञान)\n\n• NOTE:- 'logy' is a common suffix used to denote a field of study.\n• नोट:- 'logy' एक सामान्य प्रत्यय है जिसका उपयोग किसी अध्ययन के क्षेत्र को दर्शाने के लिए किया जाता है।"
+      }
+    ]
+  },
+  {
+    "topic": "60. Root Word - Spect/Spec",
+    "subtopics": [
+      {
+        "subtopic": "Spect/Spec -> Look, See (देखना)",
+        "content": "• MEANING:- Look, see (Latin origin)\n• अर्थ:- देखना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Inspect = in(into) + spect(look) → To look into closely (जांच करना)\n\n2. Suspect = sus(under) + spect(look) → To look at with distrust (संदेह करना)\n\n3. Spectator = spect(look) + ator → A person who looks on (दर्शक)\n\n4. Perspective = per(through) + spect(look) + ive → A particular way of looking at something (दृष्टिकोण)\n\n5. Speculate = spec(look) + ulate → To look at or think about a subject from different angles (अटकल लगाना)\n\n• NOTE:- These roots relate to seeing, observing, or examining.\n• नोट:- ये मूल शब्द देखने, अवलोकन करने या जांच करने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "61. Root Word - Urb",
+    "subtopics": [
+      {
+        "subtopic": "Urb -> City (शहर)",
+        "content": "• MEANING:- City (Latin origin)\n• अर्थ:- शहर (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Urban = urb(city) + an → Relating to a city or town (शहरी)\n\n2. Suburb = sub(below) + urb(city) → A residential area near a city (उपनगर)\n\n3. Urbanize = urb(city) + ize(make) → To make a place more like a city (शहरीकरण करना)\n\n4. Exurb = ex(out) + urb(city) → An area outside a suburb, but connected to the city (नगर-बाहरी क्षेत्र)\n\n5. Interurban = inter(between) + urb(city) + an → Existing or traveling between cities (अंतर-शहरीय)\n\n• NOTE:- 'urb' words relate to cities and city life.\n• नोट:- 'urb' वाले शब्द शहरों और शहरी जीवन से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "62. Root Word - Vita/Viv",
+    "subtopics": [
+      {
+        "subtopic": "Vita/Viv -> Life (जीवन)",
+        "content": "• MEANING:- Life (Latin origin)\n• अर्थ:- जीवन (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Vital = vita(life) + al → Necessary for life (महत्वपूर्ण)\n\n2. Revive = re(again) + viv(life) + e → To bring back to life (पुनर्जीवित करना)\n\n3. Vivacious = viv(life) + acious → Full of life and energy (जीवंत)\n\n4. Vitamin = vita(life) + min → A substance essential for the vitality of life (विटामिन)\n\n5. Survival = sur(over) + viv(life) + al → The state of staying alive (अस्तित्व)\n\n• NOTE:- 'vita' and 'viv' words are all about life and living.\n• नोट:- 'vita' और 'viv' वाले शब्द जीवन और जीवित रहने के बारे में होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "63. Root Word - Hydr",
+    "subtopics": [
+      {
+        "subtopic": "Hydr -> Water (पानी)",
+        "content": "• MEANING:- Water (Greek origin)\n• अर्थ:- पानी (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Hydrate = hydr(water) + ate → To add water to something (पानी देना)\n\n2. Dehydrate = de(away) + hydr(water) + ate → To remove water from something (निर्जलित करना)\n\n3. Hydraulic = hydr(water) + aulic → Operated by a liquid moving under pressure (जल-चालित)\n\n4. Hydrophobia = hydro(water) + phobia(fear) → A fear of water (जल-भय)\n\n5. Hydrant = hydr(water) + ant → An outlet from a water main (फायर हाइड्रेंट)\n\n• NOTE:- 'hydr' words are related to water or liquids.\n• नोट:- 'hydr' वाले शब्द पानी या तरल पदार्थों से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "64. Root Word - Nym",
+    "subtopics": [
+      {
+        "subtopic": "Nym -> Name (नाम)",
+        "content": "• MEANING:- Name (Greek origin)\n• अर्थ:- नाम (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Synonym = syn(same) + nym(name) → A word with the same meaning as another (समानार्थी शब्द)\n\n2. Anonymous = a(without) + nym(name) + ous → Without a known name; nameless (गुमनाम)\n\n3. Antonym = ant(against) + nym(name) → A word with the opposite meaning of another (विपरीतार्थक शब्द)\n\n4. Pseudonym = pseudo(false) + nym(name) → A false name used by a writer (छद्म नाम)\n\n5. Acronym = acro(end) + nym(name) → An abbreviation formed from the initial letters of a name (संक्षेप-नाम)\n\n• NOTE:- 'nym' words are about names and naming.\n• नोट:- 'nym' वाले शब्द नामों और नामकरण के बारे में होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "65. Root Word - Photo",
+    "subtopics": [
+      {
+        "subtopic": "Photo -> Light (प्रकाश)",
+        "content": "• MEANING:- Light (Greek origin)\n• अर्थ:- प्रकाश (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Photograph = photo(light) + graph(write) → A picture made using light (तस्वीर)\n\n2. Photosynthesis = photo(light) + synthesis(put together) → The process by which plants use light to make food (प्रकाश संश्लेषण)\n\n3. Photon = photo(light) + on → A particle representing a quantum of light (फोटॉन)\n\n4. Photogenic = photo(light) + genic(producing) → Looking attractive in photographs (फोटो में सुंदर दिखना)\n\n5. Photometer = photo(light) + meter(measure) → An instrument for measuring the intensity of light (प्रकाशमापी)\n\n• NOTE:- 'photo' words relate to light or the use of light.\n• नोट:- 'photo' वाले शब्द प्रकाश या प्रकाश के उपयोग से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "66. Root Word - Scope",
+    "subtopics": [
+      {
+        "subtopic": "Scope -> See, Look (देखना)",
+        "content": "• MEANING:- See, look (Greek origin)\n• अर्थ:- देखना (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Telescope = tele(far) + scope(see) → A device for seeing distant objects (दूरबीन)\n\n2. Microscope = micro(small) + scope(see) → A device for seeing small objects (सूक्ष्मदर्शी)\n\n3. Periscope = peri(around) + scope(see) → A device for seeing around obstacles (पेरिस्कोप)\n\n4. Endoscope = endo(within) + scope(see) → A device for seeing inside the body (एंडोस्कोप)\n\n5. Horoscope = horo(hour) + scope(look) → A chart of a person’s destiny based on the hour of their birth (राशिफल)\n\n• NOTE:- 'scope' words are related to looking, observing, or viewing.\n• नोट:- 'scope' वाले शब्द देखने, अवलोकन करने या देखने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "67. Root Word - Temp",
+    "subtopics": [
+      {
+        "subtopic": "Temp -> Time (समय)",
+        "content": "• MEANING:- Time (Latin origin)\n• अर्थ:- समय (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Temporary = temp(time) + orary → Lasting for a limited time (अस्थायी)\n\n2. Contemporary = con(with) + temp(time) + orary → Existing at the same time (समकालीन)\n\n3. Tempo = temp(time) + o → The rate or speed of a piece of music (ताल)\n\n4. Extemporaneous = ex(out) + tempor(time) + aneous → Done without time for preparation (तत्काल)\n\n5. Tempest = temp(time) + est → A violent windy storm, as if time itself is raging (आंधी)\n\n• NOTE:- 'temp' words are all about time or a period of time.\n• नोट:- 'temp' वाले शब्द सभी समय या समय की अवधि के बारे में होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "68. Root Word - Cap/Capit",
+    "subtopics": [
+      {
+        "subtopic": "Cap/Capit -> Head (सिर)",
+        "content": "• MEANING:- Head (Latin origin)\n• अर्थ:- सिर (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Capital = capit(head) + al → The 'head' city of a country (राजधानी)\n\n2. Captain = capit(head) + ain → The head of a team or group (कप्तान)\n\n3. Decapitate = de(away) + capit(head) + ate → To remove the head (सिर काटना)\n\n4. Capitol = capit(head) + ol → A building where the 'head' of a government meets (सरकारी इमारत)\n\n5. Capitulate = capit(head) + ulate → To surrender or give up the 'head' position (आत्मसमर्पण करना)\n\n• NOTE:- 'cap' and 'capit' words are related to the head, leadership, or being in a main position.\n• नोट:- 'cap' और 'capit' वाले शब्द सिर, नेतृत्व या मुख्य पद पर होने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "69. Root Word - Corp",
+    "subtopics": [
+      {
+        "subtopic": "Corp -> Body (शरीर)",
+        "content": "• MEANING:- Body (Latin origin)\n• अर्थ:- शरीर (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Corpse = corp(body) + se → A dead body (शव)\n\n2. Corporation = corp(body) + oration → A legal body or group of people acting as one body (निगम)\n\n3. Corporeal = corp(body) + eal → Relating to a physical body (शारीरिक)\n\n4. Corpus = corp(body) + us → A collection of writings or body of work (कृति)\n\n5. Incorporate = in(into) + corp(body) + orate → To form a legal body; to include as a part of a whole (शामिल करना)\n\n• NOTE:- 'corp' words relate to the body, a physical form, or a unified group.\n• नोट:- 'corp' वाले शब्द शरीर, एक भौतिक रूप, या एक एकीकृत समूह से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "70. Root Word - Dent",
+    "subtopics": [
+      {
+        "subtopic": "Dent -> Tooth (दांत)",
+        "content": "• MEANING:- Tooth (Latin origin)\n• अर्थ:- दांत (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Dentist = dent(tooth) + ist(person) → A person who works on teeth (दंत चिकित्सक)\n\n2. Dental = dent(tooth) + al → Related to teeth (दंत)\n\n3. Trident = tri(three) + dent(tooth) → A weapon with three teeth or prongs (त्रिशूल)\n\n4. Denture = dent(tooth) + ure → A set of artificial teeth (नकली दांत)\n\n5. Indent = in(in) + dent(tooth) → To make a tooth-like notch or mark (दांत जैसा निशान बनाना)\n\n• NOTE:- 'dent' words are related to teeth or anything shaped like a tooth.\n• नोट:- 'dent' वाले शब्द दांतों या दांत के आकार की किसी भी चीज़ से संबंधित होते हैं।"
+      }
+    ]
+  },
+
+  {
+    "topic": "71. Root Word - Mand/Mandat",
+    "subtopics": [
+      {
+        "subtopic": "Mand/Mandat -> Order, Command (आदेश)",
+        "content": "• MEANING:- Order, command (Latin origin)\n• अर्थ:- आदेश (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Command = com(with) + mand(order) → To give an order (आदेश देना)\n\n2. Mandate = mand(order) + ate → An official order or authorization (जनादेश)\n\n3. Demand = de(down) + mand(order) → To order or ask for something forcefully (मांग)\n\n4. Remand = re(back) + mand(order) → To send a prisoner back into custody by court order (वापस भेजना)\n\n5. Countermand = counter(against) + mand(order) → To revoke a previous order (आदेश रद्द करना)\n\n• NOTE:- 'mand' and 'mandat' words relate to giving orders or having authority.\n• नोट:- 'mand' और 'mandat' वाले शब्द आदेश देने या अधिकार रखने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "72. Root Word - Sect",
+    "subtopics": [
+      {
+        "subtopic": "Sect -> Cut (काटना)",
+        "content": "• MEANING:- Cut (Latin origin)\n• अर्थ:- काटना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Dissect = dis(apart) + sect(cut) → To cut something apart for study (विच्छेदन करना)\n\n2. Section = sect(cut) + ion → A cut or a part of a whole (अनुभाग)\n\n3. Insect = in(into) + sect(cut) → An animal that is 'cut' into three body parts (कीट)\n\n4. Bisect = bi(two) + sect(cut) → To cut into two equal parts (दो बराबर भागों में काटना)\n\n5. Intersection = inter(between) + sect(cut) + ion → The point where two lines or roads cut across each other (चौराहा)\n\n• NOTE:- 'sect' words are related to cutting, dividing, or separating.\n• नोट:- 'sect' वाले शब्द काटने, विभाजित करने या अलग करने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "73. Root Word - Sol",
+    "subtopics": [
+      {
+        "subtopic": "Sol -> Sun (सूर्य)",
+        "content": "• MEANING:- Sun (Latin origin)\n• अर्थ:- सूर्य (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Solar = sol(sun) + ar → Related to the sun (सौर)\n\n2. Solstice = sol(sun) + stice(stand) → The time when the sun 'stands' still (संक्रांति)\n\n3. Solarium = sol(sun) + arium → A room designed to get a lot of sun (सूर्य स्नान घर)\n\n4. Parasol = para(against) + sol(sun) → A light umbrella used as a sunshade (छाता)\n\n5. Insolate = in(in) + sol(sun) + ate → To expose to the sun's rays (धूप में रखना)\n\n• NOTE:- 'sol' words are related to the sun or sunlight.\n• नोट:- 'sol' वाले शब्द सूर्य या धूप से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "74. Root Word - Therm",
+    "subtopics": [
+      {
+        "subtopic": "Therm -> Heat (गर्मी)",
+        "content": "• MEANING:- Heat (Greek origin)\n• अर्थ:- गर्मी (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Thermometer = therm(heat) + meter(measure) → A device for measuring heat (तापमान मापक यंत्र)\n\n2. Thermal = therm(heat) + al → Related to heat (तापीय)\n\n3. Thermostat = therm(heat) + stat(stand) → A device that keeps heat at a consistent level (ताप-नियंत्रक)\n\n4. Hypothermia = hypo(under) + therm(heat) + ia → A dangerous condition of having a body temperature that is too low (अल्पताप)\n\n5. Geothermal = geo(earth) + therm(heat) + al → Relating to the heat of the earth's interior (भू-तापीय)\n\n• NOTE:- 'therm' words are related to heat or temperature.\n• नोट:- 'therm' वाले शब्द गर्मी या तापमान से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "75. Root Word - Uni",
+    "subtopics": [
+      {
+        "subtopic": "Uni -> One (एक)",
+        "content": "• MEANING:- One (Latin origin)\n• अर्थ:- एक (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Unify = uni(one) + fy(make) → To make into one single unit (एकजुट करना)\n\n2. Unicorn = uni(one) + corn(horn) → A mythical animal with one horn (यूनिकॉर्न)\n\n3. Uniform = uni(one) + form(shape) → One single shape or form (एकसमान)\n\n4. Unison = uni(one) + son(sound) → To sound as one (एक सुर में)\n\n5. Universe = uni(one) + verse(turn) → The entire cosmos, which turns as one (ब्रह्मांड)\n\n• NOTE:- 'uni' words are related to the number one or a single unit.\n• नोट:- 'uni' वाले शब्द एक नंबर या एक इकाई से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "76. Root Word - Vent",
+    "subtopics": [
+      {
+        "subtopic": "Vent -> Come (आना)",
+        "content": "• MEANING:- Come (Latin origin)\n• अर्थ:- आना (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Adventure = ad(to) + vent(come) + ure → An exciting experience one 'comes to' (साहसिक कार्य)\n\n2. Invent = in(into) + vent(come) → To 'come into' a new idea or creation (आविष्कार करना)\n\n3. Prevent = pre(before) + vent(come) → To 'come before' and stop something (रोकना)\n\n4. Convention = con(with) + vent(come) + ion → A meeting where people 'come together' (सम्मेलन)\n\n5. Event = e(out) + vent(come) → Something that 'comes out' or happens (घटना)\n\n• NOTE:- 'vent' words are related to coming or arriving.\n• नोट:- 'vent' वाले शब्द आने या पहुंचने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "77. Root Word - Voc/Vok",
+    "subtopics": [
+      {
+        "subtopic": "Voc/Vok -> Call, Voice (बुलाना, आवाज़)",
+        "content": "• MEANING:- Call, voice (Latin origin)\n• अर्थ:- बुलाना, आवाज़ (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Vocal = voc(voice) + al → Related to the voice (स्वर)\n\n2. Invoke = in(in) + vok(call) + e → To 'call in' or appeal to a higher power (आह्वान करना)\n\n3. Revoke = re(back) + vok(call) + e → To 'call back' or cancel (रद्द करना)\n\n4. Convocation = con(together) + voc(call) + ation → A formal 'calling together' of people (दीक्षांत समारोह)\n\n5. Provoke = pro(forward) + vok(call) + e → To 'call forth' an emotion or action (उकसाना)\n\n• NOTE:- 'voc' and 'vok' words relate to calling, speaking, or using the voice.\n• नोट:- 'voc' और 'vok' वाले शब्द बुलाने, बोलने या आवाज़ का उपयोग करने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "78. Root Word - Ped/Pod",
+    "subtopics": [
+      {
+        "subtopic": "Ped/Pod -> Foot (पैर)",
+        "content": "• MEANING:- Foot (Latin/Greek origin)\n• अर्थ:- पैर (लैटिन/यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Pedal = ped(foot) + al → A lever operated by the foot (पेडल)\n\n2. Pedestrian = ped(foot) + estrian → A person traveling on foot (पैदल यात्री)\n\n3. Biped = bi(two) + ped(foot) → An animal that walks on two feet (दो पैरों वाला)\n\n4. Podiatrist = pod(foot) + iatrist(healer) → A doctor who treats foot problems (पैरों का डॉक्टर)\n\n5. Tripod = tri(three) + pod(foot) → A stand with three legs or 'feet' (तिपाई)\n\n• NOTE:- 'ped' and 'pod' words are related to feet or foot-like objects.\n• नोट:- 'ped' और 'pod' वाले शब्द पैरों या पैर जैसे वस्तुओं से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "79. Root Word - Path",
+    "subtopics": [
+      {
+        "subtopic": "Path -> Feeling, Disease (भावना, रोग)",
+        "content": "• MEANING:- Feeling, disease (Greek origin)\n• अर्थ:- भावना, रोग (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Empathy = em(in) + path(feeling) + y → The ability to 'feel in' another person's feelings (समानुभूति)\n\n2. Sympathy = sym(with) + path(feeling) + y → The feeling of 'feeling with' another's sorrow (सहानुभूति)\n\n3. Pathogen = path(disease) + gen(origin) → Something that causes disease (रोगजनक)\n\n4. Pathology = path(disease) + logy(study) → The study of diseases (रोग विज्ञान)\n\n5. Apathy = a(without) + path(feeling) + y → The state of being 'without' feeling or emotion (उदासीनता)\n\n• NOTE:- 'path' words are related to feelings or to diseases.\n• नोट:- 'path' वाले शब्द भावनाओं या रोगों से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "80. Root Word - Astro",
+    "subtopics": [
+      {
+        "subtopic": "Astro -> Star (तारा)",
+        "content": "• MEANING:- Star (Greek origin)\n• अर्थ:- तारा (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Astronomy = astro(star) + nomy(study) → Study of stars and celestial bodies (खगोल विज्ञान)\n\n2. Astrologer = astro(star) + loger(one who studies) → One who studies the influence of stars (ज्योतिषी)\n\n3. Astronaut = astro(star) + naut(sailor) → A person who travels in space (अंतरिक्ष यात्री)\n\n4. Astrophysics = astro(star) + physics → Branch of physics dealing with stars (ताराभौतिकी)\n\n5. Disaster = dis(bad) + aster(star) → Originally meant 'bad star', now means a calamity (आपदा)\n\n• NOTE:- 'astro' words are related to stars, space, and celestial phenomena.\n• नोट:- 'astro' वाले शब्द तारों, अंतरिक्ष और खगोलीय घटनाओं से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "81. Root Word - Luna",
+    "subtopics": [
+      {
+        "subtopic": "Luna -> Moon (चंद्रमा)",
+        "content": "• MEANING:- Moon (Latin origin)\n• अर्थ:- चंद्रमा (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Lunar = luna(moon) → Related to the moon (चंद्र संबंधी)\n2. Lunatic = luna(moon) + tic → Originally believed to be affected by the moon (पागल)\n3. Lunation = luna(moon) + tion → A cycle of the moon (चंद्र चक्र)\n4. Sublunar = sub(under) + lunar(moon) → Beneath the moon; earthly (पृथ्वी संबंधी)\n5. Semilunar = semi(half) + lunar(moon) → Shaped like a half-moon (अर्धचंद्राकार)\n\n• NOTE:- 'luna' words are related to the moon and its cycles.\n• नोट:- 'luna' वाले शब्द चंद्रमा और उसके चक्र से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "82. Root Word - Mar",
+    "subtopics": [
+      {
+        "subtopic": "Mar -> Sea (समुद्र)",
+        "content": "• MEANING:- Sea (Latin origin)\n• अर्थ:- समुद्र (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Marine = mar(sea) + ine → Related to the sea (समुद्री)\n2. Maritime = mar(sea) + time → Connected with the sea (समुद्री)\n3. Submarine = sub(under) + marine(sea) → Under the sea (पनडुब्बी)\n4. Mariner = mar(sea) + iner → Sailor (नाविक)\n5. Marsh = mar(sea) + sh → Wetland near the sea (दलदल)\n\n• NOTE:- 'mar' words are related to the sea and water bodies.\n• नोट:- 'mar' वाले शब्द समुद्र और जल निकायों से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "83. Root Word - Ignis",
+    "subtopics": [
+      {
+        "subtopic": "Ignis -> Fire (आग)",
+        "content": "• MEANING:- Fire (Latin origin)\n• अर्थ:- आग (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Ignite = ignis(fire) + ite → To set on fire (जलाना)\n2. Ignition = ignis(fire) + tion → The act of starting a fire (आग लगाना)\n3. Igneous = ignis(fire) + ous → Formed by fire or heat (आग से बना)\n4. Igniferous = ignis(fire) + ferous(bearing) → Producing fire (आग पैदा करने वाला)\n5. Ignition switch = ignis(fire) + switch → Device to start a fire in engines (इग्निशन स्विच)\n\n• NOTE:- 'ignis' words are related to fire and burning.\n• नोट:- 'ignis' वाले शब्द आग और जलने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "84. Root Word - Pyr",
+    "subtopics": [
+      {
+        "subtopic": "Pyr -> Fire (आग)",
+        "content": "• MEANING:- Fire (Greek origin)\n• अर्थ:- आग (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Pyre = pyr(fire) → A pile for burning (चिता)\n2. Pyrotechnics = pyr(fire) + technics(art) → Art of making fireworks (आतिशबाज़ी)\n3. Pyromania = pyr(fire) + mania(madness) → Obsession with fire (आग का जुनून)\n4. Pyrometer = pyr(fire) + meter(measure) → Instrument for measuring high temperatures (तापमापी)\n5. Pyrosis = pyr(fire) + osis(condition) → Heartburn (सीने में जलन)\n\n• NOTE:- 'pyr' words are related to fire and heat.\n• नोट:- 'pyr' वाले शब्द आग और ताप से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "85. Root Word - Aer",
+    "subtopics": [
+      {
+        "subtopic": "Aer -> Air (हवा)",
+        "content": "• MEANING:- Air (Greek origin)\n• अर्थ:- हवा (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Aerate = aer(air) + ate → To expose to air (हवा देना)\n2. Aerobic = aer(air) + bic(life) → Requiring air (वायु संबंधी)\n3. Aerosol = aer(air) + sol(solution) → Suspension of particles in air (एरोसोल)\n4. Aeronautics = aer(air) + nautics(navigation) → Science of flight (विमान विज्ञान)\n5. Aerodynamics = aer(air) + dynamics(motion) → Study of air movement (वायुगतिकी)\n\n• NOTE:- 'aer' words are related to air and gases.\n• नोट:- 'aer' वाले शब्द हवा और गैसों से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "86. Root Word - Lith",
+    "subtopics": [
+      {
+        "subtopic": "Lith -> Stone (पत्थर)",
+        "content": "• MEANING:- Stone (Greek origin)\n• अर्थ:- पत्थर (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Lithograph = lith(stone) + graph(write) → Printing from a stone (पत्थर छपाई)\n2. Monolith = mono(one) + lith(stone) → Large single stone (एक पत्थर)\n3. Neolithic = neo(new) + lith(stone) + ic → New Stone Age (नवपाषाण युग)\n4. Lithosphere = lith(stone) + sphere → Rocky outer layer of earth (पृथ्वी का कठोर भाग)\n5. Lithology = lith(stone) + logy(study) → Study of rocks (शैल विज्ञान)\n\n• NOTE:- 'lith' words are related to stones and rocks.\n• नोट:- 'lith' वाले शब्द पत्थर और चट्टानों से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "87. Root Word - Flor",
+    "subtopics": [
+      {
+        "subtopic": "Flor -> Flower (फूल)",
+        "content": "• MEANING:- Flower (Latin origin)\n• अर्थ:- फूल (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Floral = flor(flower) + al → Related to flowers (फूल संबंधी)\n2. Florist = flor(flower) + ist(person) → Seller of flowers (फूलवाला)\n3. Floriculture = flor(flower) + culture(growing) → Cultivation of flowers (फूलों की खेती)\n4. Flora = flor(flower) + a → Plant life of a region (वनस्पति)\n5. Florid = flor(flower) + id → Flowery or ornate (सजावटी)\n\n• NOTE:- 'flor' words are related to flowers and plants.\n• नोट:- 'flor' वाले शब्द फूलों और पौधों से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "88. Root Word - Faun",
+    "subtopics": [
+      {
+        "subtopic": "Faun -> Animal (जानवर)",
+        "content": "• MEANING:- Animal (Latin origin)\n• अर्थ:- जानवर (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Fauna = faun(animal) + a → Animal life of a region (प्राणी जगत)\n2. Faunal = faun(animal) + al → Related to animals (प्राणी संबंधी)\n3. Faunistic = faun(animal) + istic → Pertaining to animals (प्राणी संबंधी)\n4. Faunology = faun(animal) + logy(study) → Study of animals (प्राणी विज्ञान)\n5. Faunivore = faun(animal) + vore(eat) → Animal eater (मांसाहारी)\n\n• NOTE:- 'faun' words are related to animals and wildlife.\n• नोट:- 'faun' वाले शब्द जानवरों और वन्य जीवन से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "89. Root Word - Equ",
+    "subtopics": [
+      {
+        "subtopic": "Equ -> Horse (घोड़ा)",
+        "content": "• MEANING:- Horse (Latin origin)\n• अर्थ:- घोड़ा (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Equestrian = equ(horse) + ian(person) → Horse rider (घुड़सवार)\n2. Equine = equ(horse) + ine → Related to horses (घोड़ा संबंधी)\n3. Equitation = equ(horse) + tation(act) → Art of horse riding (घुड़सवारी)\n4. Equerry = equ(horse) + erry → Officer in charge of horses (घोड़ा अधिकारी)\n5. Equus = equ(horse) + us → Genus of horses (घोड़े की जाति)\n\n• NOTE:- 'equ' words are related to horses and horse riding.\n• नोट:- 'equ' वाले शब्द घोड़ों और घुड़सवारी से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "90. Root Word - Canis",
+    "subtopics": [
+      {
+        "subtopic": "Canis -> Dog (कुत्ता)",
+        "content": "• MEANING:- Dog (Latin origin)\n• अर्थ:- कुत्ता (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Canine = canis(dog) + ine → Related to dogs (कुत्ता संबंधी)\n2. Canid = canis(dog) + id → Member of the dog family (कुत्ते की जाति)\n3. Canis Major = canis(dog) + major(big) → Large dog constellation (कुत्ता तारामंडल)\n4. Canis Minor = canis(dog) + minor(small) → Small dog constellation (छोटा कुत्ता तारामंडल)\n5. Canicide = canis(dog) + cide(kill) → Killing of a dog (कुत्ते की हत्या)\n\n• NOTE:- 'canis' words are related to dogs and the dog family.\n• नोट:- 'canis' वाले शब्द कुत्तों और कुत्ते की जाति से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "91. Root Word - Felis",
+    "subtopics": [
+      {
+        "subtopic": "Felis -> Cat (बिल्ली)",
+        "content": "• MEANING:- Cat (Latin origin)\n• अर्थ:- बिल्ली (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Feline = felis(cat) + ine → Related to cats (बिल्ली संबंधी)\n2. Felid = felis(cat) + id → Member of the cat family (बिल्ली की जाति)\n3. Felis catus = felis(cat) + catus(domestic) → Domestic cat (पालतू बिल्ली)\n4. Felicide = felis(cat) + cide(kill) → Killing of a cat (बिल्ली की हत्या)\n5. Feliform = felis(cat) + form(shape) → Cat-like shape (बिल्ली जैसा आकार)\n\n• NOTE:- 'felis' words are related to cats and the cat family.\n• नोट:- 'felis' वाले शब्द बिल्लियों और बिल्ली की जाति से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "92. Root Word - Avi",
+    "subtopics": [
+      {
+        "subtopic": "Avi -> Bird (पक्षी)",
+        "content": "• MEANING:- Bird (Latin origin)\n• अर्थ:- पक्षी (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Avian = avi(bird) + an → Related to birds (पक्षी संबंधी)\n2. Aviary = avi(bird) + ary(place) → Place for keeping birds (पक्षीशाला)\n3. Aviation = avi(bird) + ation(act) → Flying or operating aircraft (विमानन)\n4. Aviculture = avi(bird) + culture(growing) → Raising and breeding birds (पक्षी पालन)\n5. Avifauna = avi(bird) + fauna(animal life) → Birds of a region (क्षेत्र के पक्षी)\n\n• NOTE:- 'avi' words are related to birds and flight.\n• नोट:- 'avi' वाले शब्द पक्षियों और उड़ान से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "93. Root Word - Herbi",
+    "subtopics": [
+      {
+        "subtopic": "Herbi -> Grass (घास)",
+        "content": "• MEANING:- Grass (Latin origin)\n• अर्थ:- घास (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Herbivore = herbi(grass) + vore(eat) → Grass eater (शाकाहारी)\n2. Herbicide = herbi(grass) + cide(kill) → Substance that kills grass (घास मारने की दवा)\n3. Herbal = herbi(grass) + al → Related to herbs (जड़ी-बूटी संबंधी)\n4. Herbology = herbi(grass) + logy(study) → Study of herbs (जड़ी-बूटी विज्ञान)\n5. Herbage = herbi(grass) + age → Grass or plants (घास या पौधे)\n\n• NOTE:- 'herbi' words are related to grass and plants.\n• नोट:- 'herbi' वाले शब्द घास और पौधों से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "94. Root Word - Carn",
+    "subtopics": [
+      {
+        "subtopic": "Carn -> Flesh, Meat (मांस)",
+        "content": "• MEANING:- Flesh, meat (Latin origin)\n• अर्थ:- मांस (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Carnivore = carn(flesh) + vore(eat) → Meat eater (मांसाहारी)\n2. Carnage = carn(flesh) + age → Mass killing (नरसंहार)\n3. Incarnate = in(into) + carn(flesh) + ate → In the flesh; embodied (मांस में)\n4. Carnal = carn(flesh) + al → Related to flesh or body (शारीरिक)\n5. Carnival = carn(flesh) + val(farewell) → Festival before fasting (कार्निवाल)\n\n• NOTE:- 'carn' words are related to flesh and meat.\n• नोट:- 'carn' वाले शब्द मांस और शरीर से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "95. Root Word - Pisc",
+    "subtopics": [
+      {
+        "subtopic": "Pisc -> Fish (मछली)",
+        "content": "• MEANING:- Fish (Latin origin)\n• अर्थ:- मछली (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Piscine = pisc(fish) + ine → Related to fish (मछली संबंधी)\n2. Pisciculture = pisc(fish) + culture(growing) → Fish farming (मछली पालन)\n3. Piscivorous = pisc(fish) + vorous(eating) → Fish eater (मछली खाने वाला)\n4. Pisces = pisc(fish) + es → Zodiac sign of fish (मीन राशि)\n5. Piscary = pisc(fish) + ary(place) → Place for fishing (मछली पकड़ने का स्थान)\n\n• NOTE:- 'pisc' words are related to fish and fishing.\n• नोट:- 'pisc' वाले शब्द मछली और मछली पकड़ने से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "96. Root Word - Ovi",
+    "subtopics": [
+      {
+        "subtopic": "Ovi -> Egg (अंडा)",
+        "content": "• MEANING:- Egg (Latin origin)\n• अर्थ:- अंडा (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Oviparous = ovi(egg) + parous(bearing) → Egg-laying (अंडे देने वाला)\n2. Ovary = ovi(egg) + ary(place) → Organ that produces eggs (अंडाशय)\n3. Ovulate = ovi(egg) + late(bring forth) → To produce eggs (अंडे बनाना)\n4. Oviform = ovi(egg) + form(shape) → Egg-shaped (अंडाकार)\n5. Ovicide = ovi(egg) + cide(kill) → Killing of eggs (अंडों की हत्या)\n\n• NOTE:- 'ovi' words are related to eggs and reproduction.\n• नोट:- 'ovi' वाले शब्द अंडों और प्रजनन से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "97. Root Word - Drom",
+    "subtopics": [
+      {
+        "subtopic": "Drom -> Run (दौड़ना)",
+        "content": "• MEANING:- Run (Greek origin)\n• अर्थ:- दौड़ना (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Dromedary = drom(run) + edary → Fast-running camel (एक कूबड़ वाला ऊँट)\n2. Hippodrome = hippo(horse) + drome(run) → Horse racecourse (घुड़दौड़ का मैदान)\n3. Aerodrome = aero(air) + drome(run) → Airfield (हवाई अड्डा)\n4. Syndrome = syn(together) + drome(run) → Group of symptoms running together (लक्षण समूह)\n5. Dromic = drom(run) + ic → Pertaining to running (दौड़ संबंधी)\n\n• NOTE:- 'drom' words are related to running and movement.\n• नोट:- 'drom' वाले शब्द दौड़ और गति से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "98. Root Word - Saur",
+    "subtopics": [
+      {
+        "subtopic": "Saur -> Lizard, Reptile (छिपकली, सरीसृप)",
+        "content": "• MEANING:- Lizard, reptile (Greek origin)\n• अर्थ:- छिपकली, सरीसृप (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Dinosaur = dino(terrible) + saur(lizard) → Terrible lizard (डायनासोर)\n2. Saurian = saur(lizard) + ian → Related to lizards (छिपकली संबंधी)\n3. Sauropod = saur(lizard) + pod(foot) → Lizard-footed dinosaur (सॉरोपोड)\n4. Saurischian = saur(lizard) + ischian(pelvis) → Lizard-hipped dinosaur (सॉरिस्कियन)\n5. Sauridae = saur(lizard) + idae(family) → Family of lizards (छिपकली परिवार)\n\n• NOTE:- 'saur' words are related to lizards and reptiles.\n• नोट:- 'saur' वाले शब्द छिपकली और सरीसृप से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "99. Root Word - Helio",
+    "subtopics": [
+      {
+        "subtopic": "Helio -> Sun (सूर्य)",
+        "content": "• MEANING:- Sun (Greek origin)\n• अर्थ:- सूर्य (यूनानी मूल)\n\n• EXAMPLES:-\n\n1. Heliocentric = helio(sun) + centric(center) → Sun-centered (सूर्य केंद्रित)\n2. Heliosphere = helio(sun) + sphere → Sun's sphere of influence (सूर्य का क्षेत्र)\n3. Heliograph = helio(sun) + graph(write) → Device for sending messages by sunlight (सूर्यलेख)\n4. Heliodon = helio(sun) + don(give) → Device to simulate sunlight (सूर्य अनुकरण यंत्र)\n5. Heliotherapy = helio(sun) + therapy(treatment) → Treatment using sunlight (सूर्य चिकित्सा)\n\n• NOTE:- 'helio' words are related to the sun and sunlight.\n• नोट:- 'helio' वाले शब्द सूर्य और सूर्य के प्रकाश से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "100. Root Word - Noct",
+    "subtopics": [
+      {
+        "subtopic": "Noct -> Night (रात)",
+        "content": "• MEANING:- Night (Latin origin)\n• अर्थ:- रात (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Nocturnal = noct(night) + urnal → Active at night (रात में सक्रिय)\n2. Nocturne = noct(night) + urne → Musical composition inspired by night (रात्रि संगीत)\n3. Noctilucent = noct(night) + lucent(shining) → Shining at night (रात में चमकने वाला)\n4. Noctambulate = noct(night) + ambulate(walk) → Sleepwalking (नींद में चलना)\n5. Noctivagant = noct(night) + vagant(wandering) → Wandering at night (रात में घूमना)\n\n• NOTE:- 'noct' words are related to night and nighttime activities.\n• नोट:- 'noct' वाले शब्द रात और रात्रिकालीन गतिविधियों से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "101. Root Word - Diurn",
+    "subtopics": [
+      {
+        "subtopic": "Diurn -> Day (दिन)",
+        "content": "• MEANING:- Day (Latin origin)\n• अर्थ:- दिन (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Diurnal = diurn(day) + al → Active during the day (दिन में सक्रिय)\n2. Diurnation = diurn(day) + ation(act) → Daily activity (दैनिक गतिविधि)\n3. Diurnality = diurn(day) + ality(state) → State of being active during the day (दिन में सक्रियता)\n4. Diurnambulate = diurn(day) + ambulate(walk) → Walking during the day (दिन में चलना)\n5. Diurnoscope = diurn(day) + scope(see) → Instrument for observing during the day (दिव्यदर्शी यंत्र)\n\n• NOTE:- 'diurn' words are related to day and daytime activities.\n• नोट:- 'diurn' वाले शब्द दिन और दिन के समय की गतिविधियों से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "102. Root Word - Pluv",
+    "subtopics": [
+      {
+        "subtopic": "Pluv -> Rain (वर्षा)",
+        "content": "• MEANING:- Rain (Latin origin)\n• अर्थ:- वर्षा (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Pluvial = pluv(rain) + ial → Related to rain (वर्षा संबंधी)\n2. Pluviometer = pluv(rain) + meter(measure) → Rain gauge (वर्षामापी)\n3. Pluviose = pluv(rain) + ose(full of) → Rainy (वर्षा युक्त)\n4. Pluviculture = pluv(rain) + culture(growing) → Cultivation during rainy season (वर्षा कालीन खेती)\n5. Pluviphile = pluv(rain) + phile(love) → Lover of rain (वर्षा प्रेमी)\n\n• NOTE:- 'pluv' words are related to rain and rainfall.\n• नोट:- 'pluv' वाले शब्द वर्षा और वर्षा से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "103. Root Word - Ventus",
+    "subtopics": [
+      {
+        "subtopic": "Ventus -> Wind (हवा)",
+        "content": "• MEANING:- Wind (Latin origin)\n• अर्थ:- हवा (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Ventilation = ventus(wind) + ation(act) → Movement of air (वातायन)\n2. Venturi = ventus(wind) + ri → Device for measuring wind speed (वेंटुरी)\n3. Ventose = ventus(wind) + ose(full of) → Windy (हवादार)\n4. Ventifact = ventus(wind) + fact(made) → Rock shaped by wind (हवा से बना पत्थर)\n5. Ventus = ventus(wind) → Latin word for wind (हवा)\n\n• NOTE:- 'ventus' words are related to wind and air movement.\n• नोट:- 'ventus' वाले शब्द हवा और वायु की गति से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "104. Root Word - Silv",
+    "subtopics": [
+      {
+        "subtopic": "Silv -> Forest, Wood (वन, लकड़ी)",
+        "content": "• MEANING:- Forest, wood (Latin origin)\n• अर्थ:- वन, लकड़ी (लैटिन मूल)\n\n• EXAMPLES:-\n\n1. Silviculture = silv(forest) + culture(growing) → Cultivation of forests (वन विज्ञान)\n2. Silvan = silv(forest) + an → Related to forests (वन संबंधी)\n3. Silva = silv(forest) + a → Forest or woodland (वन)\n4. Silvology = silv(forest) + logy(study) → Study of forests (वन विज्ञान)\n5. Silvic = silv(forest) + ic → Pertaining to woods (लकड़ी संबंधी)\n\n• NOTE:- 'silv' words are related to forests and woods.\n• नोट:- 'silv' वाले शब्द वन और लकड़ी से संबंधित होते हैं।"
+      }
+    ]
+  },
+  {
+    "topic": "105. Root Word - Tox",
+    "subtopics": [
+      {
+        "subtopic": "Tox -> Poison (विष)",
+        "content": "• MEANING:- Poison (Greek origin)\n• अर्थ:- विष (यूनानी मूल)\n\n• EXAMPLES:-\n1. Toxic = tox(poison) + ic → Poisonous (विषैला)\n2. Detoxify = de(remove) + tox(poison) + ify(make) → Remove poison (विषहरण करना)\n3. Toxin = tox(poison) + in(substance) → Poisonous substance (विष)\n4. Intoxicate = in(into) + tox(poison) + ate(make) → To poison or make drunk (नशा करना)\n5. Antitoxin = anti(against) + tox(poison) + in(substance) → Substance against poison (प्रतिविष)\n\n• NOTE:- 'tox' words are related to poison and harmful substances."
+      }
+    ]
+  },
+  {
+    "topic": "106. Root Word - Xen",
+    "subtopics": [
+      {
+        "subtopic": "Xen -> Foreign (विदेशी)",
+        "content": "• MEANING:- Foreign (Greek origin)\n• अर्थ:- विदेशी (यूनानी मूल)\n\n• EXAMPLES:-\n1. Xenophobia = xen(foreign) + phobia(fear) → Fear of foreigners (विदेशी भय)\n2. Xenogenesis = xen(foreign) + genesis(origin) → Creation of something foreign (विदेशी उत्पत्ति)\n3. Xenon = xen(foreign) + on(element) → A foreign element (जेनॉन)\n4. Xenozoon = xen(foreign) + zoon(animal) → Foreign animal (विदेशी जानवर)\n5. Xenolith = xen(foreign) + lith(stone) → Foreign rock fragment (विदेशी पत्थर)\n\n• NOTE:- 'xen' words are related to foreign or strange things."
+      }
+    ]
+  },
+  {
+    "topic": "107. Root Word - Cata",
+    "subtopics": [
+      {
+        "subtopic": "Cata -> Down, Against (नीचे, विरोध)",
+        "content": "• MEANING:- Down, against (Greek origin)\n• अर्थ:- नीचे, विरोध (यूनानी मूल)\n\n• EXAMPLES:-\n1. Catastrophe = cata(down) + strophe(turn) → Disaster (आपदा)\n2. Catalyst = cata(down) + lyst(loosen) → Substance that speeds up reaction (उत्प्रेरक)\n3. Cataclysm = cata(down) + clysm(wash) → Violent event (प्रलय)\n4. Catacomb = cata(down) + comb(tomb) → Underground tomb (भूमिगत कब्र)\n5. Catapult = cata(down) + pult(hurl) → Device for throwing (गुलेल)\n\n• NOTE:- 'cata' words are related to downward movement or opposition."
+      }
+    ]
+  },
+  {
+    "topic": "108. Root Word - Hemo",
+    "subtopics": [
+      {
+        "subtopic": "Hemo -> Blood (रक्त)",
+        "content": "• MEANING:- Blood (Greek origin)\n• अर्थ:- रक्त (यूनानी मूल)\n\n• EXAMPLES:-\n1. Hemoglobin = hemo(blood) + globin(protein) → Blood protein (हीमोग्लोबिन)\n2. Hemorrhage = hemo(blood) + rrhage(burst) → Excessive bleeding (रक्तस्राव)\n3. Hemophilia = hemo(blood) + philia(love) → Disease of blood clotting (रक्तस्रावी)\n4. Hemocyte = hemo(blood) + cyte(cell) → Blood cell (रक्त कोशिका)\n5. Hemotherapy = hemo(blood) + therapy(treatment) → Blood treatment (रक्त चिकित्सा)\n\n• NOTE:- 'hemo' words are related to blood and its functions."
+      }
+    ]
+  },
+  {
+    "topic": "109. Root Word - Myo",
+    "subtopics": [
+      {
+        "subtopic": "Myo -> Muscle (मांसपेशी)",
+        "content": "• MEANING:- Muscle (Greek origin)\n• अर्थ:- मांसपेशी (यूनानी मूल)\n\n• EXAMPLES:-\n1. Myology = myo(muscle) + logy(study) → Study of muscles (मांसपेशी विज्ञान)\n2. Myocardium = myo(muscle) + cardium(heart) → Heart muscle (हृदय की मांसपेशी)\n3. Myopathy = myo(muscle) + pathy(disease) → Muscle disease (मांसपेशी रोग)\n4. Myogram = myo(muscle) + gram(record) → Record of muscle activity (मायोग्राम)\n5. Myositis = myo(muscle) + itis(inflammation) → Muscle inflammation (मांसपेशी सूजन)\n\n• NOTE:- 'myo' words are related to muscles and their diseases."
+      }
+    ]
+  },
+  {
+    "topic": "110. Root Word - Derm",
+    "subtopics": [
+      {
+        "subtopic": "Derm -> Skin (त्वचा)",
+        "content": "• MEANING:- Skin (Greek origin)\n• अर्थ:- त्वचा (यूनानी मूल)\n\n• EXAMPLES:-\n1. Dermatology = derm(skin) + logy(study) → Study of skin (त्वचा विज्ञान)\n2. Epidermis = epi(upon) + derm(skin) → Outer layer of skin (त्वचा की ऊपरी परत)\n3. Dermatitis = derm(skin) + itis(inflammation) → Skin inflammation (त्वचा की सूजन)\n4. Hypodermic = hypo(under) + derm(skin) → Under the skin (त्वचा के नीचे)\n5. Dermal = derm(skin) + al(related) → Related to skin (त्वचा संबंधी)\n\n• NOTE:- 'derm' words are related to skin and its conditions."
+      }
+    ]
+  },
+  {
+    "topic": "111. Root Word - Cephal",
+    "subtopics": [
+      {
+        "subtopic": "Cephal -> Head (सिर)",
+        "content": "• MEANING:- Head (Greek origin)\n• अर्थ:- सिर (यूनानी मूल)\n\n• EXAMPLES:-\n1. Cephalalgia = cephal(head) + algia(pain) → Headache (सिरदर्द)\n2. Cephalopod = cephal(head) + pod(foot) → Animal with head and feet (मुखपाद प्राणी)\n3. Encephalitis = en(in) + cephal(head) + itis(inflammation) → Brain inflammation (मस्तिष्क ज्वर)\n4. Hydrocephalus = hydro(water) + cephal(head) → Water in the brain (जलमस्तिष्कता)\n5. Cephalic = cephal(head) + ic(related) → Related to the head (सिर संबंधी)\n\n• NOTE:- 'cephal' words are related to the head and brain."
+      }
+    ]
+  },
+  {
+    "topic": "112. Root Word - Cardio",
+    "subtopics": [
+      {
+        "subtopic": "Cardio -> Heart (हृदय)",
+        "content": "• MEANING:- Heart (Greek origin)\n• अर्थ:- हृदय (यूनानी मूल)\n\n• EXAMPLES:-\n1. Cardiology = cardio(heart) + logy(study) → Study of heart (हृदय विज्ञान)\n2. Cardiogram = cardio(heart) + gram(record) → Record of heart activity (कार्डियोग्राम)\n3. Cardiopathy = cardio(heart) + pathy(disease) → Heart disease (हृदय रोग)\n4. Cardiovascular = cardio(heart) + vascular(vessel) → Related to heart and blood vessels (हृदय और रक्त वाहिकाओं संबंधी)\n5. Cardiac = cardio(heart) + ac(related) → Related to heart (हृदय संबंधी)\n\n• NOTE:- 'cardio' words are related to the heart and its diseases."
+      }
+    ]
+  },
+  {
+    "topic": "113. Root Word - Ophthal",
+    "subtopics": [
+      {
+        "subtopic": "Ophthal -> Eye (आंख)",
+        "content": "• MEANING:- Eye (Greek origin)\n• अर्थ:- आंख (यूनानी मूल)\n\n• EXAMPLES:-\n1. Ophthalmology = ophthal(eye) + logy(study) → Study of eyes (नेत्र विज्ञान)\n2. Ophthalmoscope = ophthal(eye) + scope(see) → Instrument to examine eyes (नेत्रदर्शी)\n3. Ophthalmic = ophthal(eye) + ic(related) → Related to eyes (नेत्र संबंधी)\n4. Xerophthalmia = xero(dry) + ophthal(eye) + mia(condition) → Dryness of eyes (आंखों की सूखापन)\n5. Ophthalmoplegia = ophthal(eye) + plegia(paralysis) → Paralysis of eye muscles (नेत्र पक्षाघात)\n\n• NOTE:- 'ophthal' words are related to eyes and vision."
+      }
+    ]
+  },
+  {
+    "topic": "114. Root Word - Pod",
+    "subtopics": [
+      {
+        "subtopic": "Pod -> Foot (पैर)",
+        "content": "• MEANING:- Foot (Greek origin)\n• अर्थ:- पैर (यूनानी मूल)\n\n• EXAMPLES:-\n1. Podiatry = pod(foot) + iatry(treatment) → Treatment of feet (पैर चिकित्सा)\n2. Cephalopod = cephal(head) + pod(foot) → Animal with head and feet (मुखपाद प्राणी)\n3. Gastropod = gastro(stomach) + pod(foot) → Animal with stomach and feet (पेटपाद प्राणी)\n4. Podium = pod(foot) + ium(place) → Raised platform (मंच)\n5. Podocyte = pod(foot) + cyte(cell) → Foot-shaped cell (पैर के आकार की कोशिका)\n\n• NOTE:- 'pod' words are related to feet and movement."
+      }
+    ]
+  },
+  {
+    "topic": "115. Root Word - Pulmo",
+    "subtopics": [
+      {
+        "subtopic": "Pulmo -> Lung (फेफड़ा)",
+        "content": "• MEANING:- Lung (Latin origin)\n• अर्थ:- फेफड़ा (लैटिन मूल)\n\n• EXAMPLES:-\n1. Pulmonary = pulmo(lung) + ary(related) → Related to lungs (फेफड़ा संबंधी)\n2. Pulmonology = pulmo(lung) + logy(study) → Study of lungs (फेफड़ा विज्ञान)\n3. Pulmometer = pulmo(lung) + meter(measure) → Instrument to measure lung capacity (फेफड़ा मापी)\n4. Pulmectomy = pulmo(lung) + ectomy(removal) → Removal of lung (फेफड़ा निकालना)\n5. Pulmonate = pulmo(lung) + nate(having) → Having lungs (फेफड़ा वाला)\n\n• NOTE:- 'pulmo' words are related to lungs and breathing."
+      }
+    ]
+  },
+  {
+    "topic": "116. Root Word - Gastro",
+    "subtopics": [
+      {
+        "subtopic": "Gastro -> Stomach (पेट)",
+        "content": "• MEANING:- Stomach (Greek origin)\n• अर्थ:- पेट (यूनानी मूल)\n\n• EXAMPLES:-\n1. Gastronomy = gastro(stomach) + nomy(study) → Study of food and cooking (भोजन विज्ञान)\n2. Gastropod = gastro(stomach) + pod(foot) → Animal with stomach and feet (पेटपाद प्राणी)\n3. Gastritis = gastro(stomach) + itis(inflammation) → Stomach inflammation (पेट की सूजन)\n4. Gastroenterology = gastro(stomach) + enter(intestine) + logy(study) → Study of stomach and intestines (गैस्ट्रोएन्टेरोलॉजी)\n5. Gastroscope = gastro(stomach) + scope(see) → Instrument to examine stomach (गैस्ट्रोस्कोप)\n\n• NOTE:- 'gastro' words are related to stomach and digestion."
+      }
+    ]
+  },
+  {
+    "topic": "117. Root Word - Hepat",
+    "subtopics": [
+      {
+        "subtopic": "Hepat -> Liver (यकृत)",
+        "content": "• MEANING:- Liver (Greek origin)\n• अर्थ:- यकृत (यूनानी मूल)\n\n• EXAMPLES:-\n1. Hepatitis = hepat(liver) + itis(inflammation) → Liver inflammation (यकृत की सूजन)\n2. Hepatology = hepat(liver) + logy(study) → Study of liver (यकृत विज्ञान)\n3. Hepatocyte = hepat(liver) + cyte(cell) → Liver cell (यकृत कोशिका)\n4. Hepatectomy = hepat(liver) + ectomy(removal) → Removal of liver (यकृत निकालना)\n5. Hepatoma = hepat(liver) + oma(tumor) → Liver tumor (यकृत का ट्यूमर)\n\n• NOTE:- 'hepat' words are related to liver and its diseases."
+      }
+    ]
+  },
+  {
+    "topic": "118. Root Word - Neur",
+    "subtopics": [
+      {
+        "subtopic": "Neur -> Nerve (तंत्रिका)",
+        "content": "• MEANING:- Nerve (Greek origin)\n• अर्थ:- तंत्रिका (यूनानी मूल)\n\n• EXAMPLES:-\n1. Neurology = neur(nerve) + logy(study) → Study of nerves (तंत्रिका विज्ञान)\n2. Neuron = neur(nerve) + on(cell) → Nerve cell (तंत्रिका कोशिका)\n3. Neuralgia = neur(nerve) + algia(pain) → Nerve pain (तंत्रिका दर्द)\n4. Neurotoxin = neur(nerve) + toxin(poison) → Nerve poison (तंत्रिका विष)\n5. Neurogenesis = neur(nerve) + genesis(origin) → Formation of nerves (तंत्रिका निर्माण)\n\n• NOTE:- 'neur' words are related to nerves and the nervous system."
+      }
+    ]
+  },
+  {
+    "topic": "119. Root Word - Osteo",
+    "subtopics": [
+      {
+        "subtopic": "Osteo -> Bone (हड्डी)",
+        "content": "• MEANING:- Bone (Greek origin)\n• अर्थ:- हड्डी (यूनानी मूल)\n\n• EXAMPLES:-\n1. Osteology = osteo(bone) + logy(study) → Study of bones (हड्डी विज्ञान)\n2. Osteopathy = osteo(bone) + pathy(disease) → Bone disease (हड्डी रोग)\n3. Osteocyte = osteo(bone) + cyte(cell) → Bone cell (हड्डी कोशिका)\n4. Osteogenesis = osteo(bone) + genesis(origin) → Formation of bone (हड्डी निर्माण)\n5. Osteotomy = osteo(bone) + tomy(cut) → Cutting of bone (हड्डी काटना)\n\n• NOTE:- 'osteo' words are related to bones and their diseases."
+      }
+    ]
+  },
+  {
+    "topic": "120. Root Word - Rhino",
+    "subtopics": [
+      {
+        "subtopic": "Rhino -> Nose (नाक)",
+        "content": "• MEANING:- Nose (Greek origin)\n• अर्थ:- नाक (यूनानी मूल)\n\n• EXAMPLES:-\n1. Rhinology = rhino(nose) + logy(study) → Study of nose (नाक विज्ञान)\n2. Rhinoplasty = rhino(nose) + plasty(repair) → Nose surgery (नाक की सर्जरी)\n3. Rhinovirus = rhino(nose) + virus → Virus causing cold (सर्दी का वायरस)\n4. Rhinorrhea = rhino(nose) + rrhea(flow) → Runny nose (बहती नाक)\n5. Rhinoceros = rhino(nose) + ceros(horn) → Animal with nose horn (गैंडा)\n\n• NOTE:- 'rhino' words are related to nose and nasal conditions."
+      }
+    ]
+  },
+  {
+    "topic": "121. Root Word - Sarco",
+    "subtopics": [
+      {
+        "subtopic": "Sarco -> Flesh (मांस)",
+        "content": "• MEANING:- Flesh (Greek origin)\n• अर्थ:- मांस (यूनानी मूल)\n\n• EXAMPLES:-\n1. Sarcophagus = sarco(flesh) + phagus(eat) → Stone coffin (पत्थर का ताबूत)\n2. Sarcoma = sarco(flesh) + oma(tumor) → Flesh tumor (मांस का ट्यूमर)\n3. Sarcoblast = sarco(flesh) + blast(germ) → Flesh germ cell (मांस कोशिका)\n4. Sarcous = sarco(flesh) + ous(related) → Related to flesh (मांस संबंधी)\n5. Sarcoptosis = sarco(flesh) + ptosis(fall) → Falling of flesh (मांस का गिरना)\n\n• NOTE:- 'sarco' words are related to flesh and soft tissues."
+      }
+    ]
+  },
+  {
+    "topic": "122. Root Word - Thromb",
+    "subtopics": [
+      {
+        "subtopic": "Thromb -> Clot (थक्का)",
+        "content": "• MEANING:- Clot (Greek origin)\n• अर्थ:- थक्का (यूनानी मूल)\n\n• EXAMPLES:-\n1. Thrombosis = thromb(clot) + osis(condition) → Formation of blood clot (रक्त का थक्का बनना)\n2. Thrombin = thromb(clot) + in(substance) → Clotting protein (थ्रोम्बिन)\n3. Thrombocyte = thromb(clot) + cyte(cell) → Clotting cell (थक्का कोशिका)\n4. Thrombectomy = thromb(clot) + ectomy(removal) → Removal of clot (थक्का निकालना)\n5. Thrombolysis = thromb(clot) + lysis(breakdown) → Breakdown of clot (थक्का विघटन)\n\n• NOTE:- 'thromb' words are related to blood clots and clotting."
+      }
+    ]
+  },
+  {
+    "topic": "123. Root Word - Chondro",
+    "subtopics": [
+      {
+        "subtopic": "Chondro -> Cartilage (उपास्थि)",
+        "content": "• MEANING:- Cartilage (Greek origin)\n• अर्थ:- उपास्थि (यूनानी मूल)\n\n• EXAMPLES:-\n1. Chondrology = chondro(cartilage) + logy(study) → Study of cartilage (उपास्थि विज्ञान)\n2. Chondritis = chondro(cartilage) + itis(inflammation) → Cartilage inflammation (उपास्थि सूजन)\n3. Chondrocyte = chondro(cartilage) + cyte(cell) → Cartilage cell (उपास्थि कोशिका)\n4. Chondroma = chondro(cartilage) + oma(tumor) → Cartilage tumor (उपास्थि ट्यूमर)\n5. Chondrogenesis = chondro(cartilage) + genesis(origin) → Formation of cartilage (उपास्थि निर्माण)\n\n• NOTE:- 'chondro' words are related to cartilage and its diseases."
+      }
+    ]
+  },
+  {
+    "topic": "124. Root Word - Lymph",
+    "subtopics": [
+      {
+        "subtopic": "Lymph -> Water, Fluid (जल, तरल)",
+        "content": "• MEANING:- Water, fluid (Greek origin)\n• अर्थ:- जल, तरल (यूनानी मूल)\n\n• EXAMPLES:-\n1. Lymphatic = lymph(water) + atic(related) → Related to lymph (लसीका संबंधी)\n2. Lymphocyte = lymph(water) + cyte(cell) → Lymph cell (लसीका कोशिका)\n3. Lymphoma = lymph(water) + oma(tumor) → Lymph tumor (लसीका ट्यूमर)\n4. Lymphadenitis = lymph(water) + aden(gland) + itis(inflammation) → Lymph gland inflammation (लसीका ग्रंथि सूजन)\n5. Lymphogenesis = lymph(water) + genesis(origin) → Formation of lymph (लसीका निर्माण)\n\n• NOTE:- 'lymph' words are related to water, fluid, and lymphatic system."
+      }
+    ]
+  },
+  {
+    "topic": "125. Root Word - Pyro",
+    "subtopics": [
+      {
+        "subtopic": "Pyro -> Fever (बुखार)",
+        "content": "• MEANING:- Fever (Greek origin)\n• अर्थ:- बुखार (यूनानी मूल)\n\n• EXAMPLES:-\n1. Pyrogen = pyro(fever) + gen(produce) → Substance causing fever (बुखार उत्पन्न करने वाला)\n2. Pyrexia = pyro(fever) + exia(condition) → Fever (बुखार)\n3. Pyromania = pyro(fever) + mania(madness) → Obsession with fire/fever (बुखार/आग का जुनून)\n4. Pyrolysis = pyro(fever) + lysis(breakdown) → Breakdown by heat (ताप विघटन)\n5. Pyrometer = pyro(fever) + meter(measure) → Instrument to measure heat (तापमापी)\n\n• NOTE:- 'pyro' words are related to fever and heat."
+      }
+    ]
+  },
+  {
+    "topic": "126. Root Word - Sclero",
+    "subtopics": [
+      {
+        "subtopic": "Sclero -> Hard (कठोर)",
+        "content": "• MEANING:- Hard (Greek origin)\n• अर्थ:- कठोर (यूनानी मूल)\n\n• EXAMPLES:-\n1. Sclerosis = sclero(hard) + sis(condition) → Hardening of tissue (ऊतक का कठोर होना)\n2. Scleroderma = sclero(hard) + derma(skin) → Hard skin disease (कठोर त्वचा रोग)\n3. Sclerotic = sclero(hard) + tic(related) → Related to hardening (कठोरता संबंधी)\n4. Sclerometer = sclero(hard) + meter(measure) → Instrument to measure hardness (कठोरता मापी)\n5. Sclerocyte = sclero(hard) + cyte(cell) → Hard cell (कठोर कोशिका)\n\n• NOTE:- 'sclero' words are related to hardness and hard tissues."
+      }
+    ]
+  },
+  {
+    "topic": "127. Root Word - Stoma",
+    "subtopics": [
+      {
+        "subtopic": "Stoma -> Mouth (मुख)",
+        "content": "• MEANING:- Mouth (Greek origin)\n• अर्थ:- मुख (यूनानी मूल)\n\n• EXAMPLES:-\n1. Stomatology = stoma(mouth) + logy(study) → Study of mouth (मुख विज्ञान)\n2. Stomatitis = stoma(mouth) + itis(inflammation) → Mouth inflammation (मुख की सूजन)\n3. Stomata = stoma(mouth) + ata(plural) → Small openings in plants (रंध्र)\n4. Stomatoplasty = stoma(mouth) + plasty(repair) → Mouth surgery (मुख की सर्जरी)\n5. Stomodeum = stoma(mouth) + odeum(opening) → Embryonic mouth opening (भ्रूण का मुख छिद्र)\n\n• NOTE:- 'stoma' words are related to mouth and oral conditions."
+      }
+    ]
+  },
+  {
+    "topic": "128. Root Word - Trich",
+    "subtopics": [
+      {
+        "subtopic": "Trich -> Hair (बाल)",
+        "content": "• MEANING:- Hair (Greek origin)\n• अर्थ:- बाल (यूनानी मूल)\n\n• EXAMPLES:-\n1. Trichology = trich(hair) + logy(study) → Study of hair (बाल विज्ञान)\n2. Trichome = trich(hair) + ome(body) → Hair-like outgrowth (बाल जैसा अंग)\n3. Trichiasis = trich(hair) + iasis(condition) → Ingrowth of eyelashes (पलकों का अंदर की ओर बढ़ना)\n4. Trichotomy = trich(hair) + tomy(cut) → Cutting of hair (बाल काटना)\n5. Trichinosis = trich(hair) + inosis(disease) → Disease caused by hair-like worms (ट्राइकिनोसिस)\n\n• NOTE:- 'trich' words are related to hair and its conditions."
       }
     ]
   }
